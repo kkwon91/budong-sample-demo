@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>홈페이지 관리 · AEO Pro 부동산</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+:root{--navy:#14213D;--navy-2:#22335A;--amber:#FFB224;--amber-soft:#FFF4D6;--bg:#F5F6F8;--card:#FFFFFF;--ink:#1D2433;--ink2:#465064;--muted:#677084;--line:#E2E5EB;--ok:#1C6A3E;--ok-bg:#E6F3EA;--warn:#7A5300;--warn-bg:#FFF3DA;--bad:#A3221B;--bad-bg:#FDE9E7;color-scheme:light}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Pretendard Variable',Pretendard,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;font-size:15px;line-height:1.6;word-break:keep-all;overflow-wrap:anywhere}
+h1,h2,h3,p,ul,ol,dl,dd{margin:0}
+ul,ol{padding:0;list-style:none}
+a{color:var(--navy)}
+img{display:block;max-width:100%}
+button{font:inherit;cursor:pointer}
+[hidden]{display:none!important}
+:focus-visible{outline:3px solid var(--amber);outline-offset:2px}
+.top{background:var(--navy);color:#fff}
+.top .in{display:flex;align-items:center;justify-content:space-between;gap:10px 18px;flex-wrap:wrap;padding:12px 20px;max-width:1440px;margin:0 auto}
+.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:17px}
+.brand small{font-weight:500;opacity:.75;font-size:13px}
+.top a{color:#fff}
+.top .who{display:flex;align-items:center;gap:12px;flex-wrap:wrap;font-size:14px}
+.top .open{display:inline-flex;align-items:center;min-height:36px;padding:0 12px;border-radius:8px;background:var(--amber);color:var(--navy);font-weight:700;text-decoration:none}
+.layout{display:grid;grid-template-columns:220px minmax(0,1fr);gap:24px;max-width:1440px;margin:0 auto;padding:24px 20px 48px}
+.nav{display:grid;gap:4px;align-content:start;position:sticky;top:16px}
+.nav button{display:flex;justify-content:space-between;align-items:center;text-align:left;border:0;background:transparent;border-radius:8px;padding:10px 12px;font-weight:600;color:var(--ink2)}
+.nav button[aria-current="page"]{background:var(--card);color:var(--navy);box-shadow:0 1px 0 var(--line),0 0 0 1px var(--line)}
+.nav .cnt{min-width:22px;height:22px;border-radius:11px;background:var(--amber);color:var(--navy);font-size:12px;font-weight:800;display:inline-grid;place-items:center;padding:0 6px}
+.nav .new{font-size:11px;font-weight:800;color:var(--warn);background:var(--amber-soft);border-radius:4px;padding:1px 6px}
+.view{display:grid;grid-template-columns:minmax(0,1fr);gap:18px;min-width:0}
+.view h1{font-size:24px;font-weight:800;color:var(--navy);letter-spacing:-.02em}
+.view .desc{color:var(--muted);margin-top:4px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px}
+.card h2{font-size:14px;color:var(--muted);font-weight:600}
+.card .big{font-size:26px;font-weight:800;color:var(--navy);margin-top:4px;font-variant-numeric:tabular-nums}
+.card .sub{font-size:13.5px;color:var(--ink2);margin-top:4px}
+.pill{display:inline-flex;align-items:center;gap:6px;height:26px;padding:0 10px;border-radius:13px;font-size:12.5px;font-weight:700;white-space:nowrap}
+.pill.ok{background:var(--ok-bg);color:var(--ok)}
+.pill.new{background:var(--amber-soft);color:var(--warn)}
+.pill.off{background:#EEF0F3;color:var(--muted)}
+.pill::before{content:'';width:7px;height:7px;border-radius:50%;background:currentColor}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;min-width:0}
+.panel h2{font-size:17px;font-weight:800;color:var(--navy)}
+.todo{background:var(--amber-soft);border-radius:12px;padding:16px 18px;font-weight:600;color:var(--navy)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:42px;padding:0 16px;border-radius:8px;border:1px solid var(--navy);background:var(--navy);color:#fff;font-weight:700;text-decoration:none;white-space:nowrap}
+.btn.line{background:#fff;color:var(--navy)}
+.btn.amber{background:var(--amber);border-color:var(--amber);color:var(--navy)}
+.btn[disabled]{opacity:.55;cursor:default}
+.row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.designs{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));gap:16px}
+.dz{background:var(--card);border:2px solid var(--line);border-radius:14px;overflow:hidden;display:grid}
+.dz.on{border-color:var(--navy)}
+.dz .shot{position:relative;aspect-ratio:16/11;overflow:hidden;background:#E9ECF1}
+.dz .shot iframe{position:absolute;left:0;top:0;width:1280px;height:880px;border:0;transform-origin:0 0;pointer-events:none}
+.dz .bd{padding:16px;display:grid;gap:8px}
+.dz h3{font-size:17px;color:var(--navy)}
+.dz p{font-size:13.5px;color:var(--ink2)}
+.tbl-wrap{position:relative;overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+table{border-collapse:collapse;width:100%;min-width:720px;font-size:14px}
+th,td{padding:10px 14px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle}
+thead th{background:#F8F9FB;color:var(--muted);font-size:12.5px;font-weight:700}
+tbody tr:last-child>*{border-bottom:0}
+td .th{width:64px;height:46px;border-radius:6px;object-fit:cover}
+tr.gone td{color:var(--muted)}
+tr.gone .ttl{text-decoration:line-through}
+.log{background:var(--navy);color:#E6EAF2;border-radius:12px;padding:16px 18px;font-family:'SFMono-Regular',Consolas,monospace;font-size:13px;line-height:1.75;white-space:pre-wrap}
+.log b{color:var(--amber)}
+.rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(200px,100%),1fr));gap:10px}
+.rules div{background:#F8F9FB;border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.rules b{display:block;color:var(--navy)}
+.rules span{font-size:13.5px;color:var(--ink2)}
+.form{display:grid;gap:12px;max-width:720px}
+.form label{display:grid;gap:6px;font-weight:600;font-size:14px}
+.form input,.form textarea{font:inherit;font-size:15px;border:1px solid #C9CED7;border-radius:8px;padding:10px 12px;min-height:44px;background:#fff;color:var(--ink)}
+.form textarea{min-height:80px}
+.note{font-size:13px;color:var(--muted)}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--navy);color:#fff;border-radius:10px;padding:12px 16px;font-weight:600;box-shadow:0 10px 30px rgba(20,33,61,.3);z-index:20;max-width:calc(100% - 32px)}
+.toast a{color:var(--amber)}
+pre.code{margin:0;background:#0F1A31;color:#E6EAF2;border-radius:12px;padding:16px;font-size:12.5px;line-height:1.6;overflow:auto;max-height:520px;white-space:pre-wrap}
+.seg{display:inline-flex;gap:6px;flex-wrap:wrap}
+.seg button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 12px;font-weight:600;color:var(--ink2)}
+.seg button[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:#fff}
+.tx-bar{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between}
+.tx-frame{border:2px solid var(--amber);border-radius:12px;overflow:hidden;background:#fff;height:max(560px,calc(100vh - 250px))}
+.tx-frame iframe{width:100%;height:100%;border:0;display:block}
+.tx-list{display:grid;gap:8px;margin-top:12px}
+.tx-list li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.tx-list b{color:var(--navy);font-size:14px}
+.tx-list .v{display:block;font-size:13.5px;color:var(--ink2);white-space:pre-line}
+.login{min-height:100vh;display:grid;place-items:center;padding:24px;background:var(--navy)}
+.login .box{background:#fff;border-radius:16px;padding:32px;width:min(400px,100%);display:grid;gap:14px}
+.login h1{font-size:20px;color:var(--navy)}
+.login label{display:grid;gap:6px;font-weight:600}
+.login input{font:inherit;border:1px solid #C9CED7;border-radius:8px;padding:10px 12px;min-height:44px}
+.inq{display:grid;gap:10px}
+.inq li{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 16px;align-items:center}
+.inq .who{font-weight:700;color:var(--navy)}
+.inq .m{font-size:13.5px;color:var(--ink2)}
+.embed .top .open{display:none}
+@media (max-width:860px){.layout{grid-template-columns:1fr;padding-top:16px}.nav{position:static;grid-auto-flow:column;grid-auto-columns:max-content;overflow-x:auto;padding-bottom:4px}}
+</style>
+</head>
+<body>
+<div class="login" id="login">
+  <form class="box" id="login-form">
+    <h1>AEO Pro 부동산 · 홈페이지 관리</h1>
+    <p class="note">예시 계정이 채워져 있습니다. 그대로 들어가 보세요.</p>
+    <label for="lg-id">아이디<input id="lg-id" value="demo" autocomplete="username"></label>
+    <label for="lg-pw">비밀번호<input id="lg-pw" type="password" value="demo1234" autocomplete="current-password"></label>
+    <button class="btn" type="submit">들어가기</button>
+  </form>
+</div>
+<div id="app" hidden>
+<header class="top"><div class="in">
+  <div class="brand"><svg width="28" height="28" viewBox="0 0 48 48" aria-hidden="true"><path d="M24 4.2 L43.6 17.6 Q45 18.6 45 20.3 L45 35.6 Q45 38 42.6 38 L20.6 38 L12.4 44.6 Q11.6 45.2 11.7 44.2 L12.4 38 L5.4 38 Q3 38 3 35.6 L3 20.3 Q3 18.6 4.4 17.6 Z" fill="#FFFFFF"/><rect x="18.6" y="20.4" width="10.8" height="10.8" rx="1.4" fill="#FFB224"/></svg>AEO Pro 부동산 <small>홈페이지 관리</small></div>
+  <div class="who"><span id="who-name"></span><a class="open" id="open-site" href="../a/index.html" target="_blank" rel="noopener">내 홈페이지 보기 ↗</a></div>
+</div></header>
+<div class="layout">
+  <nav class="nav" aria-label="관리 메뉴">
+    <button type="button" data-v="home" aria-current="page">대시보드</button>
+    <button type="button" data-v="text">문구 수정 <span class="new">글자·사진</span></button>
+    <button type="button" data-v="design">디자인 바꾸기</button>
+    <button type="button" data-v="listings">매물 · 네이버 연동</button>
+    <button type="button" data-v="inq">상담 신청 <span class="cnt" id="inq-cnt" hidden></span></button>
+    <button type="button" data-v="info">중개소 정보</button>
+    <button type="button" data-v="posts">글 관리</button>
+    <button type="button" data-v="ai">AI가 읽는 정보</button>
+  </nav>
+  <main>
+    <section class="view" data-view="home">
+      <div><h1>대시보드</h1><p class="desc">매물은 네이버에서 올리고 내리시면 됩니다. 홈페이지는 저희가 맞춥니다.</p></div>
+      <div class="todo" id="todo">지금 하실 일은 없습니다.</div>
+      <div class="cards">
+        <div class="card"><h2>네이버 부동산 연동</h2><div class="big" id="d-live">8건 게시</div><p class="sub"><span class="pill ok">연결됨</span> 마지막 확인 <span id="d-sync"></span></p></div>
+        <div class="card"><h2>이번 주 AI 답변</h2><div class="big">3 / 10회</div><p class="sub">내 매물 언급 · 매물 링크 1회 · 대신 나온 곳 △△ 5회(예시)</p></div>
+        <div class="card"><h2>새 상담 신청</h2><div class="big" id="d-inq">0건</div><p class="sub">홈페이지 상담 신청 양식으로 들어온 것</p></div>
+        <div class="card"><h2>지금 쓰는 디자인</h2><div class="big" id="d-design"></div><p class="sub"><button class="btn line" type="button" data-go="design" style="min-height:34px;margin-top:4px">디자인 바꾸기</button> <button class="btn line" type="button" data-go="text" style="min-height:34px;margin-top:4px">문구 수정</button></p></div>
+      </div>
+      <div class="panel"><h2>이번 주 자동으로 한 일</h2><ul id="d-auto" style="margin-top:10px;display:grid;gap:6px"></ul></div>
+    </section>
+
+    <section class="view" data-view="text" hidden>
+      <div><h1>문구 수정</h1><p class="desc">아래 홈페이지 화면에서 점선으로 표시된 글자를 눌러 바로 고치세요. 고친 내용은 바로 저장됩니다. 사진(점선 테두리)은 눌러서 바꿉니다. 매물 정보는 네이버에서 고치면 자동으로 바뀝니다.</p></div>
+      <div class="panel tx-bar">
+        <div class="seg" role="group" aria-label="고칠 화면"><button type="button" data-tp="" aria-pressed="true">홈</button><button type="button" data-tp="about/" aria-pressed="false">사무소 소개</button><button type="button" data-tp="listings/" aria-pressed="false">매물 정보</button></div>
+        <div class="row"><span class="note" id="tx-count"></span><a class="btn line" id="tx-open" href="../a/index.html#edit" target="_blank" rel="noopener">새 창에서 크게 고치기 ↗</a><button class="btn line" type="button" id="tx-reset">모두 처음 문구로</button></div>
+      </div>
+      <div class="tx-frame"><iframe id="tx-frame" data-embed title="문구 수정 화면"></iframe></div>
+      <div class="panel"><h2>바뀐 곳</h2><p class="note" style="margin-top:4px">실제 서비스에서는 저장하면 홈페이지 HTML과 AI가 읽는 정보(llms.txt·구조화 데이터)도 함께 다시 만들어집니다. 시연에서는 이 브라우저에만 저장됩니다.</p><ul id="tx-list" class="tx-list"></ul></div>
+    </section>
+
+    <section class="view" data-view="design" hidden>
+      <div><h1>디자인 바꾸기</h1><p class="desc">세 디자인 모두 내용·매물·주소·AI가 읽는 정보는 같습니다. 겉모습만 바뀝니다. 고친 문구도 그대로 따라갑니다.</p></div>
+      <div class="designs" id="designs"></div>
+    </section>
+
+    <section class="view" data-view="listings" hidden>
+      <div><h1>매물 · 네이버 연동</h1><p class="desc">네이버 부동산에 올린 매물이 홈페이지에 자동으로 올라가고, 내리면 함께 내려갑니다.</p></div>
+      <div class="panel" style="display:grid;gap:14px">
+        <div class="row" style="justify-content:space-between"><div><span class="pill ok">연결됨</span> <b>네이버 부동산 중개사 · <span data-name></span></b><div class="note" style="margin-top:4px">마지막 확인 <span id="l-sync"></span> · 하루 네 번 자동 확인</div></div>
+        <div class="row"><button class="btn amber" type="button" id="sync">지금 네이버와 맞추기(시연)</button><button class="btn line" type="button" id="reset" hidden>시연 되돌리기</button></div></div>
+        <div class="rules">
+          <div><b>올리면 게시</b><span>네이버에 올린 사진·가격·면적·층·설명을 가져와 매물 페이지를 만듭니다.</span></div>
+          <div><b>내리면 내림</b><span>네이버에서 내리거나 거래가 끝나면 홈페이지에서도 내립니다.</span></div>
+          <div><b>표시 사항 자동</b><span>공인중개사법 표시 사항을 매물마다 채웁니다.</span></div>
+          <div><b>끊기면 먼저 내림</b><span>연동이 끊기면 매물을 먼저 내리고 카카오톡으로 알려 드립니다.</span></div>
+        </div>
+        <pre class="log" id="log" hidden></pre>
+      </div>
+      <div class="tbl-wrap" tabindex="0" role="region" aria-label="매물 목록"><table><thead><tr><th scope="col">사진</th><th scope="col">매물</th><th scope="col">가격</th><th scope="col">상태</th><th scope="col">네이버 등록</th><th scope="col">홈페이지</th></tr></thead><tbody id="l-rows"></tbody></table></div>
+    </section>
+
+    <section class="view" data-view="inq" hidden>
+      <div><h1>상담 신청</h1><p class="desc">홈페이지 상담 신청 양식으로 들어온 신청입니다. 예시 홈페이지에서 직접 보내 보면 여기에 바로 생깁니다.</p></div>
+      <ul class="inq" id="inq"></ul>
+    </section>
+
+    <section class="view" data-view="info" hidden>
+      <div><h1>중개소 정보</h1><p class="desc">여기서 고치면 홈페이지 모든 페이지와 AI가 읽는 정보, 등록된 디렉토리 정보가 함께 바뀝니다(시연에서는 홈페이지 글자만 바뀝니다).</p></div>
+      <form class="form panel" id="info">
+        <label for="f-name">상호<input id="f-name" name="name"></label>
+        <label for="f-ceo">대표 공인중개사<input id="f-ceo" name="ceo"></label>
+        <label for="f-regNo">중개사무소 개설등록번호<input id="f-regNo" name="regNo"></label>
+        <label for="f-address">소재지<input id="f-address" name="address"></label>
+        <label for="f-phone">전화<input id="f-phone" name="phone"></label>
+        <label for="f-hours">영업시간<input id="f-hours" name="hours"></label>
+        <label for="f-intro">소개 한 줄<textarea id="f-intro" name="intro"></textarea></label>
+        <div class="row"><button class="btn" type="submit">저장하고 홈페이지에 반영</button><button class="btn line" type="button" id="info-reset">처음 값으로</button></div>
+      </form>
+    </section>
+
+    <section class="view" data-view="posts" hidden>
+      <div><h1>글 관리</h1><p class="desc">새 매물이 올라오면 매물 소개글을, 매주 동네 글을 써서 올립니다. 원하시면 올리기 전에 확인하도록 바꿀 수 있습니다.</p></div>
+      <div class="tbl-wrap"><table><thead><tr><th scope="col">종류</th><th scope="col">제목</th><th scope="col">날짜</th><th scope="col">상태</th></tr></thead><tbody id="p-rows"></tbody></table></div>
+    </section>
+
+    <section class="view" data-view="ai" hidden>
+      <div><h1>AI가 읽는 정보</h1><p class="desc">ChatGPT·Gemini·Claude는 화면 대신 이 내용을 읽고 답에 씁니다. 매물·정보가 바뀌면 함께 바뀝니다.</p></div>
+      <div class="seg" role="group" aria-label="보기"><button type="button" data-ai="llms" aria-pressed="true">llms.txt</button><button type="button" data-ai="ld" aria-pressed="false">구조화 데이터(홈)</button><button type="button" data-ai="robots" aria-pressed="false">robots.txt</button></div>
+      <pre class="code" id="ai-out">불러오는 중…</pre>
+    </section>
+  </main>
+</div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<script type="application/json" id="data">{"agency":{"name":"○○공인중개사사무소","short":"○○공인중개사","initial":"○","tagline":"잠실 리센츠 전문","ceo":"○○○","regNo":"11710-0000-00000","address":"서울특별시 송파구 올림픽로 135, 리센츠상가 1층 A-77호","addressShort":"리센츠상가 1층 A-77호","postal":"05505","phone":"02-000-0000","hours":"평일 09:30–19:00 · 토요일 10:00–17:00 · 일요일은 예약 상담","hoursSpec":[{"days":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:30","closes":"19:00"},{"days":["Saturday"],"opens":"10:00","closes":"17:00"}],"intro":"2008년 리센츠 입주 때부터 리센츠상가 1층에서 매매·전세·월세를 중개하고 있습니다. 학교 쪽 동과 역 쪽 동, 층과 향에 따라 달라지는 점을 직접 보고 설명해 드립니다.","greeting":"리센츠에서 집을 찾거나 내놓으실 때, 같은 단지 안에서 바로 보고 바로 답해 드리는 것이 저희 일입니다. 매물은 네이버 부동산에 올린 그대로 이 홈페이지에도 올라오고, 거래가 끝나면 함께 내려갑니다.","areas":["리센츠","엘스","트리지움"],"geo":{"lat":37.513251,"lng":127.08675},"domain":"our-agency.aeo.kr","naverUrl":"https://fin.land.naver.com/"},"base":{"date":"2026-10-19","checkedAt":"2026-10-19 09:10","source":"리치고 호가 집계"},"designs":{"a":{"name":"정통 신뢰형","suits":"단지 상가에서 오래 자리를 지켜 온 사무소. 경력·약속·대표 인사말을 앞에 두어 믿음을 먼저 줍니다."},"b":{"name":"사진 중심","suits":"매물 사진이 좋은 사무소. 첫 화면부터 단지 사진과 매물이 크게 보입니다."},"c":{"name":"생활 밀착형","suits":"동네 손님이 많은 사무소. 신혼·학군·갈아타기처럼 상황별 안내와 매물 목록이 먼저 보입니다."}},"listings":[{"id":"l1","title":"리센츠 33평 매매 · 18층 남향","price":"매매 34억 5,000만원","photo":"living","state":"live","posted":"2026-10-12"},{"id":"l2","title":"리센츠 24평 매매 · 9층 남동향","price":"매매 29억 5,000만원","photo":"room","state":"live","posted":"2026-10-15"},{"id":"l3","title":"리센츠 48평 매매 · 22층 남향","price":"매매 44억","photo":"living","state":"live","posted":"2026-10-09"},{"id":"l4","title":"리센츠 12평 매매 · 7층 동향","price":"매매 16억 5,000만원","photo":"room","state":"live","posted":"2026-10-16"},{"id":"l5","title":"리센츠 33평 전세 · 11층 남서향","price":"전세 12억 5,000만원","photo":"room","state":"live","posted":"2026-10-11"},{"id":"l6","title":"리센츠 24평 전세 · 14층 남향","price":"전세 9억 8,000만원","photo":"facade","state":"live","posted":"2026-10-17"},{"id":"l7","title":"리센츠 33평 월세 · 6층 남향","price":"보증금 5억 / 월 250만원","photo":"living","state":"live","posted":"2026-10-18"},{"id":"l8","title":"리센츠 33평 매매 · 3층 남향","price":"매매 33억","photo":"danji","state":"sold-demo","posted":"2026-10-05"},{"id":"n1","title":"리센츠 48평 매매 · 27층 남향","price":"매매 46억 5,000만원","photo":"living","state":"new-demo","posted":"2026-10-19"}],"stories":[{"slug":"recentz-33-18f-south","kind":"매물 이야기","title":"리센츠 33평 18층 남향, 이 매물은 이렇게 보세요","date":"2026-10-14"},{"slug":"jamsilsaenae-school-transport","kind":"동네 이야기","title":"잠실새내역 생활권, 학교·교통 한눈에 보기","date":"2026-10-13"},{"slug":"recentz-october-asking","kind":"시세","title":"리센츠 10월 호가 흐름: 33평 32억~38억","date":"2026-10-19"}],"drafts":[{"kind":"동네 이야기","title":"리센츠 24평, 학교 쪽 동과 역 쪽 동 비교","when":"10.27 게시 예정"}],"photos":{"living":"budong-living.jpg","room":"budong-room.jpg","facade":"budong-facade.jpg","danji":"budong-danji.jpg","keys":"budong-keys.jpg"},"bindLabels":{"name":"상호","ceo":"대표","regNo":"개설등록번호","address":"주소","addressShort":"위치","phone":"전화","hours":"영업시간","intro":"소개 한 줄"}}</script>
+<script>
+(function(){
+var D=JSON.parse(document.getElementById('data').textContent),K='aeoSample.v1',S={};
+try{S=JSON.parse(localStorage.getItem(K)||'{}')||{}}catch(e){S={}}
+function save(){try{localStorage.setItem(K,JSON.stringify(S))}catch(e){}}
+var embedded=false;try{embedded=!!(window.frameElement&&window.frameElement.hasAttribute('data-embed'))}catch(e){}
+if(embedded){document.documentElement.classList.add('embed');S.authed=true;}
+var $=function(s){return document.querySelector(s)},$$=function(s){return [].slice.call(document.querySelectorAll(s))};
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function ag(k){return (S.agency&&S.agency[k])||D.agency[k]}
+function design(){return S.design||'a'}
+function toast(html){var t=$('#toast');t.innerHTML=html;t.hidden=false;clearTimeout(toast.t);toast.t=setTimeout(function(){t.hidden=true},5200)}
+function syncTime(){return S.synced?S.syncedAt:D.base.checkedAt.replace(/-/g,'.')}
+var current='home';
+function show(v){current=v;$$('.view').forEach(function(s){s.hidden=s.getAttribute('data-view')!==v});$$('.nav button').forEach(function(b){if(b.getAttribute('data-v')===v)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current')});
+  if(v==='design')renderDesigns();if(v==='text'&&!$('#tx-frame').getAttribute('src'))loadTx();if(v==='ai')loadAi('llms');renderLight();}
+$$('.nav button').forEach(function(b){b.addEventListener('click',function(){show(b.getAttribute('data-v'))})});
+document.addEventListener('click',function(e){var g=e.target.closest('[data-go]');if(g)show(g.getAttribute('data-go'))});
+function start(){$('#login').hidden=true;$('#app').hidden=false;renderLight();var h=(location.hash||'').slice(1);if(h&&document.querySelector('.view[data-view="'+h+'"]'))show(h);}
+$('#login-form').addEventListener('submit',function(e){e.preventDefault();S.authed=true;save();start();});
+function stateOf(l){if(l.state==='sold-demo')return S.synced?'gone':'live';if(l.state==='new-demo')return S.synced?'new':'wait';return 'live'}
+function renderLight(){
+  var d=design();$('#who-name').textContent=ag('name');$('#open-site').href='../'+d+'/index.html';
+  $$('[data-name]').forEach(function(n){n.textContent=ag('name')});
+  var live=D.listings.filter(function(l){var s=stateOf(l);return s==='live'||s==='new'}).length;
+  $('#d-live').textContent=live+'건 게시';$('#d-sync').textContent=syncTime();$('#l-sync').textContent=syncTime();
+  var inq=(S.inquiries||[]),fresh=inq.filter(function(q){return !q.done}).length;$('#d-inq').textContent=fresh+'건';
+  var c=$('#inq-cnt');c.textContent=fresh;c.hidden=!fresh;
+  $('#todo').textContent=fresh?('새 상담 신청이 '+fresh+'건 있습니다. 상담 신청 메뉴에서 확인하세요.'):'지금 하실 일은 없습니다. 매물은 네이버에서 올리고 내리시면 됩니다.';
+  $('#d-design').textContent=d.toUpperCase()+' · '+D.designs[d].name;
+  var auto=S.synced?['네이버 새 매물 1건 → 홈페이지에 게시(리센츠 48평 매매 46억 5,000만원)','거래 완료 1건 → 홈페이지에서 내림(리센츠 33평 매매 33억, 3층)','새 매물 소개글 초안 1편 작성(글 관리)','동네 글 1편 게시 · 구조화 데이터·사이트맵·llms.txt 갱신']:['동네 글 1편 게시(잠실새내역 생활권, 학교·교통)','시세 글 1편 게시(리센츠 10월 호가 흐름)','구조화 데이터·사이트맵·llms.txt 갱신','디렉토리 5곳 정보 일치 확인'];
+  $('#d-auto').innerHTML=auto.map(function(x){return '<li>· '+esc(x)+'</li>'}).join('');
+  $('#l-rows').innerHTML=D.listings.filter(function(l){return stateOf(l)!=='wait'}).map(function(l){var s=stateOf(l);var pill=s==='new'?'<span class="pill new">새로 게시</span>':s==='gone'?'<span class="pill off">거래 완료 · 내림</span>':'<span class="pill ok">게시 중</span>';
+    return '<tr'+(s==='gone'?' class="gone"':'')+'><td><img class="th" src="../assets/'+D.photos[l.photo]+'" alt=""></td><td class="ttl">'+esc(l.title)+'</td><td>'+esc(l.price)+'</td><td>'+pill+'</td><td>'+esc(l.posted.replace(/-/g,'.'))+'</td><td>'+(s==='gone'?'<span class="note">내려감</span>':'<a href="../'+d+'/listings/'+l.id+'/index.html" target="_blank" rel="noopener">매물 페이지 ↗</a>')+'</td></tr>'}).join('');
+  $('#sync').disabled=!!S.synced;$('#reset').hidden=!S.synced;
+  var lg=$('#log');if(S.synced){lg.hidden=false;lg.innerHTML='<b>'+esc(S.syncedAt)+'</b> 네이버 부동산 매물 9건 확인\n  · 새 매물 1건 → 홈페이지에 게시: 리센츠 48평 매매 46억 5,000만원 · 27층\n  · 거래 완료 1건 → 홈페이지에서 내림: 리센츠 33평 매매 33억 · 3층\n  · 표시 사항 자동 기입, 구조화 데이터·사이트맵·llms.txt 갱신\n  · 새 매물 소개글 초안 작성 → 글 관리';}else lg.hidden=true;
+  var ex=[{kind:'매수 상담',name:'김○○',phone:'010-****-1234',listing:'l1',memo:'주말 방문 가능할까요?',at:'2026-10-19T00:12:00Z',src:'ChatGPT 답변 → 매물 페이지',example:true},{kind:'전세·월세 구하기',name:'이○○',phone:'010-****-5678',listing:'l5',memo:'12월 중순 입주 가능 여부',at:'2026-10-18T05:40:00Z',src:'홈페이지',example:true}];
+  var all=inq.map(function(q,i){q.i=i;return q}).concat(ex);
+  $('#inq').innerHTML=all.map(function(q){var l=D.listings.filter(function(x){return x.id===q.listing})[0];var at=new Date(q.at);var when=isNaN(at)?'':at.toLocaleString('ko-KR',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'});
+    return '<li><div><div class="who">'+(q.kind?'['+esc(q.kind)+'] ':'')+esc(q.name)+' · '+esc(q.phone)+(q.example?' <span class="pill off">예시</span>':(q.done?' <span class="pill ok">연락함</span>':' <span class="pill new">새 신청</span>'))+'</div><div class="m">'+(l?esc(l.title)+' · ':'')+esc(q.memo||'')+'</div><div class="note">'+esc(when)+' · '+esc(q.src||('홈페이지 디자인 '+String(q.design||'').toUpperCase()))+'</div></div>'+(q.example?'':'<button class="btn line" type="button" data-done="'+q.i+'"'+(q.done?' disabled':'')+'>'+(q.done?'연락함':'연락함으로 표시')+'</button>')+'</li>'}).join('');
+  $('#p-rows').innerHTML=D.stories.map(function(s){return '<tr><td>'+esc(s.kind)+'</td><td><a href="../'+d+'/stories/'+s.slug+'/index.html" target="_blank" rel="noopener">'+esc(s.title)+'</a></td><td>'+esc(s.date.replace(/-/g,'.'))+'</td><td><span class="pill ok">게시됨</span></td></tr>'}).join('')
+    +(S.synced?'<tr><td>매물 이야기</td><td>리센츠 48평 27층 남향, 이 매물은 이렇게 보세요</td><td>오늘</td><td><span class="pill new">확인 대기</span></td></tr>':'')
+    +D.drafts.map(function(p){return '<tr><td>'+esc(p.kind)+'</td><td>'+esc(p.title)+'</td><td>'+esc(p.when)+'</td><td><span class="pill off">예약</span></td></tr>'}).join('');
+  ['name','ceo','regNo','address','phone','hours','intro'].forEach(function(k){var el=document.getElementById('f-'+k);if(el&&document.activeElement!==el)el.value=ag(k)});
+  renderTx();
+}
+function renderDesigns(){var d=design();
+  $('#designs').innerHTML=Object.keys(D.designs).map(function(k){var on=k===d;return '<div class="dz'+(on?' on':'')+'"><div class="shot"><iframe data-embed src="../'+k+'/index.html" title="'+esc(D.designs[k].name)+' 미리보기" tabindex="-1" loading="lazy"></iframe></div><div class="bd"><h3>'+k.toUpperCase()+' · '+esc(D.designs[k].name)+(on?' <span class="pill ok">사용 중</span>':'')+'</h3><p>'+esc(D.designs[k].suits)+'</p><div class="row">'+(on?'<button class="btn" type="button" disabled>지금 쓰는 디자인</button>':'<button class="btn" type="button" data-use="'+k+'">이 디자인으로 바꾸기</button>')+'<a class="btn line" href="../'+k+'/index.html" target="_blank" rel="noopener">크게 보기 ↗</a></div></div></div>'}).join('');
+  fitShots();}
+function fitShots(){$$('.dz .shot').forEach(function(sh){var f=sh.querySelector('iframe');var s=sh.clientWidth/1280;f.style.transform='scale('+s+')';})}
+window.addEventListener('resize',fitShots);
+// 문구 수정: 홈페이지를 #edit 로 띄우고, 고친 내용은 같은 저장소(localStorage)에서 읽어 목록으로 보여 준다
+var txPage='';
+function txSrc(){return '../'+design()+'/'+txPage+'index.html#edit'}
+function loadTx(){var f=$('#tx-frame');f.setAttribute('src',txSrc());$('#tx-open').href=txSrc();}
+function reloadTx(){var f=$('#tx-frame');if(!f.getAttribute('src'))return;try{f.contentWindow.location.reload()}catch(e){loadTx()}}
+$$('[data-tp]').forEach(function(b){b.addEventListener('click',function(){txPage=b.getAttribute('data-tp');$$('[data-tp]').forEach(function(x){x.setAttribute('aria-pressed',x===b?'true':'false')});loadTx();});});
+function renderTx(){var T=S.texts||{},A=S.agency||{},I=S.images||{};
+  var items=Object.keys(T).map(function(k){return {t:'text',k:k,l:T[k].l||k,v:T[k].v,p:T[k].p||''}})
+    .concat(Object.keys(A).filter(function(k){return k!=='short'}).map(function(k){return {t:'bind',k:k,l:'중개소 정보 · '+(D.bindLabels[k]||k),v:A[k],p:'모든 화면'}}))
+    .concat(Object.keys(I).map(function(k){return {t:'img',k:k,l:'사진 바꿈',v:'',p:k}}));
+  $('#tx-count').textContent='바뀐 곳 '+items.length+'개';
+  $('#tx-list').innerHTML=items.length?items.map(function(x){return '<li><div><b>'+esc(x.l)+'</b>'+(x.v?'<span class="v">'+esc(x.v)+'</span>':'')+(x.p?'<span class="note">'+esc(x.p)+'</span>':'')+'</div><button class="btn line" type="button" data-undo="'+x.t+':'+esc(x.k)+'">처음대로</button></li>'}).join(''):'<li><div class="note">아직 바꾼 곳이 없습니다. 위 화면에서 점선 글자를 눌러 고쳐 보세요.</div></li>';}
+document.addEventListener('click',function(e){
+  var u=e.target.closest('[data-use]');if(u){S.design=u.getAttribute('data-use');save();renderDesigns();renderLight();if($('#tx-frame').getAttribute('src'))loadTx();toast('디자인을 '+S.design.toUpperCase()+' · '+esc(D.designs[S.design].name)+'(으)로 바꿨습니다. 고친 문구는 그대로 따라갑니다. <a href="../'+S.design+'/index.html" target="_blank" rel="noopener">홈페이지 열기 ↗</a>');}
+  var dn=e.target.closest('[data-done]');if(dn){var q=(S.inquiries||[])[+dn.getAttribute('data-done')];if(q){q.done=true;save();renderLight();}}
+  var un=e.target.closest('[data-undo]');if(un){var p=un.getAttribute('data-undo').split(':'),t=p[0],k=p.slice(1).join(':');var box=t==='text'?S.texts:t==='img'?S.images:S.agency;if(box){delete box[k];if(t==='bind'&&k==='name'&&S.agency)delete S.agency.short;}save();renderLight();reloadTx();toast('처음 문구로 되돌렸습니다.');}
+});
+$('#tx-reset').addEventListener('click',function(){delete S.texts;delete S.images;delete S.agency;save();renderLight();reloadTx();toast('모든 문구와 사진을 처음대로 되돌렸습니다.');});
+window.addEventListener('storage',function(e){if(e.key!==K)return;var keepAuth=S.authed;try{S=JSON.parse(e.newValue||'{}')||{}}catch(_){S={}}if(keepAuth)S.authed=true;renderLight();});
+$('#sync').addEventListener('click',function(){var n=new Date();S.synced=true;S.syncedAt=n.getFullYear()+'.'+String(n.getMonth()+1).padStart(2,'0')+'.'+String(n.getDate()).padStart(2,'0')+' '+String(n.getHours()).padStart(2,'0')+':'+String(n.getMinutes()).padStart(2,'0');save();renderLight();toast('네이버와 맞췄습니다. 새 매물 1건 게시, 거래 완료 1건 내림. <a href="../'+design()+'/listings/index.html" target="_blank" rel="noopener">홈페이지 매물 보기 ↗</a>');});
+$('#reset').addEventListener('click',function(){S.synced=false;delete S.syncedAt;save();renderLight();toast('시연 전 상태로 되돌렸습니다.');});
+$('#info').addEventListener('submit',function(e){e.preventDefault();var f=e.target;S.agency=S.agency||{};['name','ceo','regNo','address','phone','hours','intro'].forEach(function(k){var v=f.elements[k].value.trim();if(v&&v!==D.agency[k])S.agency[k]=v;else delete S.agency[k];});
+  if(S.agency.name){S.agency.short=S.agency.name.replace(/사무소$/,'');}else delete S.agency.short;save();renderLight();toast('저장했습니다. <a href="../'+design()+'/index.html" target="_blank" rel="noopener">홈페이지에서 확인 ↗</a>');});
+$('#info-reset').addEventListener('click',function(){delete S.agency;save();renderLight();toast('처음 값으로 되돌렸습니다.');});
+function loadAi(k){$$('[data-ai]').forEach(function(b){b.setAttribute('aria-pressed',b.getAttribute('data-ai')===k?'true':'false')});var out=$('#ai-out');out.textContent='불러오는 중…';var d=design();
+  var url=k==='llms'?'../'+d+'/llms.txt':k==='robots'?'../'+d+'/robots.txt':'../'+d+'/index.html';
+  fetch(url).then(function(r){return r.text()}).then(function(t){if(k==='ld'){var m=t.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);t=m?JSON.stringify(JSON.parse(m[1]),null,2):'(없음)';}out.textContent=t;}).catch(function(){out.textContent='불러오지 못했습니다. 홈페이지 파일과 같은 곳에서 열어 주세요.';});}
+$$('[data-ai]').forEach(function(b){b.addEventListener('click',function(){loadAi(b.getAttribute('data-ai'))})});
+addEventListener('hashchange',function(){if($('#app').hidden)return;var h=(location.hash||'').slice(1);if(h&&document.querySelector('.view[data-view="'+h+'"]'))show(h);else if(!h)show('home');});
+if(S.authed)start();
+})();
+</script>
+</body>
+</html>
