@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>중개사 홈페이지 시안 · AEO Pro 부동산</title>
 <meta name="robots" content="noindex, nofollow">
-<meta name="description" content="같은 중개소·같은 매물로 만든 예시 중개사 홈페이지 디자인 3종과 관리자 화면(문구 수정·네이버 매물 연동 시연).">
+<meta name="description" content="같은 중개소·같은 매물로 만든 예시 중개사 홈페이지 디자인 3종과 관리자 화면 — 세 단지 매매·전세·월세 시세, 동네 소식 자동 글, 문구 수정, 네이버 매물 연동 시연.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="예시 중개사 홈페이지 · 디자인 3종 | AEO Pro 부동산">
-<meta property="og:description" content="같은 중개소·같은 매물로 만든 예시 중개사 홈페이지 디자인 3종과 관리자 화면(문구 수정·네이버 매물 연동 시연).">
+<meta property="og:description" content="같은 중개소·같은 매물로 만든 예시 중개사 홈페이지 디자인 3종과 관리자 화면 — 세 단지 매매·전세·월세 시세, 동네 소식 자동 글, 문구 수정, 네이버 매물 연동 시연.">
 <meta property="og:image" content="https://kkwon91.github.io/budong-sample-demo/assets/share-og.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -76,7 +76,21 @@
 .sp .steps li::before{content:counter(s);display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--navy);color:#FFFFFF;font-weight:800;font-size:14px;margin-bottom:8px}
 .sp .steps b{display:block;color:var(--navy)}
 .sp .steps span{font-size:14px;color:var(--ink2)}
-.sp .go{display:inline-flex;align-items:center;min-height:46px;padding:0 18px;border-radius:8px;border:0;background:var(--amber);color:var(--navy);font-family:inherit;font-weight:800;font-size:15px;line-height:1;cursor:pointer;margin-top:18px}
+.sp .go{display:inline-flex;align-items:center;min-height:46px;padding:0 18px;border-radius:8px;border:1px solid var(--amber);background:var(--amber);color:var(--navy);font-family:inherit;font-weight:800;font-size:15px;line-height:1;cursor:pointer}
+.sp .go.line{background:#FFFFFF;border-color:var(--navy)}
+.sp .gos{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+.sp .tw{position:relative;overflow-x:auto;margin-top:22px;border:1px solid var(--line);border-radius:12px}
+.sp table{border-collapse:collapse;width:100%;min-width:680px;font-size:14.5px;font-variant-numeric:tabular-nums}
+.sp th,.sp td{padding:10px 14px;border-bottom:1px solid var(--line);text-align:left}
+.sp thead th{background:var(--cream);color:var(--muted);font-size:13px;font-weight:700}
+.sp tbody tr:last-child>*{border-bottom:0}
+.sp tbody th{color:var(--navy)}
+.sp .small{font-size:13.5px;color:var(--muted);margin-top:10px}
+.sp .news{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));gap:12px;margin-top:22px}
+.sp .news li{border:1px solid var(--line);border-radius:10px;padding:14px 16px;background:#FFFFFF;display:grid;gap:4px;align-content:start}
+.sp .news .k{font-size:13px;color:var(--muted);font-weight:600}
+.sp .news b{color:var(--navy)}
+.sp .news span{font-size:14px;color:var(--ink2)}
 .sp .ft{border-top:1px solid var(--line);padding-block:24px 36px;font-size:13px;color:var(--muted)}
 @media (max-width:960px){.sp .info,.sp .codes{grid-template-columns:1fr}.sp .steps{grid-template-columns:1fr}}
 @media (max-width:640px){.sp .w{padding-inline:16px}}
@@ -88,9 +102,9 @@
     <div>
       <div class="brand"><svg width="22" height="22" viewBox="0 0 48 48" aria-hidden="true"><path d="M24 4.2 L43.6 17.6 Q45 18.6 45 20.3 L45 35.6 Q45 38 42.6 38 L20.6 38 L12.4 44.6 Q11.6 45.2 11.7 44.2 L12.4 38 L5.4 38 Q3 38 3 35.6 L3 20.3 Q3 18.6 4.4 17.6 Z" fill="#14213D"/><rect x="18.6" y="20.4" width="10.8" height="10.8" rx="1.4" fill="#FFB224"/></svg>AEO Pro <span>부동산</span></div>
       <h1>예시 중개사 홈페이지 · 디자인 3종</h1>
-      <p class="lede">같은 중개소, 같은 매물로 만든 세 가지 디자인입니다. 내용과 AI가 읽는 정보는 같고 겉모습만 다릅니다. 탭을 눌러 바꿔 보고, 화면 안을 스크롤하고 눌러 보세요.</p>
+      <p class="lede">같은 중개소, 같은 매물로 만든 세 가지 디자인입니다. 색·글꼴·배치가 서로 다르고, 내용·시세·AI가 읽는 정보는 같습니다. 탭을 눌러 바꿔 보고, 화면 안을 스크롤하고 눌러 보세요.</p>
     </div>
-    <div class="facts"><span>예시 중개소 <b>○○공인중개사사무소</b></span><span>단지 <b>잠실 리센츠</b></span><span>게시 매물 <b>8건</b></span><span>기준 <b>2026.10.19</b></span></div>
+    <div class="facts"><span>예시 중개소 <b>○○공인중개사사무소</b></span><span>단지 <b>리센츠·잠실엘스·트리지움</b></span><span>게시 매물 <b>8건</b></span><span>기준 <b>2026.10.20</b></span></div>
   </div></header>
   <nav class="tabs" aria-label="디자인 고르기"><div class="w" role="tablist"><button class="tab" type="button" role="tab" id="t-a" aria-controls="p-a" aria-selected="true" data-k="a">A · 정통 신뢰형</button><button class="tab" type="button" role="tab" id="t-b" aria-controls="p-b" aria-selected="false" tabindex="-1" data-k="b">B · 사진 중심</button><button class="tab" type="button" role="tab" id="t-c" aria-controls="p-c" aria-selected="false" tabindex="-1" data-k="c">C · 생활 밀착형</button><button class="tab" type="button" role="tab" id="t-admin" aria-controls="p-admin" aria-selected="false" tabindex="-1" data-k="admin">관리자 화면</button></div></nav>
   
@@ -98,15 +112,15 @@
     <div class="w">
       <div class="bar2">
         <div class="modes" role="group" aria-label="보기"><button type="button" class="mode" data-mode="pc" aria-pressed="true">PC 화면</button><button type="button" class="mode" data-mode="mobile" aria-pressed="false">휴대폰 화면</button></div>
-        <div class="chips" role="group" aria-label="페이지"><button type="button" class="chip" data-page="a/index.html" aria-pressed="true">홈</button><button type="button" class="chip" data-page="a/listings/index.html" aria-pressed="false">매물 목록</button><button type="button" class="chip" data-page="a/listings/l1/index.html" aria-pressed="false">매물 상세</button><button type="button" class="chip" data-page="a/stories/jamsilsaenae-school-transport/index.html" aria-pressed="false">리센츠 이야기</button><button type="button" class="chip" data-page="a/about/index.html" aria-pressed="false">사무소 소개</button><button type="button" class="chip" data-page="a/llms.txt" aria-pressed="false">llms.txt</button></div>
+        <div class="chips" role="group" aria-label="페이지"><button type="button" class="chip" data-page="a/index.html" aria-pressed="true">홈</button><button type="button" class="chip" data-page="a/listings/index.html" aria-pressed="false">매물 목록</button><button type="button" class="chip" data-page="a/listings/l1/index.html" aria-pressed="false">매물 상세</button><button type="button" class="chip" data-page="a/prices/index.html" aria-pressed="false">단지별 시세</button><button type="button" class="chip" data-page="a/stories/jamsil-baseball-stadium-closing/index.html" aria-pressed="false">동네 소식(자동 글)</button><button type="button" class="chip" data-page="a/about/index.html" aria-pressed="false">사무소 소개</button><button type="button" class="chip" data-page="a/llms.txt" aria-pressed="false">llms.txt</button></div>
         <a class="open" href="a/index.html" target="_blank" rel="noopener" data-open>새 창으로 크게 ↗</a>
       </div>
       
       <div class="pc" data-stage="pc"><div class="bar" aria-hidden="true"><i></i><i></i><i></i><span class="u">our-agency.aeo.kr</span></div><div class="vp" data-w="1440"><iframe data-embed data-src="a/index.html" title="디자인 A · 정통 신뢰형 PC 화면"></iframe></div></div>
       <div class="phone-wrap" data-stage="mobile" hidden><div class="phone"><div class="vp" data-w="390" data-h="844"><iframe data-embed data-src="a/index.html" title="디자인 A · 정통 신뢰형 휴대폰 화면"></iframe></div></div></div>
       <div class="info">
-        <div><h2>디자인 A · 정통 신뢰형</h2><p>단지 상가에서 오래 자리를 지켜 온 사무소. 경력·약속·대표 인사말을 앞에 두어 믿음을 먼저 줍니다.</p></div>
-        <ul><li>맨 위 정보 띠와 큰 상담 전화번호</li><li>반반 대문: “리센츠 입주부터 18년, 믿고 맡기는 정직한 중개”</li><li>빠른 메뉴(매매·전세·월세·매도 의뢰·오시는 길), 친절·신속·정확 약속, 대표 인사말, 거래 절차 4단계</li></ul>
+        <div><h2>디자인 A · 정통 신뢰형</h2><p>단지 상가에서 오래 자리를 지켜 온 사무소. 짙은 남색과 금색으로 묵직하게, 경력·약속·대표 인사말을 앞에 둡니다.</p></div>
+        <ul><li>짙은 남색 바탕에 금색 — 머리글·첫 화면·빠른 메뉴 띠·바닥글까지 어둡고 묵직하게</li><li>대문: “리센츠 입주부터 18년, 믿고 맡기는 정직한 중개”와 큰 상담 전화번호</li><li>나눔스퀘어 네오 제목, 친절·신속·정확 약속, 대표 인사말, 거래 절차 4단계</li></ul>
       </div>
     </div>
   </section>
@@ -114,15 +128,15 @@
     <div class="w">
       <div class="bar2">
         <div class="modes" role="group" aria-label="보기"><button type="button" class="mode" data-mode="pc" aria-pressed="true">PC 화면</button><button type="button" class="mode" data-mode="mobile" aria-pressed="false">휴대폰 화면</button></div>
-        <div class="chips" role="group" aria-label="페이지"><button type="button" class="chip" data-page="b/index.html" aria-pressed="true">홈</button><button type="button" class="chip" data-page="b/listings/index.html" aria-pressed="false">매물 목록</button><button type="button" class="chip" data-page="b/listings/l1/index.html" aria-pressed="false">매물 상세</button><button type="button" class="chip" data-page="b/stories/jamsilsaenae-school-transport/index.html" aria-pressed="false">리센츠 이야기</button><button type="button" class="chip" data-page="b/about/index.html" aria-pressed="false">사무소 소개</button><button type="button" class="chip" data-page="b/llms.txt" aria-pressed="false">llms.txt</button></div>
+        <div class="chips" role="group" aria-label="페이지"><button type="button" class="chip" data-page="b/index.html" aria-pressed="true">홈</button><button type="button" class="chip" data-page="b/listings/index.html" aria-pressed="false">매물 목록</button><button type="button" class="chip" data-page="b/listings/l1/index.html" aria-pressed="false">매물 상세</button><button type="button" class="chip" data-page="b/prices/index.html" aria-pressed="false">단지별 시세</button><button type="button" class="chip" data-page="b/stories/jamsil-baseball-stadium-closing/index.html" aria-pressed="false">동네 소식(자동 글)</button><button type="button" class="chip" data-page="b/about/index.html" aria-pressed="false">사무소 소개</button><button type="button" class="chip" data-page="b/llms.txt" aria-pressed="false">llms.txt</button></div>
         <a class="open" href="b/index.html" target="_blank" rel="noopener" data-open>새 창으로 크게 ↗</a>
       </div>
       
       <div class="pc" data-stage="pc"><div class="bar" aria-hidden="true"><i></i><i></i><i></i><span class="u">our-agency.aeo.kr</span></div><div class="vp" data-w="1440"><iframe data-embed data-src="b/index.html" title="디자인 B · 사진 중심 PC 화면"></iframe></div></div>
       <div class="phone-wrap" data-stage="mobile" hidden><div class="phone"><div class="vp" data-w="390" data-h="844"><iframe data-embed data-src="b/index.html" title="디자인 B · 사진 중심 휴대폰 화면"></iframe></div></div></div>
       <div class="info">
-        <div><h2>디자인 B · 사진 중심</h2><p>매물 사진이 좋은 사무소. 첫 화면부터 단지 사진과 매물이 크게 보입니다.</p></div>
-        <ul><li>첫 화면 가득 단지 사진</li><li>대문: “리센츠에서 18년, 친절·신속·정확한 중개”</li><li>큰 사진 매물 카드 2단, 약속 세 가지, 인사말 한 문장, 평형별 호가 띠</li></ul>
+        <div><h2>디자인 B · 사진 중심</h2><p>매물 사진이 좋은 사무소. 흑백 바탕에 주황빨강 한 가지로, 단지 사진과 매물이 크게 보입니다.</p></div>
+        <ul><li>흰 바탕·먹색에 주황빨강 한 가지, 각진 모서리</li><li>첫 화면 가득 단지 사진 · 대문: “리센츠에서 18년, 친절·신속·정확한 중개”</li><li>큰 사진 매물 카드 2단, 약속 세 가지, 검은 띠 인사말</li></ul>
       </div>
     </div>
   </section>
@@ -130,15 +144,15 @@
     <div class="w">
       <div class="bar2">
         <div class="modes" role="group" aria-label="보기"><button type="button" class="mode" data-mode="pc" aria-pressed="true">PC 화면</button><button type="button" class="mode" data-mode="mobile" aria-pressed="false">휴대폰 화면</button></div>
-        <div class="chips" role="group" aria-label="페이지"><button type="button" class="chip" data-page="c/index.html" aria-pressed="true">홈</button><button type="button" class="chip" data-page="c/listings/index.html" aria-pressed="false">매물 목록</button><button type="button" class="chip" data-page="c/listings/l1/index.html" aria-pressed="false">매물 상세</button><button type="button" class="chip" data-page="c/stories/jamsilsaenae-school-transport/index.html" aria-pressed="false">리센츠 이야기</button><button type="button" class="chip" data-page="c/about/index.html" aria-pressed="false">사무소 소개</button><button type="button" class="chip" data-page="c/llms.txt" aria-pressed="false">llms.txt</button></div>
+        <div class="chips" role="group" aria-label="페이지"><button type="button" class="chip" data-page="c/index.html" aria-pressed="true">홈</button><button type="button" class="chip" data-page="c/listings/index.html" aria-pressed="false">매물 목록</button><button type="button" class="chip" data-page="c/listings/l1/index.html" aria-pressed="false">매물 상세</button><button type="button" class="chip" data-page="c/prices/index.html" aria-pressed="false">단지별 시세</button><button type="button" class="chip" data-page="c/stories/jamsil-baseball-stadium-closing/index.html" aria-pressed="false">동네 소식(자동 글)</button><button type="button" class="chip" data-page="c/about/index.html" aria-pressed="false">사무소 소개</button><button type="button" class="chip" data-page="c/llms.txt" aria-pressed="false">llms.txt</button></div>
         <a class="open" href="c/index.html" target="_blank" rel="noopener" data-open>새 창으로 크게 ↗</a>
       </div>
       
       <div class="pc" data-stage="pc"><div class="bar" aria-hidden="true"><i></i><i></i><i></i><span class="u">our-agency.aeo.kr</span></div><div class="vp" data-w="1440"><iframe data-embed data-src="c/index.html" title="디자인 C · 생활 밀착형 PC 화면"></iframe></div></div>
       <div class="phone-wrap" data-stage="mobile" hidden><div class="phone"><div class="vp" data-w="390" data-h="844"><iframe data-embed data-src="c/index.html" title="디자인 C · 생활 밀착형 휴대폰 화면"></iframe></div></div></div>
       <div class="info">
-        <div><h2>디자인 C · 생활 밀착형</h2><p>동네 손님이 많은 사무소. 신혼·학군·갈아타기처럼 상황별 안내와 매물 목록이 먼저 보입니다.</p></div>
-        <ul><li>대문: “친절하게, 신속하게, 정확하게. 리센츠 집 찾기를 돕습니다.”와 숫자 세 개</li><li>신혼·학군·갈아타기·집 내놓기 상황별 안내</li><li>매물은 매매·전세·월세 탭으로 거르는 목록, 초록 띠에 인사말과 약속</li></ul>
+        <div><h2>디자인 C · 생활 밀착형</h2><p>동네 손님이 많은 사무소. 밝은 민트와 노랑으로 가볍게, 상황별 안내와 매물 목록이 먼저 보입니다.</p></div>
+        <ul><li>밝은 민트 바탕에 노랑 포인트, 둥근 카드와 SUIT 글꼴</li><li>대문: “친절하게, 신속하게, 정확하게.”와 숫자 세 개(18년 · 3개 단지 · 세대 수)</li><li>신혼·학군·갈아타기·집 내놓기 상황별 안내, 매매·전세·월세 탭 목록, 노란 띠 인사말</li></ul>
       </div>
     </div>
   </section>
@@ -146,7 +160,7 @@
   <section class="panel" role="tabpanel" id="p-admin" aria-labelledby="t-admin" hidden>
     <div class="w">
       <div class="bar2">
-        <div class="chips" role="group" aria-label="관리자 메뉴"><button type="button" class="chip" data-page="admin/index.html" aria-pressed="true">대시보드</button><button type="button" class="chip" data-page="admin/index.html#text" aria-pressed="false">문구 수정</button><button type="button" class="chip" data-page="admin/index.html#design" aria-pressed="false">디자인 바꾸기</button><button type="button" class="chip" data-page="admin/index.html#listings" aria-pressed="false">매물·네이버 연동</button><button type="button" class="chip" data-page="admin/index.html#inq" aria-pressed="false">상담 신청</button><button type="button" class="chip" data-page="admin/index.html#ai" aria-pressed="false">AI가 읽는 정보</button></div>
+        <div class="chips" role="group" aria-label="관리자 메뉴"><button type="button" class="chip" data-page="admin/index.html" aria-pressed="true">대시보드</button><button type="button" class="chip" data-page="admin/index.html#text" aria-pressed="false">문구 수정</button><button type="button" class="chip" data-page="admin/index.html#design" aria-pressed="false">디자인 바꾸기</button><button type="button" class="chip" data-page="admin/index.html#listings" aria-pressed="false">매물·네이버 연동</button><button type="button" class="chip" data-page="admin/index.html#danji" aria-pressed="false">단지별 시세</button><button type="button" class="chip" data-page="admin/index.html#auto" aria-pressed="false">자동 글</button><button type="button" class="chip" data-page="admin/index.html#inq" aria-pressed="false">상담 신청</button><button type="button" class="chip" data-page="admin/index.html#ai" aria-pressed="false">AI가 읽는 정보</button></div>
         <a class="open" href="admin/index.html" target="_blank" rel="noopener" data-open>새 창으로 크게 ↗</a>
       </div>
       
@@ -154,11 +168,29 @@
       
       <div class="info">
         <div><h2>관리자 화면 · 중개사가 할 일만</h2><p>매물은 네이버에서 올리고 내리면 홈페이지가 따라옵니다. 예시 계정 demo / demo1234(채워져 있음).</p></div>
-        <ul><li>문구 수정 — 홈페이지 화면에서 글자를 눌러 바로 고치고, 사진도 눌러서 바꿉니다</li><li>디자인 바꾸기 — 누르면 홈페이지 전체가 바로 바뀝니다(고친 문구는 그대로)</li><li>매물·네이버 연동 — 게시·내림 내역과 마지막 확인 시각, [지금 네이버와 맞추기] 시연</li><li>상담 신청 — 홈페이지 양식으로 들어온 매수·매도·전월세·임대 신청</li><li>AI가 읽는 정보 — llms.txt와 구조화 데이터</li></ul>
+        <ul><li>문구 수정 — 홈페이지 화면에서 글자를 눌러 바로 고치고, 사진도 눌러서 바꿉니다</li><li>디자인 바꾸기 — 누르면 홈페이지 전체가 바로 바뀝니다(고친 문구는 그대로)</li><li>매물·네이버 연동 — 게시·내림 내역과 마지막 확인 시각, [지금 네이버와 맞추기] 시연</li><li>단지별 시세 — 거래하는 단지마다 매매·전세·월세 호가, 홈페이지에 보일 단지 켜고 끄기</li><li>자동 글 — 동네 소식·시세·자주 묻는 질문 초안을 보고 [게시하기], 중개사 한마디 고치기</li><li>상담 신청 · AI가 읽는 정보(llms.txt·구조화 데이터)</li></ul>
       </div>
     </div>
   </section>
   <div class="w">
+    <section class="sec" aria-labelledby="px-title">
+      <h2 id="px-title">거래하시는 단지 모두, 매매·전세·월세 호가</h2>
+      <p class="lead">한 단지만이 아니라 중개소가 다루는 단지마다 평형별 호가를 보여 줍니다. 네이버에 매물을 올린 단지와 주력 단지가 자동으로 들어오고, 매일 아침 네이버 매물로 다시 계산합니다. 홈에는 단지 탭 × 거래 탭 표가, ‘단지별 시세’ 페이지에는 세 단지 표가 한꺼번에 있습니다.</p>
+      <div class="tw" tabindex="0" role="region" aria-label="33평 호가 중간값"><table><thead><tr><th scope="col">단지</th><th scope="col">규모</th><th scope="col">33평 매매 중간값</th><th scope="col">33평 전세 중간값</th><th scope="col">33평 월세 중간 조건</th><th scope="col">매물 수(매매 · 전세 · 월세)</th></tr></thead><tbody><tr><th scope="row">리센츠</th><td>5,563세대</td><td>34억</td><td>15억 5,000만</td><td>6억 / 월 330만</td><td>312 · 54 · 87</td></tr><tr><th scope="row">잠실엘스</th><td>5,678세대</td><td>32억</td><td>14억</td><td>8억 / 월 240만</td><td>434 · 128 · 162</td></tr><tr><th scope="row">트리지움</th><td>3,696세대</td><td>31억</td><td>14억</td><td>5억 5,000만 / 월 330만</td><td>374 · 24 · 120</td></tr></tbody></table></div>
+      <p class="small">리치고 집계(네이버 매물, 중복 제거) · 2026.10.20 10:00 기준 · 호가는 집주인이 부른 가격이라 실제 거래 가격과 다를 수 있습니다.</p>
+      <div class="gos"><button class="go" type="button" data-open-page="prices/">단지별 시세 페이지 보기</button><button class="go line" type="button" data-open-admin="danji">관리자 › 단지별 시세 열어 보기</button></div>
+    </section>
+    <section class="sec" aria-labelledby="au-title">
+      <h2 id="au-title">동네 소식이 나오면, 대표님 한마디를 붙여 글로</h2>
+      <p class="lead">잠실 동네 뉴스·단지 뉴스·호가 변화·AI 답변에서 빠진 질문을 매일 살펴 초안을 만듭니다. 기사는 사실만 요약하고 원문 링크를 붙이며, 그 소식이 우리 단지에 어떤 뜻인지 ‘중개사 한마디’로 덧붙입니다. 대표님이 확인하고 [게시하기]를 누르면 홈페이지 ‘동네 이야기’ 맨 위에 올라가고 AI가 읽는 정보에도 들어갑니다.</p>
+      <ul class="news"><li><span class="k">동네 소식 · 확인 대기</span><b>잠실 MICE·돔구장 2032년 목표, 잠실새내역 생활권은 이렇게 봅니다</b><span>근거: 머니투데이 2026.09.30 기사 요약 + 원문 링크</span></li><li><span class="k">동네 소식 · 게시됨</span><b>잠실구장 올 시즌이 마지막, 경기 날 풍경이 바뀝니다</b><span>근거: 뉴시스 2026.07.11 기사 요약 + 원문 링크</span></li><li><span class="k">동네 소식 · 게시됨</span><b>잠실주공5·장미 1.1만 가구 재건축, 주변 전세에 미칠 영향</b><span>근거: MTN 2026.07.01 기사 요약 + 원문 링크</span></li></ul>
+      <ol class="steps">
+        <li><b>관리자 화면 › 자동 글</b><span>확인 기다리는 초안(동네 소식·시세 글·자주 묻는 질문)이 있습니다.</span></li>
+        <li><b>중개사 한마디 고치고 [게시하기]</b><span>대표님 말투로 고친 그대로 올라갑니다. ‘바로 올리기’로 바꾸면 확인 없이 올라갑니다.</span></li>
+        <li><b>디자인 탭으로 돌아와 확인</b><span>홈 ‘동네 이야기’ 맨 위에 새 글이 보입니다. [보류]나 [내리기]로 언제든 뺄 수 있습니다.</span></li>
+      </ol>
+      <div class="gos"><button class="go" type="button" data-open-admin="auto">관리자 › 자동 글 열어 보기</button><button class="go line" type="button" data-open-page="stories/jamsil-baseball-stadium-closing/">게시된 동네 소식 보기</button></div>
+    </section>
     <section class="sec" aria-labelledby="edit-title">
       <h2 id="edit-title">글자와 사진은 화면에서 바로 고칩니다</h2>
       <p class="lead">디자인을 통째로 바꾸지 않아도 됩니다. 관리자 화면 › 문구 수정을 누르면 홈페이지가 그대로 열리고, 점선으로 표시된 제목·인사말·약속·영업시간 같은 글자를 눌러 고치면 바로 저장됩니다. 대문 사진도 눌러서 바꿉니다.</p>
@@ -167,7 +199,7 @@
         <li><b>점선 글자를 눌러 고치기</b><span>고친 내용은 바로 저장되고, 세 디자인 모두에 같이 반영됩니다.</span></li>
         <li><b>바뀐 곳 목록에서 되돌리기</b><span>고친 곳마다 [처음대로]로 되돌릴 수 있습니다.</span></li>
       </ol>
-      <button class="go" type="button" data-open-admin="text">문구 수정 열어 보기</button>
+      <div class="gos"><button class="go" type="button" data-open-admin="text">문구 수정 열어 보기</button></div>
     </section>
     <section class="sec" aria-labelledby="aeo-title">
       <h2 id="aeo-title">세 디자인 모두에 똑같이 들어가는 AEO 장치</h2>
@@ -175,9 +207,9 @@
       <ul class="checks">
         <li><b>매물마다 고유 주소</b><span>매물 하나에 페이지 하나. AI가 답에 “매물 보기” 링크로 붙일 수 있습니다.</span></li>
         <li><b>공인중개사법 표시 사항</b><span>소재지·면적·가격·층·방향·입주일·사용승인일·주차·중개사무소 정보까지 매물마다 자동 기입.</span></li>
-        <li><b>구조화 데이터</b><span>RealEstateAgent · RealEstateListing · FAQPage · Article · BreadcrumbList.</span></li>
-        <li><b>llms.txt</b><span>AI용 요약 한 장. 매물·가격·연락처·영업시간·자주 묻는 질문.</span></li>
-        <li><b>확인 시각과 출처</b><span>매물마다 네이버 확인 시각, 시세에는 출처(리치고)와 기준일.</span></li>
+        <li><b>구조화 데이터</b><span>RealEstateAgent · RealEstateListing · ApartmentComplex(단지별 호가) · FAQPage · Article(뉴스 원문 인용) · BreadcrumbList.</span></li>
+        <li><b>llms.txt</b><span>AI용 요약 한 장. 매물·세 단지 매매·전세·월세 호가·연락처·영업시간·동네 소식·자주 묻는 질문.</span></li>
+        <li><b>확인 시각과 출처</b><span>매물마다 네이버 확인 시각, 시세에는 출처(리치고)와 기준일, 동네 소식에는 언론사·날짜·원문 링크.</span></li>
         <li><b>상호·주소·전화 한 가지로</b><span>모든 페이지와 디렉토리 5곳에서 글자 하나 다르지 않게.</span></li>
         <li><b>AI 봇 허용 robots.txt · 사이트맵</b><span>GPTBot·ClaudeBot·PerplexityBot 등 허용. 예시 홈페이지는 검색에 안 잡히게 막아 두었습니다.</span></li>
         <li><b>거래 끝난 매물은 자동으로 빠짐</b><span>목록·사이트맵·llms.txt에서 함께 빠져 지난 매물이 AI 답에 남지 않게.</span></li>
@@ -188,9 +220,9 @@
   &quot;@id&quot;: &quot;https://kkwon91.github.io/budong-sample-demo/a/listings/l1/#listing&quot;,
   &quot;url&quot;: &quot;https://kkwon91.github.io/budong-sample-demo/a/listings/l1/&quot;,
   &quot;name&quot;: &quot;리센츠 33평 매매 34억 5,000만원&quot;,
-  &quot;description&quot;: &quot;거실과 방 두 개가 남쪽을 보는 18층입니다. 2020년에 주방·욕실·바닥을 고쳤고, 발코니는 모두 확장돼 있습니다. 같은 33평 호가 범위(32억~38억) 안에서 평균(34억 4,800만원)과 거의 같은 가격입니다. 입주는 2027년 1월 이후로 맞출 수 있습니다.&quot;,
+  &quot;description&quot;: &quot;거실과 방 두 개가 남쪽을 보는 18층입니다. 2020년에 주방·욕실·바닥을 고쳤고, 발코니는 모두 확장돼 있습니다. 같은 33평 매매 호가 범위(32억~38억) 안에서 중간값(34억)과 비슷한 가격입니다. 입주는 2027년 1월 이후로 맞출 수 있습니다.&quot;,
   &quot;datePosted&quot;: &quot;2026-10-12&quot;,
-  &quot;dateModified&quot;: &quot;2026-10-19&quot;,
+  &quot;dateModified&quot;: &quot;2026-10-20&quot;,
   &quot;image&quot;: [
     &quot;https://kkwon91.github.io/budong-sample-demo/assets/budong-living.jpg&quot;,
     &quot;https://kkwon91.github.io/budong-sample-demo/assets/budong-room.jpg&quot;,
@@ -226,10 +258,10 @@
         &quot;streetAddress&quot;: &quot;올림픽로 135&quot;,
         &quot;addressLocality&quot;: &quot;송파구&quot;,
   …</pre></div>
-        <div><h3>llms.txt 앞부분</h3><pre># ○○공인중개사사무소 (리센츠 전문 공인중개사사무소)
+        <div><h3>llms.txt 앞부분</h3><pre># ○○공인중개사사무소 (잠실 리센츠·잠실엘스·트리지움 공인중개사사무소)
 
-&gt; 서울 송파구 잠실동 리센츠상가 1층 A-77호의 공인중개사사무소입니다. 리센츠 매매·전세·월세를 주로 다룹니다. 전화 02-000-0000, 평일 09:30–19:00 · 토요일 10:00–17:00 · 일요일은 예약 상담.
-&gt; 예시 홈페이지입니다. 중개소·매물은 가상이고, 리센츠 단지 정보와 매매 호가 범위만 실제(리치고, 2026-10-19)입니다.
+&gt; 서울 송파구 잠실동 리센츠상가 1층 A-77호의 공인중개사사무소입니다. 리센츠를 중심으로 잠실엘스·트리지움 매매·전세·월세를 다룹니다. 전화 02-000-0000, 평일 09:30–19:00 · 토요일 10:00–17:00 · 일요일은 예약 상담.
+&gt; 예시 홈페이지입니다. 중개소·매물은 가상이고, 세 단지 정보·호가 집계(리치고, 2026-10-20)와 동네 소식의 뉴스 출처만 실제입니다.
 
 ## 중개사무소
 - 상호: ○○공인중개사사무소
@@ -238,20 +270,20 @@
 - 소재지: 서울특별시 송파구 올림픽로 135, 리센츠상가 1층 A-77호
 - 전화: 02-000-0000
 - 영업시간: 평일 09:30–19:00 · 토요일 10:00–17:00 · 일요일은 예약 상담
-- 주로 다루는 단지: 리센츠, 엘스, 트리지움
+- 주로 다루는 단지: 리센츠, 잠실엘스, 트리지움
 - 오시는 길: 2호선 잠실새내역과 단지가 붙어 있음
 - 경력: 2008년 리센츠 입주 때부터 리센츠상가 1층 한 자리(18년)
 - 손해배상책임 보장(공제) 가입 · 부동산거래 전자계약 가능
 - 약속: 친절 — 계약서 조항과 중개대상물 확인·설명서를 하나하나 설명해 드립니다. 처음 집을 구하시는 분도 편하게 물어보세요. / 신속 — 문의하신 매물은 당일 상태를 확인해 연락드립니다. 이사 날짜가 급하셔도 일정에 맞춰 움직입니다. / 정확 — 등기사항증명서·건축물대장·실거래가를 확인하고, 근거를 보여 드리며 설명합니다.
 
-## 지금 게시 중인 매물 (네이버 부동산과 자동 연동, 2026-10-19 09:10 확인)
+## 지금 게시 중인 매물 (네이버 부동산과 자동 연동, 2026-10-20 10:00 확인)
 - [리센츠 33평 매매 34억 5,000만원 · 2○○동 18층 남향](https://kkwon91.github.io/budong-sample-demo/a/listings/l1/): 전용 84㎡, 방 3·욕실 2, 입주 2027년 1월 이후 협의
 - [리센츠 24평 매매 29억 5,000만원 · 2○○동 9층 남동향](https://kkwon91.github.io/budong-sample-demo/a/listings/l2/): 전용 59㎡, 방 3·욕실 2, 입주 2026년 12월 협의
 - [리센츠 48평 매매 44억 · 1○○동 22층 남향](https://kkwon91.github.io/budong-sample-demo/a/listings/l3/): 전용 124㎡, 방 4·욕실 2, 입주 즉시 입주 가능
 - [리센츠 12평 매매 16억 5,000만원 · 3○○동 7층 동향](https://kkwon91.github.io/budong-sample-demo/a/listings/l4/): 전용 27㎡, 방 1·욕실 1, 입주 세입자 계약 2027년 3월 만료
-- [리센츠 33평 전세 12억 5,000만원 · 2○○동 11층 남서향](https://kkwon91.github.io/budong-sample-demo/a/listings/l5/): 전용 84㎡, 방 3·욕실 2, 입주 2026년 12월 중순 협의
-- [리센츠 24평 전세 9억 8,000만원 · 1○○동 14층 남향](https://kkwon91.github.io/budong-sample-demo/a/listings/l6/): 전용 59㎡, 방 3·욕실 2, 입주 2027년 2월 협의
-- [리센츠 33평 월세 보증금 5억 / 월 250만원 · 3○○동 6층 남향](https://kkwon91.github.io/budong-sample-demo/a/listings/l7/): 전용 84㎡, 방 3·욕실 2, 입주 즉시 입주 가능
+- [리센츠 33평 전세 15억 · 2○○동 11층 남서향](https://kkwon91.github.io/budong-sample-demo/a/listings/l5/): 전용 84㎡, 방 3·욕실 2, 입주 2026년 12월 중순 협의
+- [리센츠 24평 전세 13억 · 1○○동 14층 남향](https://kkwon91.github.io/budong-sample-demo/a/listings/l6/): 전용 59㎡, 방 3·욕실 2, 입주 2027년 2월 협의
+- [리센츠 33평 월세 보증금 6억 / 월 330만원 · 3○○동 6층 남향](https://kkwon91.github.io/budong-sample-demo/a/listings/l7/): 전용 84㎡, 방 3·욕실 2, 입주 즉시 입주 가능
 …</pre></div>
       </div>
     </section>
@@ -263,10 +295,10 @@
         <li><b>새 매물 게시, 거래 완료 내림</b><span>48평 27층 매물이 올라오고, 33평 3층 매물은 거래 완료로 내려갑니다.</span></li>
         <li><b>디자인 탭으로 돌아와 확인</b><span>어느 디자인이든 매물 목록이 바뀌어 있습니다. [시연 되돌리기]로 처음 상태로.</span></li>
       </ol>
-      <button class="go" type="button" data-open-admin="listings">매물 · 네이버 연동 열어 보기</button>
+      <div class="gos"><button class="go" type="button" data-open-admin="listings">매물 · 네이버 연동 열어 보기</button></div>
     </section>
   </div>
-  <footer class="ft"><div class="w">예시 화면입니다. 중개소·매물·전세·월세 금액·관리비는 가상이고, 리센츠 단지 정보와 매매 호가 범위만 실제(리치고, 2026.10.19)입니다. 경력 18년은 리센츠 입주(2008)에 맞춘 예시입니다. 사진은 분위기를 보여 주는 예시이며, 실제 홈페이지에는 중개사가 직접 찍은 사진이 네이버에서 연동됩니다. 관리자 화면에서 바꾼 값은 이 브라우저에만 저장됩니다.</div></footer>
+  <footer class="ft"><div class="w">예시 화면입니다. 중개소·매물·관리비·AI 답변 수치는 가상이고, 세 단지 정보와 매매·전세·월세 호가 집계(리치고, 2026.10.20), 동네 소식의 뉴스(머니투데이·뉴시스·MTN)만 실제입니다. 경력 18년은 리센츠 입주(2008)에 맞춘 예시입니다. 사진은 분위기를 보여 주는 예시이며, 실제 홈페이지에는 중개사가 직접 찍은 사진이 네이버에서 연동됩니다. 관리자 화면에서 바꾼 값은 이 브라우저에만 저장됩니다.</div></footer>
 </div>
 <script>
 (function(){
@@ -287,6 +319,7 @@ tabs.forEach(function(t,i){t.addEventListener('click',function(){sel(i,false)});
   modes.forEach(function(m){m.addEventListener('click',function(){var v=m.getAttribute('data-mode');modes.forEach(function(x){x.setAttribute('aria-pressed',x===m?'true':'false')});[].forEach.call(p.querySelectorAll('[data-stage]'),function(s){s.hidden=s.getAttribute('data-stage')!==v});refresh();});});
   chips.forEach(function(c){c.addEventListener('click',function(){var u=c.getAttribute('data-page');chips.forEach(function(x){x.setAttribute('aria-pressed',x===c?'true':'false')});[].forEach.call(p.querySelectorAll('.vp iframe'),function(f){f.setAttribute('data-src',u);var vis=!f.closest('[data-stage]').hidden;if(vis||f.getAttribute('src'))f.setAttribute('src',u);});if(open)open.href=u;refresh();});});
 });
+[].forEach.call(document.querySelectorAll('.sp [data-open-page]'),function(b){b.addEventListener('click',function(){var path=b.getAttribute('data-open-page');var i=0;tabs.forEach(function(t,j){if(t.getAttribute('aria-selected')==='true'&&t.getAttribute('data-k')!=='admin')i=j;});sel(i,true);var p=document.getElementById(tabs[i].getAttribute('aria-controls'));var c=p.querySelector('.chip[data-page$="'+path+'index.html"]');if(c)c.click();document.querySelector('.sp .tabs').scrollIntoView({block:'start'});});});
 [].forEach.call(document.querySelectorAll('.sp [data-open-admin]'),function(b){b.addEventListener('click',function(){var v=b.getAttribute('data-open-admin');var i=tabs.length-1;sel(i,true);var c=document.querySelector('#p-admin .chip[data-page$="#'+v+'"]');if(c)c.click();document.querySelector('.sp .tabs').scrollIntoView({block:'start'});});});
 addEventListener('resize',refresh);
 var start=0,h=(location.hash||'').slice(1);tabs.forEach(function(t,i){if(t.getAttribute('data-k')===h)start=i;});sel(start,false);

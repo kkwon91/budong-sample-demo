@@ -11,7 +11,7 @@
 <meta property="og:title" content="잠실새내역 생활권, 학교·교통 한눈에 보기 | ○○공인중개사사무소">
 <meta property="og:description" content="리센츠는 2호선 잠실새내역과 붙어 있고, 단지 안에 초등학교·중학교·고등학교가 모두 있습니다. 이사 전에 많이 물어보시는 것을 정리했습니다.">
 <meta property="og:locale" content="ko_KR">
-<meta name="theme-color" content="#121416">
+<meta name="theme-color" content="#111214">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *,*::before,*::after{box-sizing:border-box}
@@ -44,7 +44,7 @@ button{font:inherit}
 .sec-h{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 24px;margin-bottom:32px}
 .sec-h h2{font-family:var(--head);font-weight:var(--hw);font-size:clamp(24px,2.8vw,32px);line-height:1.3;letter-spacing:var(--hls);text-wrap:balance;color:var(--title)}
 .sec-h p{color:var(--muted);font-size:15.5px;margin-top:6px}
-.more{font-weight:700;color:var(--brand);text-decoration:none;font-size:15px;white-space:nowrap}
+.more{font-weight:700;color:var(--link);text-decoration:none;font-size:15px;white-space:nowrap}
 .more:hover{text-decoration:underline}
 .tag{display:inline-flex;align-items:center;height:24px;padding:0 8px;border-radius:var(--r-tag);font-size:12.5px;font-weight:700;background:var(--tag-bg);color:var(--tag-fg);white-space:nowrap}
 .tag.jeonse{background:var(--tag2-bg);color:var(--tag2-fg)}
@@ -56,19 +56,34 @@ button{font:inherit}
 .meta{font-size:13.5px;color:var(--muted)}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:50px;padding:0 22px;border-radius:var(--r-btn);font:700 15.5px/1.2 var(--body);text-decoration:none;cursor:pointer;border:1px solid transparent;text-align:center;white-space:nowrap}
 .btn.pri{background:var(--brand);color:var(--on-brand)}
-.btn.pri:hover{filter:brightness(1.12)}
-.btn.sec{background:transparent;color:var(--brand);border-color:var(--brand)}
+.btn.pri:hover{filter:brightness(1.1)}
+.btn.line{background:transparent;color:var(--brand);border-color:var(--brand)}
 .ask-wrap{position:relative;overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--card)}
-.ask{width:100%;min-width:600px;font-size:15px;font-variant-numeric:tabular-nums}
-.ask th,.ask td{padding:12px 16px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle}
+.ask{width:100%;min-width:560px;font-size:15px;font-variant-numeric:tabular-nums}
+.ask tbody th small{display:block;font-size:12.5px;font-weight:500;color:var(--muted);margin-top:1px;white-space:nowrap}
+.ask th,.ask td{padding:12px 16px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle;overflow-wrap:normal}
 .ask thead th{font-size:13px;color:var(--muted);background:var(--surface);font-weight:600}
 .ask tbody tr:last-child>*{border-bottom:0}
+.ask tbody th{color:var(--title)}
 .ask .r{text-align:right}
-.ask tr.hl>*{background:var(--hl)}
-.ask .bar{display:block;height:8px;border-radius:4px;background:var(--line);position:relative;min-width:160px}
-.ask .bar i{position:absolute;top:0;bottom:0;border-radius:4px;background:var(--brand)}
-.ask .bar b{position:absolute;top:-3px;width:2px;height:14px;background:var(--accent)}
+.ask b{font-weight:800;color:var(--title)}
+.ask .bar{display:block;height:8px;border-radius:4px;background:var(--line);position:relative;min-width:140px}
+.ask .bar i{position:absolute;top:0;bottom:0;border-radius:4px;background:var(--barfill)}
+.ask .bar b{position:absolute;top:-3px;width:3px;height:14px;border-radius:2px;background:var(--barmark)}
 .cap{font-size:13px;color:var(--muted);margin-top:10px}
+.pb-bar{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:flex-end;justify-content:space-between;margin-bottom:14px}
+.pb-danji{display:flex;flex-wrap:wrap;gap:8px}
+.pb-danji button{display:flex;flex-direction:column;align-items:flex-start;gap:1px;border:1px solid var(--line2);background:var(--card);color:var(--ink);border-radius:var(--r-btn);padding:9px 16px;cursor:pointer;text-align:left;line-height:1.3}
+.pb-danji button b{font-weight:800;font-size:15.5px}
+.pb-danji button small{font-size:12px;color:var(--muted)}
+.pb-danji button[aria-selected="true"]{background:var(--tab-bg);border-color:var(--tab-bg);color:var(--tab-fg)}
+.pb-danji button[aria-selected="true"] small{color:inherit}
+.pb-type{display:flex;gap:18px;border-bottom:1px solid var(--line)}
+.pb-type button{border:0;background:none;padding:8px 2px 10px;font-weight:700;font-size:15.5px;color:var(--muted);cursor:pointer;border-bottom:3px solid transparent;margin-bottom:-1px}
+.pb-type button[aria-selected="true"]{color:var(--title);border-color:var(--accent)}
+.pt-h{font-family:var(--head);font-weight:var(--hw);font-size:18px;color:var(--title);margin:26px 0 10px}
+.pg-jump{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+.pg-jump a{display:inline-flex;align-items:center;min-height:40px;padding:0 14px;border:1px solid var(--line2);border-radius:var(--r-btn);text-decoration:none;font-weight:700;color:var(--title);background:var(--card)}
 .faq details{border-bottom:1px solid var(--line);padding:18px 0}
 .faq details:first-child{border-top:1px solid var(--line)}
 .faq summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:16px;font-weight:700;font-size:17px;color:var(--title)}
@@ -112,7 +127,7 @@ button{font:inherit}
 .prose p+p{margin-top:10px}
 .points{display:grid;gap:8px;margin-top:14px}
 .points li{display:flex;gap:10px;align-items:flex-start}
-.points li::before{content:'';flex:none;width:8px;height:8px;margin-top:.65em;border-radius:50%;background:var(--accent)}
+.points li::before{content:'';flex:none;width:8px;height:8px;margin-top:.65em;border-radius:50%;background:var(--dot)}
 .legal-wrap{position:relative;overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--card)}
 .legal{width:100%;min-width:480px;font-size:14.5px}
 .legal th,.legal td{padding:10px 14px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
@@ -126,7 +141,7 @@ button{font:inherit}
 .aside .p{font-size:28px}
 .naver{display:inline-flex;gap:6px;align-items:center;font-weight:700;font-size:14px;color:var(--ink)}
 .naver img{width:18px;height:18px}
-.article{max-width:740px}
+.article{max-width:760px}
 .article .lead{font-size:18px;color:var(--ink2);margin-top:14px;line-height:1.8}
 .article figure{margin-top:24px;border-radius:var(--r);overflow:hidden;aspect-ratio:16/9;max-width:100%}
 .article figure img{width:100%;height:100%;object-fit:cover}
@@ -134,8 +149,13 @@ button{font:inherit}
 .article p,.article ul{margin-top:12px;color:var(--ink2);font-size:17px;line-height:1.85}
 .article ul{display:grid;gap:6px}
 .article ul li{padding-left:18px;position:relative}
-.article ul li::before{content:'';position:absolute;left:3px;top:.8em;width:6px;height:6px;border-radius:50%;background:var(--accent)}
-.article .ask-wrap{margin-top:14px}
+.article ul li::before{content:'';position:absolute;left:3px;top:.8em;width:6px;height:6px;border-radius:50%;background:var(--dot)}
+.article .ask-wrap,.article .pb{margin-top:14px}
+.article .insight{margin-top:14px;padding:20px 22px;border-radius:var(--r);background:var(--hl);border:1px solid var(--line)}
+.article .insight p{margin:0;color:var(--ink);font-size:17px}
+.article .insight .who{margin-top:10px;font-size:14px;color:var(--muted)}
+.src-news{margin-top:14px;font-size:14.5px;color:var(--muted)}
+.src-news a{color:var(--link);font-weight:700}
 .srcline{font-size:13px;color:var(--muted);margin-top:28px;border-top:1px solid var(--line);padding-top:12px}
 .byline{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:14px;color:var(--muted);margin-top:12px}
 .two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:start}
@@ -146,14 +166,14 @@ button{font:inherit}
 .maps{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
 .steps{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;counter-reset:st}
 .steps li{position:relative;padding:22px 20px 22px 0;counter-increment:st}
-.steps li::before{content:counter(st);display:grid;place-items:center;width:40px;height:40px;border-radius:var(--r-btn);background:var(--brand);color:var(--on-brand);font:800 17px/1 var(--head);margin-bottom:14px;position:relative;z-index:1}
+.steps li::before{content:counter(st);display:grid;place-items:center;width:40px;height:40px;border-radius:var(--r-btn);background:var(--step-bg);color:var(--step-fg);font:800 17px/1 var(--head);margin-bottom:14px;position:relative;z-index:1}
 .steps li::after{content:'';position:absolute;left:40px;right:0;top:42px;height:2px;background:var(--line)}
 .steps li:last-child::after{display:none}
 .steps b{display:block;font-family:var(--head);font-weight:var(--hw);font-size:18px;color:var(--title)}
 .steps span{display:block;font-size:14.5px;color:var(--ink2);margin-top:4px;padding-right:12px}
 .trust{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
 .trust li{display:flex;gap:10px;align-items:flex-start;padding:16px;border:1px solid var(--line);border-radius:var(--r);background:var(--card)}
-.trust li svg{flex:none;margin-top:3px;color:var(--brand)}
+.trust li svg{flex:none;margin-top:3px;color:var(--icon)}
 .trust b{display:block;color:var(--title)}
 .trust span{display:block;font-size:13.5px;color:var(--muted)}
 .greet-text p{color:var(--ink2);font-size:16.5px;line-height:1.85}
@@ -161,6 +181,10 @@ button{font:inherit}
 .sign{margin-top:22px;font-family:var(--head);font-weight:var(--hw);color:var(--title);font-size:17px}
 .sign small{display:block;font-family:var(--body);font-weight:500;font-size:13.5px;color:var(--muted)}
 .biz{font-size:13px;line-height:1.85}
+.mcall{display:none;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:8px;position:fixed;left:0;right:0;bottom:0;z-index:30;padding:8px 12px calc(8px + env(safe-area-inset-bottom,0px));background:var(--mc-bg);box-shadow:0 -8px 24px -14px rgba(0,0,0,.45)}
+.mcall a{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:48px;border-radius:var(--r-btn);font-weight:800;font-size:15px;text-decoration:none;white-space:nowrap;font-variant-numeric:tabular-nums}
+.mc-tel{background:var(--mc-call);color:var(--mc-call-fg)}
+.mc-form{color:var(--mc-fg);border:1px solid var(--mc-line)}
 .biz p+p{margin-top:6px}
 .editing [data-edit],.editing [data-bind]{outline:1.5px dashed rgba(240,138,36,.6);outline-offset:3px;border-radius:2px;cursor:text}
 .editing [data-edit]:hover,.editing [data-bind]:hover{outline-color:#F08A24;background-color:rgba(255,178,36,.14)}
@@ -183,10 +207,19 @@ button{font:inherit}
   .gallery img:first-child{grid-row:auto}
   .steps,.trust{grid-template-columns:minmax(0,1fr)}
   .steps li::after{display:none}
+  .pb-type{gap:14px}
+  .ask{min-width:0;font-size:14px}
+  .ask th,.ask td{padding:10px}
+  .ask .bc,.ask .xs-hide{display:none}
+  .mcall{display:grid}
+  body{padding-bottom:calc(66px + env(safe-area-inset-bottom,0px))}
+  .edit-toast{bottom:78px}
 }
 
-:root{--bg:#FFFFFF;--surface:#F2F3F4;--card:#FFFFFF;--hl:#EEF3FD;--ink:#121416;--ink2:#3A3E44;--muted:#686D74;--title:#121416;--line:#E3E5E8;--line2:#C9CDD2;--brand:#121416;--on-brand:#FFFFFF;--accent:#2D6CDF;--on-accent:#FFFFFF;--focus:#2D6CDF;--field:#FFFFFF;
---tag-bg:#121416;--tag-fg:#FFFFFF;--tag2-bg:#FFFFFF;--tag2-fg:#121416;--tag3-bg:#2D6CDF;--tag3-fg:#FFFFFF;--ok-bg:#E8F1FD;--ok:#1B4FB0;--warn-bg:#FFF2DC;--warn:#6F4B00;
+:root{--bg:#FFFFFF;--surface:#F3F3F2;--card:#FFFFFF;--hl:#FFF0EA;--ink:#111214;--ink2:#3A3C40;--muted:#66696F;--title:#111214;--line:#E4E4E2;--line2:#C9C9C6;--brand:#111214;--on-brand:#FFFFFF;--accent:#F2542D;--on-accent:#111214;--focus:#F2542D;--link:#C93A16;--field:#FFFFFF;
+--tag-bg:#111214;--tag-fg:#FFFFFF;--tag2-bg:#FFFFFF;--tag2-fg:#111214;--tag3-bg:#F2542D;--tag3-fg:#111214;--ok-bg:#FFF0EA;--ok:#9A2E12;--warn-bg:#FFF2DC;--warn:#6F4B00;
+--mc-bg:#111214;--mc-call:#F2542D;--mc-call-fg:#111214;--mc-fg:#FFFFFF;--mc-line:rgba(255,255,255,.4);
+--tab-bg:#111214;--tab-fg:#FFFFFF;--barfill:#111214;--barmark:#F2542D;--dot:#F2542D;--icon:#F2542D;--step-bg:#111214;--step-fg:#FFFFFF;
 --r:0px;--r-tag:0px;--r-field:0px;--r-btn:0px;--head:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;--body:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;--hw:800;--hls:-.03em;color-scheme:light}
 .b-head{background:var(--bg);border-bottom:1px solid var(--line)}
 .b-head .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px 24px;min-height:72px;flex-wrap:wrap;padding-block:10px}
@@ -195,20 +228,20 @@ button{font:inherit}
 .b-logo>span{font-weight:600;font-size:13px;opacity:.75;letter-spacing:0}
 .b-nav{display:flex;gap:4px 22px;flex-wrap:wrap;font-size:15px;font-weight:600}
 .b-nav a{text-decoration:none;opacity:.85;padding:6px 0}
-.b-nav a[aria-current],.b-nav a:hover{opacity:1;text-decoration:underline;text-underline-offset:6px}
-.b-call{display:inline-flex;align-items:center;min-height:40px;padding:0 14px;background:var(--brand);color:#FFFFFF;font-weight:700;text-decoration:none;font-variant-numeric:tabular-nums}
-.b-head.over .b-call{background:#FFFFFF;color:#121416}
-.b-hero{position:relative;min-height:600px;display:flex;align-items:flex-end;color:#FFFFFF;background:#33404F;overflow:hidden}
-.b-hero>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 35%}
-.b-hero::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,14,.55) 0%,rgba(10,12,14,.08) 35%,rgba(10,12,14,.75) 100%);pointer-events:none}
+.b-nav a[aria-current],.b-nav a:hover{opacity:1;text-decoration:underline;text-decoration-color:var(--accent);text-decoration-thickness:3px;text-underline-offset:8px}
+.b-call{display:inline-flex;align-items:center;min-height:40px;padding:0 14px;background:var(--accent);color:#111214;font-weight:800;text-decoration:none;font-variant-numeric:tabular-nums}
+.b-hero{position:relative;min-height:600px;display:flex;align-items:flex-end;color:#FFFFFF;background:#2B2F35;overflow:hidden}
+.b-hero>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 35%;filter:grayscale(.35) contrast(1.05)}
+.b-hero::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,rgba(10,10,10,.66) 0%,rgba(10,10,10,.3) 50%,rgba(10,10,10,0) 78%),linear-gradient(180deg,rgba(10,10,10,.5) 0%,rgba(10,10,10,.06) 32%,rgba(10,10,10,.82) 100%);pointer-events:none}
 .b-hero .wrap{position:relative;z-index:1;padding-block:130px 48px;width:100%}
-.b-kicker{font-size:15px;font-weight:600;opacity:.9}
-.b-hero h1{font-weight:800;font-size:clamp(36px,5.6vw,64px);line-height:1.15;letter-spacing:-.04em;margin-top:12px;text-wrap:balance}
-.b-hero .lead{margin-top:16px;font-size:17px;color:#E7EAEE;max-width:36em}
+.b-kicker{display:flex;align-items:center;gap:10px;font-size:15px;font-weight:700;color:#FFFFFF;text-shadow:0 1px 3px rgba(0,0,0,.4)}
+.b-kicker::before{content:'';flex:none;width:28px;height:3px;background:var(--accent)}
+.b-hero h1{font-weight:800;font-size:clamp(36px,5.6vw,64px);line-height:1.15;letter-spacing:-.04em;margin-top:12px;text-wrap:balance;text-shadow:0 2px 16px rgba(0,0,0,.3)}
+.b-hero .lead{margin-top:16px;font-size:17px;color:#E8E8E8;max-width:36em}
 .b-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:24px}
-.b-chips a{display:inline-flex;align-items:center;gap:8px;min-height:46px;padding:0 18px;background:#FFFFFF;color:#121416;font-weight:700;text-decoration:none}
-.b-chips a b{color:var(--accent);font-variant-numeric:tabular-nums}
-.b-chips a.call{background:var(--accent);color:#FFFFFF}
+.b-chips a{display:inline-flex;align-items:center;gap:8px;min-height:46px;padding:0 18px;background:#FFFFFF;color:#111214;font-weight:700;text-decoration:none}
+.b-chips a b{color:var(--link);font-variant-numeric:tabular-nums}
+.b-chips a.call{background:var(--accent);color:#111214}
 .grid-b{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 24px}
 .card-b{text-decoration:none;display:grid;gap:12px}
 .card-b .ph{position:relative;aspect-ratio:16/10;overflow:hidden;background:var(--surface)}
@@ -217,43 +250,43 @@ button{font:inherit}
 .card-b .pz{position:absolute;left:0;bottom:0;background:#FFFFFF;padding:10px 14px;display:flex;gap:10px;align-items:center}
 .card-b .pz .price{font-size:24px;letter-spacing:-.03em}
 .card-b .t{font-weight:700;font-size:17px}
-.b-promise{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:2px solid var(--ink)}
+.b-promise{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:3px solid var(--ink)}
 .b-promise li{padding:24px 24px 0 0;border-right:1px solid var(--line)}
 .b-promise li+li{padding-left:24px}
 .b-promise li:last-child{border-right:0}
-.b-promise .k{font-size:34px;font-weight:800;letter-spacing:-.04em}
+.b-promise .k{font-size:34px;font-weight:800;letter-spacing:-.04em;color:var(--accent)}
 .b-promise h3{font-size:17px;font-weight:800;margin-top:4px}
 .b-promise p{font-size:15px;color:var(--ink2);margin-top:6px}
 .b-greet{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:start}
 .b-greet .q{font-size:clamp(24px,2.8vw,34px);font-weight:800;letter-spacing:-.03em;line-height:1.35}
-.b-strip{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:2px solid var(--ink)}
-.b-strip div{padding:16px 14px 0;border-right:1px solid var(--line)}
-.b-strip div:last-child{border-right:0}
-.b-strip .k{font-size:13px;color:var(--muted)}
-.b-strip .v{font-size:22px;font-weight:800;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
-.b-strip .n{font-size:13px;color:var(--accent);font-weight:700}
+.b-dark{background:#111214;color:#FFFFFF}
+.b-dark .sec-h h2,.b-dark .greet-text p,.b-dark .sign{color:#FFFFFF}
+.b-dark .greet-text p{color:#D2D2D2}
+.b-dark .sign small{color:#9B9B9B}
+.b-dark .q{color:#FFFFFF}
 .story-b{display:grid;gap:24px}
 .story-b a{display:grid;grid-template-columns:280px minmax(0,1fr);gap:24px;text-decoration:none;align-items:center;border-bottom:1px solid var(--line);padding-bottom:24px}
 .story-b .ph{aspect-ratio:3/2;overflow:hidden}
 .story-b .ph img{width:100%;height:100%;object-fit:cover}
-.story-b .k{font-size:13px;font-weight:700;color:var(--accent)}
+.story-b .k{font-size:13px;font-weight:700;color:var(--link)}
 .story-b h3{font-size:22px;font-weight:800;letter-spacing:-.03em;line-height:1.35;margin-top:4px}
 .story-b p{color:var(--ink2);margin-top:6px}
-.b-foot{background:#121416;color:#B8BDC4;padding-block:44px}
+.b-foot{background:#111214;color:#B4B4B4;padding-block:44px;border-top:4px solid var(--accent)}
 .b-foot .wrap{display:grid;gap:18px}
 .b-foot a,.b-foot b{color:#FFFFFF}
 .b-foot .name{font-size:20px;font-weight:800;color:#FFFFFF;letter-spacing:-.03em}
-@media (max-width:900px){.grid-b{grid-template-columns:1fr}.b-strip{grid-template-columns:repeat(3,minmax(0,1fr))}.b-strip div:nth-child(3){border-right:0}.story-b a{grid-template-columns:1fr}.b-promise{grid-template-columns:1fr}.b-promise li{border-right:0;padding:20px 0;border-bottom:1px solid var(--line)}.b-promise li+li{padding-left:0}.b-greet{grid-template-columns:1fr;gap:20px}}
-@media (max-width:640px){.b-hero{min-height:520px}.b-strip{grid-template-columns:repeat(2,minmax(0,1fr))}.b-strip div:nth-child(3){border-right:1px solid var(--line)}.b-strip div:nth-child(2n){border-right:0}}
+@media (max-width:900px){.grid-b{grid-template-columns:1fr}.story-b a{grid-template-columns:1fr}.b-promise{grid-template-columns:1fr}.b-promise li{border-right:0;padding:20px 0;border-bottom:1px solid var(--line)}.b-promise li+li{padding-left:0}.b-greet{grid-template-columns:1fr;gap:20px}}
+@media (max-width:900px){.b-head.over{position:relative;background:#111214}.b-head .wrap{min-height:0;padding-block:10px;gap:8px 20px}.b-call{order:2}.b-nav{order:3;flex:1 0 100%;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;gap:0 22px}.b-nav::-webkit-scrollbar{display:none}.b-nav a{flex:none;white-space:nowrap}.b-hero{min-height:480px}.b-hero .wrap{padding-block:72px 40px}}
+@media (max-width:640px){.b-hero{min-height:440px}.b-call{display:none}}
 </style>
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"RealEstateAgent","@id":"https://kkwon91.github.io/budong-sample-demo/b/#agent","name":"○○공인중개사사무소","alternateName":"리센츠 전문 ○○공인중개사","description":"2008년 리센츠 입주 때부터 리센츠상가 1층에서 매매·전세·월세를 중개하고 있습니다. 학교 쪽 동과 역 쪽 동, 층과 향에 따라 달라지는 점을 직접 보고 설명해 드립니다.","slogan":"믿고 맡기는 정직한 중개","foundingDate":"2008","url":"https://kkwon91.github.io/budong-sample-demo/b/","telephone":"02-000-0000","founder":{"@type":"Person","name":"○○○","jobTitle":"대표 공인중개사"},"identifier":{"@type":"PropertyValue","name":"중개사무소 개설등록번호","value":"11710-0000-00000"},"address":{"@type":"PostalAddress","streetAddress":"올림픽로 135, 리센츠상가 1층 A-77호","addressLocality":"송파구","addressRegion":"서울특별시","postalCode":"05505","addressCountry":"KR"},"geo":{"@type":"GeoCoordinates","latitude":37.513251,"longitude":127.08675},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:30","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Saturday"],"opens":"10:00","closes":"17:00"}],"areaServed":[{"@type":"Place","name":"리센츠(서울 송파구 잠실동)"},{"@type":"Place","name":"엘스(서울 송파구 잠실동)"},{"@type":"Place","name":"트리지움(서울 송파구 잠실동)"}],"knowsAbout":["리센츠 매매","리센츠 전세","리센츠 월세","잠실 아파트"]},{"@type":"Article","@id":"https://kkwon91.github.io/budong-sample-demo/b/stories/jamsilsaenae-school-transport/#article","headline":"잠실새내역 생활권, 학교·교통 한눈에 보기","description":"리센츠는 2호선 잠실새내역과 붙어 있고, 단지 안에 초등학교·중학교·고등학교가 모두 있습니다. 이사 전에 많이 물어보시는 것을 정리했습니다.","datePublished":"2026-10-13","dateModified":"2026-10-13","image":"https://kkwon91.github.io/budong-sample-demo/assets/budong-street.jpg","author":{"@id":"https://kkwon91.github.io/budong-sample-demo/b/#agent"},"publisher":{"@id":"https://kkwon91.github.io/budong-sample-demo/b/#agent"},"articleSection":"동네 이야기","citation":["리치고 단지 정보"],"about":{"@type":"ApartmentComplex","name":"리센츠"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"홈","item":"https://kkwon91.github.io/budong-sample-demo/b/"},{"@type":"ListItem","position":2,"name":"동네 이야기","item":"https://kkwon91.github.io/budong-sample-demo/b/stories/"},{"@type":"ListItem","position":3,"name":"잠실새내역 생활권, 학교·교통 한눈에 보기","item":"https://kkwon91.github.io/budong-sample-demo/b/stories/jamsilsaenae-school-transport/"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"RealEstateAgent","@id":"https://kkwon91.github.io/budong-sample-demo/b/#agent","name":"○○공인중개사사무소","alternateName":"리센츠 전문 ○○공인중개사","description":"2008년 리센츠 입주 때부터 리센츠상가 1층에서 매매·전세·월세를 중개하고 있습니다. 학교 쪽 동과 역 쪽 동, 층과 향에 따라 달라지는 점을 직접 보고 설명해 드립니다.","slogan":"믿고 맡기는 정직한 중개","foundingDate":"2008","url":"https://kkwon91.github.io/budong-sample-demo/b/","telephone":"02-000-0000","founder":{"@type":"Person","name":"○○○","jobTitle":"대표 공인중개사"},"identifier":{"@type":"PropertyValue","name":"중개사무소 개설등록번호","value":"11710-0000-00000"},"address":{"@type":"PostalAddress","streetAddress":"올림픽로 135, 리센츠상가 1층 A-77호","addressLocality":"송파구","addressRegion":"서울특별시","postalCode":"05505","addressCountry":"KR"},"geo":{"@type":"GeoCoordinates","latitude":37.513251,"longitude":127.08675},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:30","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Saturday"],"opens":"10:00","closes":"17:00"}],"areaServed":[{"@type":"Place","name":"리센츠(서울 송파구 잠실동)"},{"@type":"Place","name":"잠실엘스(서울 송파구 잠실동)"},{"@type":"Place","name":"트리지움(서울 송파구 잠실동)"}],"knowsAbout":["리센츠 매매","리센츠 전세","리센츠 월세","잠실 아파트"]},{"@type":"Article","@id":"https://kkwon91.github.io/budong-sample-demo/b/stories/jamsilsaenae-school-transport/#article","headline":"잠실새내역 생활권, 학교·교통 한눈에 보기","description":"리센츠는 2호선 잠실새내역과 붙어 있고, 단지 안에 초등학교·중학교·고등학교가 모두 있습니다. 이사 전에 많이 물어보시는 것을 정리했습니다.","datePublished":"2026-10-13","dateModified":"2026-10-13","image":"https://kkwon91.github.io/budong-sample-demo/assets/budong-street.jpg","author":{"@id":"https://kkwon91.github.io/budong-sample-demo/b/#agent"},"publisher":{"@id":"https://kkwon91.github.io/budong-sample-demo/b/#agent"},"articleSection":"동네 이야기","citation":["리치고 단지 정보"],"about":{"@type":"ApartmentComplex","name":"리센츠"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"홈","item":"https://kkwon91.github.io/budong-sample-demo/b/"},{"@type":"ListItem","position":2,"name":"동네 이야기","item":"https://kkwon91.github.io/budong-sample-demo/b/stories/"},{"@type":"ListItem","position":3,"name":"잠실새내역 생활권, 학교·교통 한눈에 보기","item":"https://kkwon91.github.io/budong-sample-demo/b/stories/jamsilsaenae-school-transport/"}]}]}</script>
 </head>
 <body>
 <a class="skip" href="#main">본문 바로가기</a>
 <div class="demobar"><div class="wrap"><span>예시 홈페이지 · 가상의 중개소와 매물입니다</span><span class="sw" aria-label="디자인 바꾸기">디자인 <a href="../../../a/stories/jamsilsaenae-school-transport/index.html">A 정통</a><a href="../../../b/stories/jamsilsaenae-school-transport/index.html" aria-current="true">B 사진</a><a href="../../../c/stories/jamsilsaenae-school-transport/index.html">C 생활</a></span><a href="../../../admin/index.html">관리자 화면 →</a></div></div>
-<header class="b-head"><div class="wrap"><a class="b-logo" href="../../index.html"><b data-bind="name" data-label="상호">○○공인중개사사무소</b><span>잠실 리센츠 전문</span></a><nav class="b-nav" aria-label="주요 메뉴"><a href="../../about/index.html">사무소 소개</a><a href="../../listings/index.html">매물 정보</a><a href="../../stories/index.html" aria-current="page">리센츠 이야기</a><a href="../../about/index.html#visit">오시는 길·상담</a></nav><a class="b-call" href="tel:020000000"><span data-bind="phone" data-label="전화">02-000-0000</span></a></div></header>
+<header class="b-head"><div class="wrap"><a class="b-logo" href="../../index.html"><b data-bind="name" data-label="상호">○○공인중개사사무소</b><span>잠실 리센츠 전문</span></a><nav class="b-nav" aria-label="주요 메뉴"><a href="../../about/index.html">사무소 소개</a><a href="../../listings/index.html">매물 정보</a><a href="../../prices/index.html">단지별 시세</a><a href="../../stories/index.html" aria-current="page">동네 이야기</a><a href="../../about/index.html#visit">오시는 길·상담</a></nav><a class="b-call" href="tel:020000000"><span data-bind="phone" data-label="전화">02-000-0000</span></a></div></header>
 <main id="main"><div class="wrap" style="padding-top:28px">
-    <ol class="crumbs"><li><a href="../../index.html">홈</a></li><li><a href="../../stories/index.html">리센츠 이야기</a></li><li>동네 이야기</li></ol>
+    <ol class="crumbs"><li><a href="../../index.html">홈</a></li><li><a href="../../stories/index.html">동네 이야기</a></li><li>동네 이야기</li></ol>
     <article class="article pagehead">
       <span class="tag jeonse" style="margin-top:14px">동네 이야기</span>
       <h1>잠실새내역 생활권, 학교·교통 한눈에 보기</h1>
@@ -267,8 +300,9 @@ button{font:inherit}
   </div></main>
 <footer class="b-foot"><div class="wrap"><div class="name" data-bind="name" data-label="상호">○○공인중개사사무소</div><p data-edit="foot.tag" data-label="맨 아래 한 줄">책임과 신뢰를 바탕으로, 고객님의 소중한 재산을 내 일처럼 지켜 드리겠습니다.</p><div class="biz"><p><b data-bind="name" data-label="상호">○○공인중개사사무소</b> · 대표 <span data-bind="ceo" data-label="대표">○○○</span> · 중개사무소 개설등록번호 <span data-bind="regNo" data-label="개설등록번호">11710-0000-00000</span> · 손해배상책임 보장(공제) 가입</p>
     <p><span data-bind="address" data-label="주소">서울특별시 송파구 올림픽로 135, 리센츠상가 1층 A-77호</span> · 전화 <span data-bind="phone" data-label="전화">02-000-0000</span> · <span data-bind="hours" data-label="영업시간">평일 09:30–19:00 · 토요일 10:00–17:00 · 일요일은 예약 상담</span></p>
-    <p>매물 정보는 네이버 부동산에 올린 매물과 자동으로 맞춥니다(마지막 확인 2026.10.19 09:10). 거래가 끝난 매물은 자동으로 내려갑니다.</p>
+    <p>매물 정보는 네이버 부동산에 올린 매물과 자동으로 맞춥니다(마지막 확인 2026.10.20 10:00). 거래가 끝난 매물은 자동으로 내려갑니다.</p>
     <p><a href="../../llms.txt">AI가 읽는 요약(llms.txt)</a> · AEO Pro 부동산으로 만든 홈페이지 · 예시 화면이며 실제 중개소가 아닙니다.</p></div></div></footer>
+<div class="mcall" role="group" aria-label="빠른 연락"><a class="mc-tel" href="tel:020000000"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>전화 <span data-bind="phone" data-label="전화">02-000-0000</span></a><a class="mc-form" href="../../about/index.html#visit">상담 신청</a></div>
 <script>(function(){var K='aeoSample.v1',S={};try{S=JSON.parse(localStorage.getItem(K)||'{}')||{}}catch(e){S={}}
 function save(){try{localStorage.setItem(K,JSON.stringify(S));return true}catch(e){return false}}
 var doc=document.documentElement,embed=false;try{embed=!!(window.frameElement&&window.frameElement.hasAttribute('data-embed'))}catch(e){}if(embed)doc.classList.add('embed');
@@ -281,6 +315,14 @@ var on=!!S.synced;$$('[data-lid][data-state="sold-demo"]').forEach(function(el){
 var pg=document.querySelector('[data-page-state]'),b=document.getElementById('demo-banner');if(pg&&b){var st=pg.getAttribute('data-page-state');
 if(st==='sold-demo'&&on){b.textContent='거래가 끝나 홈페이지에서 자동으로 내려간 매물입니다(시연). 실제 홈페이지에서는 이 주소가 닫히고 목록·사이트맵·llms.txt 에서도 빠집니다.';b.hidden=false;}
 if(st==='new-demo'&&!on){b.textContent='아직 네이버 연동 시연 전이라 목록에는 없는 매물입니다. 관리자 화면 › 매물·네이버 연동에서 [지금 네이버와 맞추기]를 누르면 목록에 올라옵니다.';b.hidden=false;}}
+var pub=S.published||{},held=S.held||{},autoAll=S.autoMode==='auto';function isOn(id,st){if(held[id])return false;if(st==='published')return true;return autoAll||!!pub[id];}
+$$('[data-auto]').forEach(function(el){el.hidden=!isOn(el.getAttribute('data-auto'),el.getAttribute('data-auto-state'));});
+$$('[data-limit]').forEach(function(box){var n=+box.getAttribute('data-limit'),k=0;[].forEach.call(box.children,function(c){if(c.hidden)return;k++;if(k>n)c.hidden=true;});});
+var ap=document.querySelector('[data-auto-page]'),ab=document.getElementById('auto-banner');if(ap&&ab&&!isOn(ap.getAttribute('data-auto-page'),ap.getAttribute('data-auto-state'))){ab.textContent=held[ap.getAttribute('data-auto-page')]?'보류한 자동 글입니다(시연). 홈페이지 목록에는 보이지 않습니다.':'아직 게시하기 전인 자동 글입니다(시연). 관리자 화면 › 자동 글에서 [게시하기]를 누르면 홈페이지 목록에 나타납니다.';ab.hidden=false;}
+var hid=S.hiddenDanji||[];$$('[data-danji]').forEach(function(el){if(hid.indexOf(el.getAttribute('data-danji'))>=0)el.hidden=true;});
+$$('[data-pb]').forEach(function(pb){var ds=[].slice.call(pb.querySelectorAll('[data-pd]')),ts=[].slice.call(pb.querySelectorAll('[data-pt]')),vis=ds.filter(function(x){return !x.hidden});if(!vis.length){pb.hidden=true;return}
+var cur={d:vis[0].getAttribute('data-pd'),t:'sale'};function draw(){[].forEach.call(pb.querySelectorAll('[data-pp]'),function(p){p.hidden=p.getAttribute('data-pp')!==cur.d+'-'+cur.t;});ds.forEach(function(x){x.setAttribute('aria-selected',x.getAttribute('data-pd')===cur.d?'true':'false')});ts.forEach(function(x){x.setAttribute('aria-selected',x.getAttribute('data-pt')===cur.t?'true':'false')});}
+ds.forEach(function(x){x.addEventListener('click',function(){cur.d=x.getAttribute('data-pd');draw();});});ts.forEach(function(x){x.addEventListener('click',function(){cur.t=x.getAttribute('data-pt');draw();});});draw();});
 var list=document.getElementById('c-list'),tabs=$$('.c-tabs button');tabs.forEach(function(bt){bt.addEventListener('click',function(){var f=bt.getAttribute('data-f');tabs.forEach(function(x){x.setAttribute('aria-pressed',x===bt?'true':'false')});if(list)[].forEach.call(list.children,function(r){var s=r.getAttribute('data-state');if(s==='new-demo'&&!on){r.hidden=true;return}if(s==='sold-demo'&&on){r.hidden=true;return}r.hidden=!!f&&r.getAttribute('data-type')!==f;});});});
 $$('[data-filter]').forEach(function(a){a.addEventListener('click',function(){var f=a.getAttribute('data-filter');if(!f)return;var t=document.querySelector('.c-tabs button[data-f="'+f+'"]');if(t)t.click();});});
 $$('form[data-inquiry]').forEach(function(f){var m=f.querySelector('.msg');f.addEventListener('submit',function(e){e.preventDefault();
@@ -305,7 +347,7 @@ $$('[data-edit],[data-bind]').forEach(function(el){el.setAttribute('contentedita
 el.addEventListener('input',function(){keep(el)});el.addEventListener('blur',function(){say('저장했습니다')});
 el.addEventListener('keydown',function(e){if(e.key==='Enter'&&!el.classList.contains('ml')){e.preventDefault();el.blur();}});
 el.addEventListener('paste',function(e){e.preventDefault();var x=(e.clipboardData||window.clipboardData).getData('text');document.execCommand('insertText',false,x);});});
-document.addEventListener('click',function(e){var x=e.target.closest('[contenteditable]');if(x&&x.closest('a,summary'))e.preventDefault();},true);
+document.addEventListener('click',function(e){var x=e.target.closest('[contenteditable]');if(x&&x.closest('a,summary,button'))e.preventDefault();},true);
 var pick=document.createElement('input');pick.type='file';pick.accept='image/*';pick.hidden=true;document.body.appendChild(pick);var target=null;
 $$('[data-edit-img]').forEach(function(im){im.title='눌러서 사진 바꾸기';im.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();target=im;pick.value='';pick.click();});});
 pick.addEventListener('change',function(){var fl=pick.files&&pick.files[0];if(!fl||!target)return;var fr=new FileReader();fr.onload=function(){var g=new Image();g.onload=function(){var w=Math.min(1600,g.naturalWidth),h=Math.round(g.naturalHeight*w/g.naturalWidth),c=document.createElement('canvas');c.width=w;c.height=h;c.getContext('2d').drawImage(g,0,0,w,h);var url=c.toDataURL('image/jpeg',0.8),k=target.getAttribute('data-edit-img');
