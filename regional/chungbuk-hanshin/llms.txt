@@ -6,13 +6,15 @@
 - 대표: 김해진
 - 소재지: 충청북도 청주시 청원구 오창읍 각리 636-2 401동119호
 - 전화: 043-218-1118
-- 취급 단지: 한신더휴센트럴파크
+- 주력 단지: 한신더휴센트럴파크
+- 전체 등록 매물: 142건
+- 취급 단지·지역: 한신더휴센트럴파크(주상복합) (아파트, 118건), 한신더휴센트럴파크 (오피스텔, 14건), 오창읍 단지내상가 (상가점포, 5건), 오창반도유보라퍼스티지(주상복합) (아파트, 2건), 중앙하이츠빌 (아파트, 1건), 더샵오창프레스티지 (아파트분양권, 1건), 부평역해링턴플레이스 (아파트, 1건)
 - 네이버 원문: https://fin.land.naver.com/realtors/hansinthe35
 - 단지 세대수: 1210
 
 ## 질문과 답변
-### 한신더휴센트럴파크 매물은 어디서 볼 수 있나요?
-한신더휴공인중개사사무소의 매물 메뉴에서 확인할 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
+### 한신더휴공인중개사사무소의 전체 매물은 어디서 볼 수 있나요?
+한신더휴공인중개사사무소의 매물 메뉴에 확인 시점의 네이버 등록 매물 142건을 모두 모았습니다. 주력 단지 외의 취급 단지와 지역도 함께 살펴볼 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
 
 ### 한신더휴센트럴파크는 몇 세대인가요?
 한신더휴센트럴파크는 1,210세대, 7개 동으로 구성돼 있습니다. 단지 기본 정보는 리치고 단지 자료를 기준으로 안내합니다.
@@ -33,18 +35,154 @@
 043-218-1118로 전화하시거나 네이버 중개소 페이지에서 문의하실 수 있습니다. 관심 매물 번호, 희망 예산과 입주 시기를 함께 알려주시면 상담에 도움이 됩니다.
 
 ### 전세·월세도 확인할 수 있나요?
-매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 이 미리보기는 확인한 일부 매물을 담고 있어, 보이지 않는 거래 종류는 네이버 전체 매물에서 확인해 주세요.
+매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 단지·지역과 매물 유형도 함께 선택할 수 있습니다. 월세는 보증금과 월 임대료를 함께 표시합니다.
 
 ### 집을 보러 가기 전에 무엇을 준비하면 좋나요?
 희망하는 전용면적, 예산, 입주 날짜와 관심 매물 번호를 정리해 주세요. 실제 방문 가능 시간은 중개소와 미리 조율하는 것이 좋습니다.
 
 ### 가격과 매물 정보는 언제 기준인가요?
-이 홈페이지 미리보기에는 2026.10.23에 확인한 매물 일부가 표시됩니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
+이 홈페이지 미리보기에는 2026.10.23에 확인한 네이버 전체 등록 매물 142건이 표시됩니다. 자동 갱신 전의 자료입니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
 
-## 확인한 매물 일부
-- 매매 9억 8,000 / 103동 / 전용 138㎡ / 원문 https://fin.land.naver.com/articles/2655509577
-- 전세 4억 / 104동 / 전용 84㎡ / 원문 https://fin.land.naver.com/articles/2655854760
-- 매매 12억 / 106동 / 전용 149㎡ / 원문 https://fin.land.naver.com/articles/2656196988
-- 매매 4억 8,500 / 104동 / 전용 84㎡ / 원문 https://fin.land.naver.com/articles/2655501521
-- 매매 5억 5,000 / 104동 / 전용 84㎡ / 원문 https://fin.land.naver.com/articles/2655508157
-- 매매 4억 7,000 / 105동 / 전용 84㎡ / 원문 https://fin.land.naver.com/articles/2656143792
+## 확인 시점의 전체 등록 매물
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 1,000 / 115C㎡ (전용84.99C) · 34/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656495040/ / 원문 https://fin.land.naver.com/articles/2656495040
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 4억 7,500 / 115D㎡ (전용84.98D) · 7/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656608448/ / 원문 https://fin.land.naver.com/articles/2656608448
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 전세 3억 6,000 / 115C㎡ (전용84.99C) · 5/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656494685/ / 원문 https://fin.land.naver.com/articles/2656494685
+- 한신더휴센트럴파크 105동 / 오피스텔 / 매매 9,200 / 50A㎡ (전용24.73A) · 4/4층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656197424/ / 원문 https://fin.land.naver.com/articles/2656197424
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 12억 / 205㎡ (전용149.63) · 49/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656196988/ / 원문 https://fin.land.naver.com/articles/2656196988
+- 한신더휴센트럴파크 106동 / 오피스텔 / 매매 2억 1,000 / 138㎡ (전용67.77) · 2/4층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656197349/ / 원문 https://fin.land.naver.com/articles/2656197349
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 4억 7,000 / 114A㎡ (전용84.98A) · 35/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143813/ / 원문 https://fin.land.naver.com/articles/2656143813
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 4억 7,000 / 115B㎡ (전용84.98B) · 10/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143792/ / 원문 https://fin.land.naver.com/articles/2656143792
+- 중앙하이츠빌 207동 / 아파트 / 매매 3억 1,000 / 115A㎡ (전용84.68A) · 2/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655954805/ / 원문 https://fin.land.naver.com/articles/2655954805
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 전세 4억 / 114A㎡ (전용84.98A) · 30/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655854760/ / 원문 https://fin.land.naver.com/articles/2655854760
+- 오창반도유보라퍼스티지(주상복합) 106동 / 아파트 / 매매 5억 3,000 / 112C㎡ (전용84.91C) · 중/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2657220178/ / 원문 https://fin.land.naver.com/articles/2657220178
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 6,000 / 115D㎡ (전용84.98D) · 중/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2657056645/ / 원문 https://fin.land.naver.com/articles/2657056645
+- 한신더휴센트럴파크 102동 / 오피스텔 / 매매 2억 2,000 / 138㎡ (전용67.77) · 2/4층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655507409/ / 원문 https://fin.land.naver.com/articles/2655507409
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 9억 8,000 / 186㎡ (전용138.55) · 49/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655509577/ / 원문 https://fin.land.naver.com/articles/2655509577
+- 한신더휴센트럴파크 106동 / 오피스텔 / 매매 2억 3,000 / 155㎡ (전용76.07) · 4/4층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655508315/ / 원문 https://fin.land.naver.com/articles/2655508315
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 4억 8,500 / 115D㎡ (전용84.98D) · 22/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655501521/ / 원문 https://fin.land.naver.com/articles/2655501521
+- 한신더휴센트럴파크 103동 / 오피스텔 / 매매 1억 / 56A㎡ (전용27.53A) · 3/4층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655508233/ / 원문 https://fin.land.naver.com/articles/2655508233
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 5,000 / 114A㎡ (전용84.98A) · 22/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655508157/ / 원문 https://fin.land.naver.com/articles/2655508157
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 3,000 / 115C㎡ (전용84.99C) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656899374/ / 원문 https://fin.land.naver.com/articles/2656899374
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 2,000 / 115B㎡ (전용84.98B) · 중/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656495016/ / 원문 https://fin.land.naver.com/articles/2656495016
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 4억 5,000 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656494958/ / 원문 https://fin.land.naver.com/articles/2656494958
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 전세 3억 8,000 / 114A㎡ (전용84.98A) · 중/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656605977/ / 원문 https://fin.land.naver.com/articles/2656605977
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 5억 3,000 / 115D㎡ (전용84.98D) · 고/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656674435/ / 원문 https://fin.land.naver.com/articles/2656674435
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 1,000 / 115B㎡ (전용84.98B) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656494714/ / 원문 https://fin.land.naver.com/articles/2656494714
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 4억 9,000 / 114A㎡ (전용84.98A) · 12/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654689540/ / 원문 https://fin.land.naver.com/articles/2654689540
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 6억 5,000 / 115D㎡ (전용84.98D) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143846/ / 원문 https://fin.land.naver.com/articles/2656143846
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 5,000 / 115C㎡ (전용84.99C) · 고/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143671/ / 원문 https://fin.land.naver.com/articles/2656143671
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 4억 8,000 / 114A㎡ (전용84.98A) · 고/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143808/ / 원문 https://fin.land.naver.com/articles/2656143808
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 2,000 / 115C㎡ (전용84.99C) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143711/ / 원문 https://fin.land.naver.com/articles/2656143711
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 4억 7,000 / 114A㎡ (전용84.98A) · 고/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143710/ / 원문 https://fin.land.naver.com/articles/2656143710
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 전세 3억 8,000 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656001477/ / 원문 https://fin.land.naver.com/articles/2656001477
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 1,000 / 115C㎡ (전용84.99C) · 고/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143791/ / 원문 https://fin.land.naver.com/articles/2656143791
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 6억 1,000 / 115D㎡ (전용84.98D) · 고/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656001516/ / 원문 https://fin.land.naver.com/articles/2656001516
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 5,000 / 115D㎡ (전용84.98D) · 중/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143781/ / 원문 https://fin.land.naver.com/articles/2656143781
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 4억 9,500 / 115C㎡ (전용84.99C) · 저/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143721/ / 원문 https://fin.land.naver.com/articles/2656143721
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 / 115B㎡ (전용84.98B) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656143769/ / 원문 https://fin.land.naver.com/articles/2656143769
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 1,000 / 115C㎡ (전용84.99C) · 30/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654502398/ / 원문 https://fin.land.naver.com/articles/2654502398
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 1,000 / 115B㎡ (전용84.98B) · 42/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654502547/ / 원문 https://fin.land.naver.com/articles/2654502547
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 4,000 / 115C㎡ (전용84.99C) · 34/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654362692/ / 원문 https://fin.land.naver.com/articles/2654362692
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 4억 9,000 / 115C㎡ (전용84.99C) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655508912/ / 원문 https://fin.land.naver.com/articles/2655508912
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 5억 1,000 / 115D㎡ (전용84.98D) · 저/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655507502/ / 원문 https://fin.land.naver.com/articles/2655507502
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 5억 3,000 / 115B㎡ (전용84.98B) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655501030/ / 원문 https://fin.land.naver.com/articles/2655501030
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 5억 4,000 / 115C㎡ (전용84.99C) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655508455/ / 원문 https://fin.land.naver.com/articles/2655508455
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 4억 5,000 / 115C㎡ (전용84.99C) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655501096/ / 원문 https://fin.land.naver.com/articles/2655501096
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 3,000 / 115B㎡ (전용84.98B) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655508815/ / 원문 https://fin.land.naver.com/articles/2655508815
+- 한신더휴센트럴파크 102동 / 오피스텔 / 매매 1억 / 50A㎡ (전용24.73A) · 2/4층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654247238/ / 원문 https://fin.land.naver.com/articles/2654247238
+- 한신더휴센트럴파크 102동 / 오피스텔 / 매매 8,700 / 45B㎡ (전용22.34B) · 3/4층 · 북향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654248441/ / 원문 https://fin.land.naver.com/articles/2654248441
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 / 114A㎡ (전용84.98A) · 40/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654248809/ / 원문 https://fin.land.naver.com/articles/2654248809
+- 한신더휴센트럴파크 102동 / 오피스텔 / 매매 2억 2,000 / 138㎡ (전용67.77) · 3/4층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654247585/ / 원문 https://fin.land.naver.com/articles/2654247585
+- 한신더휴센트럴파크 103동 / 오피스텔 / 매매 2억 3,500 / 155㎡ (전용76.07) · 3/4층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654247658/ / 원문 https://fin.land.naver.com/articles/2654247658
+- 오창반도유보라퍼스티지(주상복합) 108동 / 아파트 / 매매 3억 7,000 / 80㎡ (전용59.97) · 중/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655507354/ / 원문 https://fin.land.naver.com/articles/2655507354
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 6억 2,000 / 115D㎡ (전용84.98D) · 고/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655354715/ / 원문 https://fin.land.naver.com/articles/2655354715
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 5억 500 / 114A㎡ (전용84.98A) · 고/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655421446/ / 원문 https://fin.land.naver.com/articles/2655421446
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 5억 / 114A㎡ (전용84.98A) · 저/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655124361/ / 원문 https://fin.land.naver.com/articles/2655124361
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655042708/ / 원문 https://fin.land.naver.com/articles/2655042708
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 6억 / 115C㎡ (전용84.99C) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655042366/ / 원문 https://fin.land.naver.com/articles/2655042366
+- 더샵오창프레스티지 104동 / 아파트분양권 / 매매 7억 7,900 / 167B㎡ (전용127.82B) · 46/48층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653221774/ / 원문 https://fin.land.naver.com/articles/2653221774
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 4억 8,000 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654690170/ / 원문 https://fin.land.naver.com/articles/2654690170
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 4억 8,000 / 114A㎡ (전용84.98A) · 고/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654844161/ / 원문 https://fin.land.naver.com/articles/2654844161
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 3,000 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654689499/ / 원문 https://fin.land.naver.com/articles/2654689499
+- 한신더휴센트럴파크 104동 / 오피스텔 / 매매 2억 3,500 / 155㎡ (전용76.07) · 중/4층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654690200/ / 원문 https://fin.land.naver.com/articles/2654690200
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 4억 7,000 / 114A㎡ (전용84.98A) · 중/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654690139/ / 원문 https://fin.land.naver.com/articles/2654690139
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 / 115C㎡ (전용84.99C) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654689812/ / 원문 https://fin.land.naver.com/articles/2654689812
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 5,000 / 114A㎡ (전용84.98A) · 고/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654689829/ / 원문 https://fin.land.naver.com/articles/2654689829
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 / 115B㎡ (전용84.98B) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654689287/ / 원문 https://fin.land.naver.com/articles/2654689287
+- 한신더휴센트럴파크 105동 / 오피스텔 / 매매 2억 3,000 / 155㎡ (전용76.07) · 4/4층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653373226/ / 원문 https://fin.land.naver.com/articles/2653373226
+- 한신더휴센트럴파크 107동 / 오피스텔 / 매매 9,500 / 50A㎡ (전용24.73A) · 3/4층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653373174/ / 원문 https://fin.land.naver.com/articles/2653373174
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 / 114A㎡ (전용84.98A) · 고/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654359781/ / 원문 https://fin.land.naver.com/articles/2654359781
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 4,000 / 115B㎡ (전용84.98B) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654359699/ / 원문 https://fin.land.naver.com/articles/2654359699
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 5억 2,000 / 115B㎡ (전용84.98B) · 12/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652938738/ / 원문 https://fin.land.naver.com/articles/2652938738
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 2,000 / 115D㎡ (전용84.98D) · 고/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654249228/ / 원문 https://fin.land.naver.com/articles/2654249228
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 5억 7,000 / 115D㎡ (전용84.98D) · 고/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654249151/ / 원문 https://fin.land.naver.com/articles/2654249151
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 / 115C㎡ (전용84.99C) · 저/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654248840/ / 원문 https://fin.land.naver.com/articles/2654248840
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 2,000 / 115C㎡ (전용84.99C) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654248782/ / 원문 https://fin.land.naver.com/articles/2654248782
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 4억 7,000 / 114A㎡ (전용84.98A) · 45/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652679225/ / 원문 https://fin.land.naver.com/articles/2652679225
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 5억 4,000 / 115D㎡ (전용84.98D) · 36/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652676188/ / 원문 https://fin.land.naver.com/articles/2652676188
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 1,000 / 115B㎡ (전용84.98B) · 48/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652863032/ / 원문 https://fin.land.naver.com/articles/2652863032
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 4억 7,000 / 114A㎡ (전용84.98A) · 10/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652676444/ / 원문 https://fin.land.naver.com/articles/2652676444
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 5억 / 115B㎡ (전용84.98B) · 20/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652674522/ / 원문 https://fin.land.naver.com/articles/2652674522
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 월세 3,000/150 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653849922/ / 원문 https://fin.land.naver.com/articles/2653849922
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 / 115B㎡ (전용84.98B) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653794796/ / 원문 https://fin.land.naver.com/articles/2653794796
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 6억 2,000 / 115D㎡ (전용84.98D) · 고/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653544009/ / 원문 https://fin.land.naver.com/articles/2653544009
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 6억 3,000 / 115D㎡ (전용84.98D) · 37/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652229372/ / 원문 https://fin.land.naver.com/articles/2652229372
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 5억 / 115C㎡ (전용84.99C) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653372831/ / 원문 https://fin.land.naver.com/articles/2653372831
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 1,000 / 115C㎡ (전용84.99C) · 24/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651791750/ / 원문 https://fin.land.naver.com/articles/2651791750
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 4억 8,500 / 114A㎡ (전용84.98A) · 40/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651791074/ / 원문 https://fin.land.naver.com/articles/2651791074
+- 한신더휴센트럴파크 105동 / 오피스텔 / 매매 2억 3,000 / 155㎡ (전용76.07) · 2/4층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651998394/ / 원문 https://fin.land.naver.com/articles/2651998394
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 4억 7,000 / 115B㎡ (전용84.98B) · 11/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651942537/ / 원문 https://fin.land.naver.com/articles/2651942537
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 4억 4,000 / 114A㎡ (전용84.98A) · 9/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651791186/ / 원문 https://fin.land.naver.com/articles/2651791186
+- 한신더휴센트럴파크 105동 / 오피스텔 / 매매 2억 3,000 / 138㎡ (전용67.77) · 4/4층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651996158/ / 원문 https://fin.land.naver.com/articles/2651996158
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 8억 7,000 / 174㎡ (전용129.04) · 46/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651789402/ / 원문 https://fin.land.naver.com/articles/2651789402
+- 부평역해링턴플레이스 108동 / 아파트 / 매매 7억 1,000 / 110C㎡ (전용84.96C) · 39/43층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652231082/ / 원문 https://fin.land.naver.com/articles/2652231082
+- 오창읍 단지내상가 / 상가점포 / 월세 3,000/150 / 2018.02(9년차) · 계약91.41㎡ (전용65.25) · 1/3층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651996526/ / 원문 https://fin.land.naver.com/articles/2651996526
+- 오창읍 단지내상가 / 상가점포 / 매매 5억 5,000 / 2018.02(9년차) · 계약91.41㎡ (전용65.25) · 1/3층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651997000/ / 원문 https://fin.land.naver.com/articles/2651997000
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 8,000 / 115D㎡ (전용84.98D) · 중/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653222344/ / 원문 https://fin.land.naver.com/articles/2653222344
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 5억 / 114A㎡ (전용84.98A) · 저/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653222025/ / 원문 https://fin.land.naver.com/articles/2653222025
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 5,000 / 114A㎡ (전용84.98A) · 중/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652938437/ / 원문 https://fin.land.naver.com/articles/2652938437
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 2,000 / 114A㎡ (전용84.98A) · 중/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652938221/ / 원문 https://fin.land.naver.com/articles/2652938221
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 7억 / 115C㎡ (전용84.99C) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652938193/ / 원문 https://fin.land.naver.com/articles/2652938193
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 6,000 / 115D㎡ (전용84.98D) · 저/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652677227/ / 원문 https://fin.land.naver.com/articles/2652677227
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 5,000 / 115C㎡ (전용84.99C) · 중/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652675513/ / 원문 https://fin.land.naver.com/articles/2652675513
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 6억 1,000 / 115B㎡ (전용84.98B) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652674649/ / 원문 https://fin.land.naver.com/articles/2652674649
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 6억 / 115B㎡ (전용84.98B) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652675330/ / 원문 https://fin.land.naver.com/articles/2652675330
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 9억 5,000 / 174㎡ (전용129.04) · 고/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652677343/ / 원문 https://fin.land.naver.com/articles/2652677343
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 6억 1,000 / 115C㎡ (전용84.99C) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652678113/ / 원문 https://fin.land.naver.com/articles/2652678113
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 4억 8,000 / 114A㎡ (전용84.98A) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652676289/ / 원문 https://fin.land.naver.com/articles/2652676289
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 6,000 / 115D㎡ (전용84.98D) · 중/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652617323/ / 원문 https://fin.land.naver.com/articles/2652617323
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 4억 9,000 / 115D㎡ (전용84.98D) · 고/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652231373/ / 원문 https://fin.land.naver.com/articles/2652231373
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 / 115D㎡ (전용84.98D) · 고/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652303309/ / 원문 https://fin.land.naver.com/articles/2652303309
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 1,500 / 115D㎡ (전용84.98D) · 중/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652230365/ / 원문 https://fin.land.naver.com/articles/2652230365
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 5억 / 115C㎡ (전용84.99C) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652231256/ / 원문 https://fin.land.naver.com/articles/2652231256
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 4억 9,000 / 115C㎡ (전용84.99C) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651791625/ / 원문 https://fin.land.naver.com/articles/2651791625
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 5억 8,000 / 115D㎡ (전용84.98D) · 중/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651784356/ / 원문 https://fin.land.naver.com/articles/2651784356
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 9억 5,000 / 205㎡ (전용149.63) · 고/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651789306/ / 원문 https://fin.land.naver.com/articles/2651789306
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 1,000 / 115C㎡ (전용84.99C) · 고/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651797240/ / 원문 https://fin.land.naver.com/articles/2651797240
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 10억 / 174㎡ (전용129.04) · 고/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651790258/ / 원문 https://fin.land.naver.com/articles/2651790258
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 1,000 / 115B㎡ (전용84.98B) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651791864/ / 원문 https://fin.land.naver.com/articles/2651791864
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 5억 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651788687/ / 원문 https://fin.land.naver.com/articles/2651788687
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 1,000 / 115D㎡ (전용84.98D) · 고/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651790956/ / 원문 https://fin.land.naver.com/articles/2651790956
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 5,000 / 115B㎡ (전용84.98B) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651788571/ / 원문 https://fin.land.naver.com/articles/2651788571
+- 오창읍 단지내상가 / 상가점포 / 월세 2,000/65 / 2018.02(9년차) · 계약75.56㎡ (전용39.69) · 3/3층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651995852/ / 원문 https://fin.land.naver.com/articles/2651995852
+- 오창읍 단지내상가 / 상가점포 / 매매 2억 / 2018.02(9년차) · 계약65.76㎡ (전용46.94) · 2/3층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651788609/ / 원문 https://fin.land.naver.com/articles/2651788609
+- 오창읍 단지내상가 / 상가점포 / 월세 2,000/80 / 2018.02(9년차) · 계약65.76㎡ (전용46.94) · 2/3층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2651997427/ / 원문 https://fin.land.naver.com/articles/2651997427
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 4억 6,000 / 115B㎡ (전용84.98B) · 고/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652385466/ / 원문 https://fin.land.naver.com/articles/2652385466
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 / 115C㎡ (전용84.99C) · 고/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656218981/ / 원문 https://fin.land.naver.com/articles/2656218981
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656218672/ / 원문 https://fin.land.naver.com/articles/2656218672
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 5억 / 115B㎡ (전용84.98B) · 중/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2656002382/ / 원문 https://fin.land.naver.com/articles/2656002382
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 4억 8,000 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655648943/ / 원문 https://fin.land.naver.com/articles/2655648943
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 3,000 / 115B㎡ (전용84.98B) · 저/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655648658/ / 원문 https://fin.land.naver.com/articles/2655648658
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 1,000 / 115C㎡ (전용84.99C) · 중/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655649823/ / 원문 https://fin.land.naver.com/articles/2655649823
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 월세 3,000/155 / 115D㎡ (전용84.98D) · 고/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655443545/ / 원문 https://fin.land.naver.com/articles/2655443545
+- 한신더휴센트럴파크(주상복합) 105동 / 아파트 / 매매 4억 9,000 / 115D㎡ (전용84.98D) · 고/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2655218766/ / 원문 https://fin.land.naver.com/articles/2655218766
+- 한신더휴센트럴파크(주상복합) 101동 / 아파트 / 매매 4억 4,000 / 114A㎡ (전용84.98A) · 저/49층 · 서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654503141/ / 원문 https://fin.land.naver.com/articles/2654503141
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 5억 4,000 / 115D㎡ (전용84.98D) · 고/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654503342/ / 원문 https://fin.land.naver.com/articles/2654503342
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 5억 4,000 / 115C㎡ (전용84.99C) · 34/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654377698/ / 원문 https://fin.land.naver.com/articles/2654377698
+- 한신더휴센트럴파크(주상복합) 103동 / 아파트 / 매매 4억 9,000 / 115C㎡ (전용84.99C) · 10/49층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2654425620/ / 원문 https://fin.land.naver.com/articles/2654425620
+- 한신더휴센트럴파크(주상복합) 102동 / 아파트 / 매매 4억 6,000 / 115D㎡ (전용84.98D) · 저/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653372927/ / 원문 https://fin.land.naver.com/articles/2653372927
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 4억 7,000 / 114A㎡ (전용84.98A) · 저/49층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653373308/ / 원문 https://fin.land.naver.com/articles/2653373308
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 4억 8,500 / 115D㎡ (전용84.98D) · 중/49층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653373495/ / 원문 https://fin.land.naver.com/articles/2653373495
+- 한신더휴센트럴파크(주상복합) 104동 / 아파트 / 매매 5억 1,000 / 115C㎡ (전용84.99C) · 중/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653373100/ / 원문 https://fin.land.naver.com/articles/2653373100
+- 한신더휴센트럴파크(주상복합) 107동 / 아파트 / 매매 5억 8,000 / 115D㎡ (전용84.98D) · 중/49층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2653373014/ / 원문 https://fin.land.naver.com/articles/2653373014
+- 한신더휴센트럴파크(주상복합) 106동 / 아파트 / 매매 4억 6,000 / 115B㎡ (전용84.98B) · 고/49층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/chungbuk-hanshin/listings/2652772303/ / 원문 https://fin.land.naver.com/articles/2652772303

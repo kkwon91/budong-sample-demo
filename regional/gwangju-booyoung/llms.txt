@@ -6,13 +6,15 @@
 - 대표: 박선이
 - 소재지: 광주시 북구 신용동 737 상가109호
 - 전화: 062-574-8289
-- 취급 단지: 광주첨단2지구사랑으로부영
+- 주력 단지: 광주첨단2지구사랑으로부영
+- 전체 등록 매물: 109건
+- 취급 단지·지역: 광주첨단2지구사랑으로부영 (아파트, 106건), 우미 (아파트, 2건), 힐스테이트신용더리버 (아파트, 1건)
 - 네이버 원문: https://fin.land.naver.com/realtors/booyoung3722
 - 단지 세대수: 1772
 
 ## 질문과 답변
-### 광주첨단2지구사랑으로부영 매물은 어디서 볼 수 있나요?
-부영공인중개사사무소의 매물 메뉴에서 확인할 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
+### 부영공인중개사사무소의 전체 매물은 어디서 볼 수 있나요?
+부영공인중개사사무소의 매물 메뉴에 확인 시점의 네이버 등록 매물 109건을 모두 모았습니다. 주력 단지 외의 취급 단지와 지역도 함께 살펴볼 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
 
 ### 광주첨단2지구사랑으로부영는 몇 세대인가요?
 광주첨단2지구사랑으로부영는 1,772세대, 20개 동으로 구성돼 있습니다. 단지 기본 정보는 리치고 단지 자료를 기준으로 안내합니다.
@@ -33,18 +35,121 @@
 062-574-8289로 전화하시거나 네이버 중개소 페이지에서 문의하실 수 있습니다. 관심 매물 번호, 희망 예산과 입주 시기를 함께 알려주시면 상담에 도움이 됩니다.
 
 ### 전세·월세도 확인할 수 있나요?
-매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 이 미리보기는 확인한 일부 매물을 담고 있어, 보이지 않는 거래 종류는 네이버 전체 매물에서 확인해 주세요.
+매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 단지·지역과 매물 유형도 함께 선택할 수 있습니다. 월세는 보증금과 월 임대료를 함께 표시합니다.
 
 ### 집을 보러 가기 전에 무엇을 준비하면 좋나요?
 희망하는 전용면적, 예산, 입주 날짜와 관심 매물 번호를 정리해 주세요. 실제 방문 가능 시간은 중개소와 미리 조율하는 것이 좋습니다.
 
 ### 가격과 매물 정보는 언제 기준인가요?
-이 홈페이지 미리보기에는 2026.10.23에 확인한 매물 일부가 표시됩니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
+이 홈페이지 미리보기에는 2026.10.23에 확인한 네이버 전체 등록 매물 109건이 표시됩니다. 자동 갱신 전의 자료입니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
 
-## 확인한 매물 일부
-- 매매 2억 6,500 / 103동 / 전용 60㎡ / 원문 https://fin.land.naver.com/articles/2654630589
-- 전세 2억 7,000 / 116동 / 전용 84㎡ / 원문 https://fin.land.naver.com/articles/2654655389
-- 매매 2억 3,000 / 109동 / 전용 60㎡ / 원문 https://fin.land.naver.com/articles/2654630729
-- 매매 2억 7,500 / 107동 / 전용 60㎡ / 원문 https://fin.land.naver.com/articles/2654630937
-- 매매 2억 7,000 / 111동 / 전용 60㎡ / 원문 https://fin.land.naver.com/articles/2654657203
-- 매매 2억 2,500 / 108동 / 전용 60㎡ / 원문 https://fin.land.naver.com/articles/2655600041
+## 확인 시점의 전체 등록 매물
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 매매 2억 3,500 / 81㎡ (전용60.46) · 18/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657303295/ / 원문 https://fin.land.naver.com/articles/2657303295
+- 광주첨단2지구사랑으로부영 108동 / 아파트 / 매매 2억 1,000 / 81㎡ (전용60.46) · 1/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657304637/ / 원문 https://fin.land.naver.com/articles/2657304637
+- 광주첨단2지구사랑으로부영 104동 / 아파트 / 매매 2억 6,000 / 81㎡ (전용60.46) · 4/21층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657323816/ / 원문 https://fin.land.naver.com/articles/2657323816
+- 광주첨단2지구사랑으로부영 108동 / 아파트 / 매매 2억 2,500 / 81㎡ (전용60.46) · 11/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657305187/ / 원문 https://fin.land.naver.com/articles/2657305187
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 매매 2억 2,800 / 81㎡ (전용60.46) · 4/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657302585/ / 원문 https://fin.land.naver.com/articles/2657302585
+- 광주첨단2지구사랑으로부영 107동 / 아파트 / 매매 2억 7,500 / 81㎡ (전용60.46) · 23/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657335968/ / 원문 https://fin.land.naver.com/articles/2657335968
+- 광주첨단2지구사랑으로부영 116동 / 아파트 / 매매 3억 7,500 / 108㎡ (전용84.36) · 6/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656604984/ / 원문 https://fin.land.naver.com/articles/2656604984
+- 광주첨단2지구사랑으로부영 117동 / 아파트 / 매매 3억 2,000 / 108㎡ (전용84.36) · 12/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656600638/ / 원문 https://fin.land.naver.com/articles/2656600638
+- 광주첨단2지구사랑으로부영 107동 / 아파트 / 매매 2억 6,800 / 81㎡ (전용60.46) · 22/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656606738/ / 원문 https://fin.land.naver.com/articles/2656606738
+- 광주첨단2지구사랑으로부영 105동 / 아파트 / 매매 2억 4,000 / 81㎡ (전용60.46) · 20/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656605981/ / 원문 https://fin.land.naver.com/articles/2656605981
+- 광주첨단2지구사랑으로부영 101동 / 아파트 / 매매 1억 9,800 / 81㎡ (전용60.46) · 저/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657300587/ / 원문 https://fin.land.naver.com/articles/2657300587
+- 광주첨단2지구사랑으로부영 101동 / 아파트 / 매매 2억 2,500 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657299121/ / 원문 https://fin.land.naver.com/articles/2657299121
+- 광주첨단2지구사랑으로부영 109동 / 아파트 / 매매 2억 1,200 / 81㎡ (전용60.46) · 2/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655950279/ / 원문 https://fin.land.naver.com/articles/2655950279
+- 광주첨단2지구사랑으로부영 113동 / 아파트 / 매매 3억 5,000 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656603673/ / 원문 https://fin.land.naver.com/articles/2656603673
+- 광주첨단2지구사랑으로부영 114동 / 아파트 / 매매 3억 500 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656601107/ / 원문 https://fin.land.naver.com/articles/2656601107
+- 광주첨단2지구사랑으로부영 106동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656602834/ / 원문 https://fin.land.naver.com/articles/2656602834
+- 광주첨단2지구사랑으로부영 116동 / 아파트 / 전세 2억 7,000 / 108㎡ (전용84.36) · 6/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654655389/ / 원문 https://fin.land.naver.com/articles/2654655389
+- 광주첨단2지구사랑으로부영 111동 / 아파트 / 매매 2억 7,000 / 81㎡ (전용60.46) · 22/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654657203/ / 원문 https://fin.land.naver.com/articles/2654657203
+- 광주첨단2지구사랑으로부영 112동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 중/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655969907/ / 원문 https://fin.land.naver.com/articles/2655969907
+- 광주첨단2지구사랑으로부영 109동 / 아파트 / 매매 2억 3,000 / 81㎡ (전용60.46) · 3/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654630729/ / 원문 https://fin.land.naver.com/articles/2654630729
+- 광주첨단2지구사랑으로부영 103동 / 아파트 / 매매 2억 6,500 / 81㎡ (전용60.46) · 17/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654630589/ / 원문 https://fin.land.naver.com/articles/2654630589
+- 광주첨단2지구사랑으로부영 109동 / 아파트 / 매매 2억 3,200 / 81㎡ (전용60.46) · 15/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654631139/ / 원문 https://fin.land.naver.com/articles/2654631139
+- 광주첨단2지구사랑으로부영 114동 / 아파트 / 매매 3억 3,000 / 108㎡ (전용84.36) · 6/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654630863/ / 원문 https://fin.land.naver.com/articles/2654630863
+- 광주첨단2지구사랑으로부영 120동 / 아파트 / 매매 3억 4,500 / 108㎡ (전용84.36) · 7/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654631429/ / 원문 https://fin.land.naver.com/articles/2654631429
+- 광주첨단2지구사랑으로부영 103동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655960525/ / 원문 https://fin.land.naver.com/articles/2655960525
+- 광주첨단2지구사랑으로부영 110동 / 아파트 / 매매 2억 7,800 / 81㎡ (전용60.46) · 중/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655968262/ / 원문 https://fin.land.naver.com/articles/2655968262
+- 광주첨단2지구사랑으로부영 109동 / 아파트 / 매매 2억 4,500 / 81㎡ (전용60.46) · 10/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656604060/ / 원문 https://fin.land.naver.com/articles/2656604060
+- 광주첨단2지구사랑으로부영 108동 / 아파트 / 매매 2억 4,000 / 81㎡ (전용60.46) · 13/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656600829/ / 원문 https://fin.land.naver.com/articles/2656600829
+- 광주첨단2지구사랑으로부영 113동 / 아파트 / 매매 3억 4,000 / 108㎡ (전용84.36) · 18/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654415038/ / 원문 https://fin.land.naver.com/articles/2654415038
+- 광주첨단2지구사랑으로부영 112동 / 아파트 / 매매 2억 4,500 / 81㎡ (전용60.46) · 저/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655277770/ / 원문 https://fin.land.naver.com/articles/2655277770
+- 광주첨단2지구사랑으로부영 117동 / 아파트 / 매매 3억 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657298942/ / 원문 https://fin.land.naver.com/articles/2657298942
+- 광주첨단2지구사랑으로부영 109동 / 아파트 / 매매 2억 3,500 / 81㎡ (전용60.46) · 고/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2657299534/ / 원문 https://fin.land.naver.com/articles/2657299534
+- 광주첨단2지구사랑으로부영 103동 / 아파트 / 매매 2억 4,200 / 81㎡ (전용60.46) · 6/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655960108/ / 원문 https://fin.land.naver.com/articles/2655960108
+- 광주첨단2지구사랑으로부영 119동 / 아파트 / 매매 3억 4,000 / 108㎡ (전용84.36) · 중/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654631109/ / 원문 https://fin.land.naver.com/articles/2654631109
+- 광주첨단2지구사랑으로부영 118동 / 아파트 / 매매 3억 6,500 / 108㎡ (전용84.36) · 중/12층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654553468/ / 원문 https://fin.land.naver.com/articles/2654553468
+- 광주첨단2지구사랑으로부영 120동 / 아파트 / 매매 3억 9,000 / 108㎡ (전용84.36) · 중/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654631278/ / 원문 https://fin.land.naver.com/articles/2654631278
+- 광주첨단2지구사랑으로부영 111동 / 아파트 / 매매 2억 4,000 / 81㎡ (전용60.46) · 저/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656605366/ / 원문 https://fin.land.naver.com/articles/2656605366
+- 광주첨단2지구사랑으로부영 104동 / 아파트 / 매매 2억 5,500 / 81㎡ (전용60.46) · 저/21층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656605223/ / 원문 https://fin.land.naver.com/articles/2656605223
+- 광주첨단2지구사랑으로부영 108동 / 아파트 / 매매 2억 3,500 / 81㎡ (전용60.46) · 고/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656605834/ / 원문 https://fin.land.naver.com/articles/2656605834
+- 광주첨단2지구사랑으로부영 108동 / 아파트 / 매매 2억 3,500 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656603748/ / 원문 https://fin.land.naver.com/articles/2656603748
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 매매 2억 3,900 / 81㎡ (전용60.46) · 고/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656604435/ / 원문 https://fin.land.naver.com/articles/2656604435
+- 광주첨단2지구사랑으로부영 101동 / 아파트 / 매매 2억 2,500 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656602644/ / 원문 https://fin.land.naver.com/articles/2656602644
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 매매 2억 2,500 / 81㎡ (전용60.46) · 고/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656606197/ / 원문 https://fin.land.naver.com/articles/2656606197
+- 광주첨단2지구사랑으로부영 112동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 중/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656604145/ / 원문 https://fin.land.naver.com/articles/2656604145
+- 광주첨단2지구사랑으로부영 101동 / 아파트 / 매매 2억 2,600 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656603913/ / 원문 https://fin.land.naver.com/articles/2656603913
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 매매 2억 2,300 / 81㎡ (전용60.46) · 고/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656605655/ / 원문 https://fin.land.naver.com/articles/2656605655
+- 광주첨단2지구사랑으로부영 106동 / 아파트 / 매매 2억 4,500 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2656604783/ / 원문 https://fin.land.naver.com/articles/2656604783
+- 광주첨단2지구사랑으로부영 114동 / 아파트 / 매매 3억 2,000 / 108㎡ (전용84.36) · 중/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414991/ / 원문 https://fin.land.naver.com/articles/2654414991
+- 광주첨단2지구사랑으로부영 106동 / 아파트 / 전세 2억 1,000 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654468926/ / 원문 https://fin.land.naver.com/articles/2654468926
+- 광주첨단2지구사랑으로부영 106동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654468640/ / 원문 https://fin.land.naver.com/articles/2654468640
+- 광주첨단2지구사랑으로부영 105동 / 아파트 / 매매 2억 2,700 / 81㎡ (전용60.46) · 23/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653081997/ / 원문 https://fin.land.naver.com/articles/2653081997
+- 힐스테이트신용더리버 104동 / 아파트 / 전세 3억 3,000 / 109A㎡ (전용84.99A) · 2/26층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653303197/ / 원문 https://fin.land.naver.com/articles/2653303197
+- 광주첨단2지구사랑으로부영 120동 / 아파트 / 매매 3억 7,500 / 108㎡ (전용84.36) · 10/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654631291/ / 원문 https://fin.land.naver.com/articles/2654631291
+- 광주첨단2지구사랑으로부영 116동 / 아파트 / 매매 3억 5,700 / 108㎡ (전용84.36) · 18/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652736905/ / 원문 https://fin.land.naver.com/articles/2652736905
+- 우미 103동 / 아파트 / 매매 9,500 / 70㎡ (전용49.77) · 9/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654781027/ / 원문 https://fin.land.naver.com/articles/2654781027
+- 광주첨단2지구사랑으로부영 106동 / 아파트 / 매매 2억 5,500 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655968430/ / 원문 https://fin.land.naver.com/articles/2655968430
+- 광주첨단2지구사랑으로부영 117동 / 아파트 / 월세 3,000/95 / 108㎡ (전용84.36) · 고/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655965674/ / 원문 https://fin.land.naver.com/articles/2655965674
+- 광주첨단2지구사랑으로부영 105동 / 아파트 / 매매 2억 4,500 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655969788/ / 원문 https://fin.land.naver.com/articles/2655969788
+- 광주첨단2지구사랑으로부영 112동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 24/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654551568/ / 원문 https://fin.land.naver.com/articles/2654551568
+- 광주첨단2지구사랑으로부영 116동 / 아파트 / 매매 3억 2,000 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655277444/ / 원문 https://fin.land.naver.com/articles/2655277444
+- 광주첨단2지구사랑으로부영 107동 / 아파트 / 매매 2억 6,500 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655277523/ / 원문 https://fin.land.naver.com/articles/2655277523
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 매매 2억 4,000 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655277994/ / 원문 https://fin.land.naver.com/articles/2655277994
+- 광주첨단2지구사랑으로부영 103동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2655277869/ / 원문 https://fin.land.naver.com/articles/2655277869
+- 광주첨단2지구사랑으로부영 115동 / 아파트 / 매매 3억 3,500 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653070908/ / 원문 https://fin.land.naver.com/articles/2653070908
+- 광주첨단2지구사랑으로부영 103동 / 아파트 / 매매 2억 6,000 / 81㎡ (전용60.46) · 중/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654629121/ / 원문 https://fin.land.naver.com/articles/2654629121
+- 광주첨단2지구사랑으로부영 108동 / 아파트 / 매매 2억 2,500 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654918062/ / 원문 https://fin.land.naver.com/articles/2654918062
+- 광주첨단2지구사랑으로부영 112동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 중/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654631352/ / 원문 https://fin.land.naver.com/articles/2654631352
+- 광주첨단2지구사랑으로부영 117동 / 아파트 / 매매 3억 3,500 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652738751/ / 원문 https://fin.land.naver.com/articles/2652738751
+- 광주첨단2지구사랑으로부영 116동 / 아파트 / 매매 3억 5,000 / 108㎡ (전용84.36) · 고/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652737733/ / 원문 https://fin.land.naver.com/articles/2652737733
+- 광주첨단2지구사랑으로부영 108동 / 아파트 / 매매 2억 3,500 / 81㎡ (전용60.46) · 고/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652735833/ / 원문 https://fin.land.naver.com/articles/2652735833
+- 광주첨단2지구사랑으로부영 118동 / 아파트 / 매매 3억 7,000 / 108㎡ (전용84.36) · 고/12층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654551205/ / 원문 https://fin.land.naver.com/articles/2654551205
+- 광주첨단2지구사랑으로부영 115동 / 아파트 / 매매 3억 4,500 / 108㎡ (전용84.36) · 중/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414274/ / 원문 https://fin.land.naver.com/articles/2654414274
+- 광주첨단2지구사랑으로부영 118동 / 아파트 / 매매 3억 6,000 / 108㎡ (전용84.36) · 중/12층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654551884/ / 원문 https://fin.land.naver.com/articles/2654551884
+- 광주첨단2지구사랑으로부영 116동 / 아파트 / 매매 3억 4,000 / 108㎡ (전용84.36) · 고/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414791/ / 원문 https://fin.land.naver.com/articles/2654414791
+- 광주첨단2지구사랑으로부영 107동 / 아파트 / 매매 2억 7,000 / 81㎡ (전용60.46) · 중/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414407/ / 원문 https://fin.land.naver.com/articles/2654414407
+- 광주첨단2지구사랑으로부영 113동 / 아파트 / 월세 5,000/95 / 108㎡ (전용84.36) · 18/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2651428728/ / 원문 https://fin.land.naver.com/articles/2651428728
+- 광주첨단2지구사랑으로부영 119동 / 아파트 / 매매 3억 3,000 / 108㎡ (전용84.36) · 저/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414453/ / 원문 https://fin.land.naver.com/articles/2654414453
+- 광주첨단2지구사랑으로부영 114동 / 아파트 / 매매 3억 4,500 / 108㎡ (전용84.36) · 고/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414195/ / 원문 https://fin.land.naver.com/articles/2654414195
+- 광주첨단2지구사랑으로부영 116동 / 아파트 / 매매 3억 4,000 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414549/ / 원문 https://fin.land.naver.com/articles/2654414549
+- 광주첨단2지구사랑으로부영 113동 / 아파트 / 매매 3억 4,000 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414720/ / 원문 https://fin.land.naver.com/articles/2654414720
+- 광주첨단2지구사랑으로부영 104동 / 아파트 / 매매 2억 5,700 / 81㎡ (전용60.46) · 중/21층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2654414623/ / 원문 https://fin.land.naver.com/articles/2654414623
+- 광주첨단2지구사랑으로부영 109동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 8/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653089979/ / 원문 https://fin.land.naver.com/articles/2653089979
+- 광주첨단2지구사랑으로부영 112동 / 아파트 / 월세 2,000/90 / 81㎡ (전용60.46) · 6/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652848027/ / 원문 https://fin.land.naver.com/articles/2652848027
+- 광주첨단2지구사랑으로부영 112동 / 아파트 / 매매 2억 5,000 / 81㎡ (전용60.46) · 11/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652737432/ / 원문 https://fin.land.naver.com/articles/2652737432
+- 광주첨단2지구사랑으로부영 105동 / 아파트 / 매매 2억 4,000 / 81㎡ (전용60.46) · 고/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653946785/ / 원문 https://fin.land.naver.com/articles/2653946785
+- 광주첨단2지구사랑으로부영 109동 / 아파트 / 매매 2억 3,000 / 81㎡ (전용60.46) · 14/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2651661682/ / 원문 https://fin.land.naver.com/articles/2651661682
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 매매 2억 3,300 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2651427499/ / 원문 https://fin.land.naver.com/articles/2651427499
+- 광주첨단2지구사랑으로부영 115동 / 아파트 / 매매 3억 2,000 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653078186/ / 원문 https://fin.land.naver.com/articles/2653078186
+- 광주첨단2지구사랑으로부영 111동 / 아파트 / 매매 2억 2,800 / 81㎡ (전용60.46) · 저/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652617213/ / 원문 https://fin.land.naver.com/articles/2652617213
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 월세 2,000/85 / 81㎡ (전용60.46) · 저/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652617162/ / 원문 https://fin.land.naver.com/articles/2652617162
+- 광주첨단2지구사랑으로부영 107동 / 아파트 / 매매 2억 6,300 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652734688/ / 원문 https://fin.land.naver.com/articles/2652734688
+- 광주첨단2지구사랑으로부영 101동 / 아파트 / 매매 2억 3,000 / 81㎡ (전용60.46) · 저/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652735304/ / 원문 https://fin.land.naver.com/articles/2652735304
+- 광주첨단2지구사랑으로부영 114동 / 아파트 / 매매 3억 1,000 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652736158/ / 원문 https://fin.land.naver.com/articles/2652736158
+- 광주첨단2지구사랑으로부영 104동 / 아파트 / 월세 5,000/70 / 81㎡ (전용60.46) · 고/21층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652861304/ / 원문 https://fin.land.naver.com/articles/2652861304
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 전세 2억 / 81㎡ (전용60.46) · 중/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652851532/ / 원문 https://fin.land.naver.com/articles/2652851532
+- 우미 102동 / 아파트 / 매매 1억 / 70㎡ (전용49.77) · 17/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2651576907/ / 원문 https://fin.land.naver.com/articles/2651576907
+- 광주첨단2지구사랑으로부영 102동 / 아파트 / 매매 2억 3,500 / 81㎡ (전용60.46) · 고/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2651661389/ / 원문 https://fin.land.naver.com/articles/2651661389
+- 광주첨단2지구사랑으로부영 110동 / 아파트 / 매매 2억 6,000 / 81㎡ (전용60.46) · 저/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2651427714/ / 원문 https://fin.land.naver.com/articles/2651427714
+- 광주첨단2지구사랑으로부영 107동 / 아파트 / 월세 2,000/90 / 81㎡ (전용60.46) · 고/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2651428314/ / 원문 https://fin.land.naver.com/articles/2651428314
+- 광주첨단2지구사랑으로부영 119동 / 아파트 / 매매 3억 3,000 / 108㎡ (전용84.36) · 저/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2651428046/ / 원문 https://fin.land.naver.com/articles/2651428046
+- 광주첨단2지구사랑으로부영 114동 / 아파트 / 매매 3억 500 / 108㎡ (전용84.36) · 1/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653095158/ / 원문 https://fin.land.naver.com/articles/2653095158
+- 광주첨단2지구사랑으로부영 103동 / 아파트 / 매매 2억 4,000 / 81㎡ (전용60.46) · 저/25층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652940364/ / 원문 https://fin.land.naver.com/articles/2652940364
+- 광주첨단2지구사랑으로부영 119동 / 아파트 / 매매 3억 3,000 / 108㎡ (전용84.36) · 저/15층 · 북향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653074246/ / 원문 https://fin.land.naver.com/articles/2653074246
+- 광주첨단2지구사랑으로부영 105동 / 아파트 / 매매 2억 2,000 / 81㎡ (전용60.46) · 저/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652941311/ / 원문 https://fin.land.naver.com/articles/2652941311
+- 광주첨단2지구사랑으로부영 120동 / 아파트 / 매매 3억 3,000 / 108㎡ (전용84.36) · 중/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653073520/ / 원문 https://fin.land.naver.com/articles/2653073520
+- 광주첨단2지구사랑으로부영 115동 / 아파트 / 매매 3억 3,000 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653072334/ / 원문 https://fin.land.naver.com/articles/2653072334
+- 광주첨단2지구사랑으로부영 117동 / 아파트 / 매매 3억 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653075427/ / 원문 https://fin.land.naver.com/articles/2653075427
+- 광주첨단2지구사랑으로부영 115동 / 아파트 / 매매 3억 1,500 / 108㎡ (전용84.36) · 저/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2653076901/ / 원문 https://fin.land.naver.com/articles/2653076901
+- 광주첨단2지구사랑으로부영 101동 / 아파트 / 매매 1억 9,800 / 81㎡ (전용60.46) · 저/25층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gwangju-booyoung/listings/2652782277/ / 원문 https://fin.land.naver.com/articles/2652782277

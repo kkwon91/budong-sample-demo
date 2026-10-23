@@ -6,13 +6,15 @@
 - 대표: 신정인
 - 소재지: 대구광역시 수성구 황금동 366 캐슬골드파크2단지 종합상가동 154호
 - 전화: 053-762-0500
-- 취급 단지: 캐슬골드파크
+- 주력 단지: 캐슬골드파크
+- 전체 등록 매물: 222건
+- 취급 단지·지역: 캐슬골드파크 (아파트, 203건), 신천지타운 (아파트, 4건), 청원 (재건축, 4건), 힐스테이트황금동 (아파트, 3건), 성창파크빌 (아파트, 2건), 황금동 단지내상가 (상가점포, 1건), 태왕아너스 (아파트, 1건), 만촌삼정그린코아에듀파크 (아파트, 1건), 수성지구우방타운2차 (재건축, 1건), 녹원맨션 (아파트, 1건), 황금동 일반상가 (상가점포, 1건)
 - 네이버 원문: https://fin.land.naver.com/realtors/jps3433
 - 단지 세대수: 4256
 
 ## 질문과 답변
-### 캐슬골드파크 매물은 어디서 볼 수 있나요?
-황금흥부부동산중개의 매물 메뉴에서 확인할 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
+### 황금흥부부동산중개의 전체 매물은 어디서 볼 수 있나요?
+황금흥부부동산중개의 매물 메뉴에 확인 시점의 네이버 등록 매물 222건을 모두 모았습니다. 주력 단지 외의 취급 단지와 지역도 함께 살펴볼 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
 
 ### 캐슬골드파크는 몇 세대인가요?
 캐슬골드파크는 4,256세대, 67개 동으로 구성돼 있습니다. 단지 기본 정보는 리치고 단지 자료를 기준으로 안내합니다.
@@ -33,18 +35,234 @@
 053-762-0500로 전화하시거나 네이버 중개소 페이지에서 문의하실 수 있습니다. 관심 매물 번호, 희망 예산과 입주 시기를 함께 알려주시면 상담에 도움이 됩니다.
 
 ### 전세·월세도 확인할 수 있나요?
-매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 이 미리보기는 확인한 일부 매물을 담고 있어, 보이지 않는 거래 종류는 네이버 전체 매물에서 확인해 주세요.
+매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 단지·지역과 매물 유형도 함께 선택할 수 있습니다. 월세는 보증금과 월 임대료를 함께 표시합니다.
 
 ### 집을 보러 가기 전에 무엇을 준비하면 좋나요?
 희망하는 전용면적, 예산, 입주 날짜와 관심 매물 번호를 정리해 주세요. 실제 방문 가능 시간은 중개소와 미리 조율하는 것이 좋습니다.
 
 ### 가격과 매물 정보는 언제 기준인가요?
-이 홈페이지 미리보기에는 2026.10.23에 확인한 매물 일부가 표시됩니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
+이 홈페이지 미리보기에는 2026.10.23에 확인한 네이버 전체 등록 매물 222건이 표시됩니다. 자동 갱신 전의 자료입니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
 
-## 확인한 매물 일부
-- 매매 7억 8,000 / 1404동 / 전용 129㎡ / 원문 https://fin.land.naver.com/articles/2656736582
-- 매매 5억 5,000 / 1409동 / 전용 84㎡ / 원문 https://fin.land.naver.com/articles/2656736639
-- 매매 8억 2,000 / 1419동 / 전용 129㎡ / 원문 https://fin.land.naver.com/articles/2656745712
-- 매매 8억 2,000 / 1419동 / 전용 129㎡ / 원문 https://fin.land.naver.com/articles/2656745841
-- 매매 7억 5,000 / 1506동 / 전용 129㎡ / 원문 https://fin.land.naver.com/articles/2656907382
-- 매매 3억 6,000 / 1308동 / 전용 59㎡ / 원문 https://fin.land.naver.com/articles/2656935956
+## 확인 시점의 전체 등록 매물
+- 캐슬골드파크 1205동 / 아파트 / 매매 7억 2,000 / 161㎡ (전용129.53) · 8/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657204925/ / 원문 https://fin.land.naver.com/articles/2657204925
+- 캐슬골드파크 1413동 / 아파트 / 매매 7억 6,000 / 161㎡ (전용129.53) · 8/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657206618/ / 원문 https://fin.land.naver.com/articles/2657206618
+- 캐슬골드파크 1403동 / 아파트 / 매매 5억 5,800 / 108㎡ (전용84.97) · 7/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657409549/ / 원문 https://fin.land.naver.com/articles/2657409549
+- 캐슬골드파크 1107동 / 아파트 / 매매 7억 2,000 / 138㎡ (전용116.82) · 16/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657206397/ / 원문 https://fin.land.naver.com/articles/2657206397
+- 캐슬골드파크 1110동 / 아파트 / 매매 5억 4,000 / 108㎡ (전용84.97) · 1/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657314202/ / 원문 https://fin.land.naver.com/articles/2657314202
+- 캐슬골드파크 1202동 / 아파트 / 매매 5억 4,000 / 97㎡ (전용74.62) · 8/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657204898/ / 원문 https://fin.land.naver.com/articles/2657204898
+- 캐슬골드파크 1108동 / 아파트 / 매매 7억 1,000 / 161㎡ (전용129.53) · 6/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657206942/ / 원문 https://fin.land.naver.com/articles/2657206942
+- 캐슬골드파크 1101동 / 아파트 / 매매 6억 7,000 / 138㎡ (전용116.82) · 21/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657206175/ / 원문 https://fin.land.naver.com/articles/2657206175
+- 캐슬골드파크 1416동 / 아파트 / 매매 11억 5,000 / 206㎡ (전용172.37) · 16/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657206141/ / 원문 https://fin.land.naver.com/articles/2657206141
+- 캐슬골드파크 1502동 / 아파트 / 매매 6억 7,000 / 138㎡ (전용116.82) · 20/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657207225/ / 원문 https://fin.land.naver.com/articles/2657207225
+- 캐슬골드파크 1305동 / 아파트 / 매매 7억 8,000 / 171㎡ (전용138.82) · 2/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657206100/ / 원문 https://fin.land.naver.com/articles/2657206100
+- 캐슬골드파크 1501동 / 아파트 / 매매 3억 8,000 / 82㎡ (전용59.98) · 6/19층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657206653/ / 원문 https://fin.land.naver.com/articles/2657206653
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 6,000 / 161㎡ (전용129.53) · 16/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657225641/ / 원문 https://fin.land.naver.com/articles/2657225641
+- 캐슬골드파크 1412동 / 아파트 / 매매 7억 9,000 / 138㎡ (전용116.82) · 4/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657204616/ / 원문 https://fin.land.naver.com/articles/2657204616
+- 캐슬골드파크 1308동 / 아파트 / 매매 3억 6,000 / 82㎡ (전용59.98) · 5/13층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656935956/ / 원문 https://fin.land.naver.com/articles/2656935956
+- 캐슬골드파크 1308동 / 아파트 / 매매 3억 6,000 / 82㎡ (전용59.98) · 5/13층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656936807/ / 원문 https://fin.land.naver.com/articles/2656936807
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 5,000 / 161㎡ (전용129.53) · 10/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656939951/ / 원문 https://fin.land.naver.com/articles/2656939951
+- 캐슬골드파크 1409동 / 아파트 / 매매 5억 5,000 / 108㎡ (전용84.97) · 1/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656736639/ / 원문 https://fin.land.naver.com/articles/2656736639
+- 캐슬골드파크 1419동 / 아파트 / 매매 8억 2,000 / 161㎡ (전용129.53) · 14/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656745712/ / 원문 https://fin.land.naver.com/articles/2656745712
+- 캐슬골드파크 1406동 / 아파트 / 매매 5억 / 97㎡ (전용74.62) · 20/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656736392/ / 원문 https://fin.land.naver.com/articles/2656736392
+- 캐슬골드파크 1419동 / 아파트 / 매매 8억 2,000 / 161㎡ (전용129.53) · 14/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656745841/ / 원문 https://fin.land.naver.com/articles/2656745841
+- 캐슬골드파크 1404동 / 아파트 / 매매 7억 8,000 / 161㎡ (전용129.53) · 23/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656736582/ / 원문 https://fin.land.naver.com/articles/2656736582
+- 캐슬골드파크 1102동 / 아파트 / 매매 5억 5,000 / 108㎡ (전용84.97) · 9/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656734546/ / 원문 https://fin.land.naver.com/articles/2656734546
+- 캐슬골드파크 1506동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 7/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656907382/ / 원문 https://fin.land.naver.com/articles/2656907382
+- 캐슬골드파크 1306동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 10/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656487765/ / 원문 https://fin.land.naver.com/articles/2656487765
+- 신천지타운 202동 / 아파트 / 매매 10억 9,900 / 250㎡ (전용202.92) · 7/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656730727/ / 원문 https://fin.land.naver.com/articles/2656730727
+- 캐슬골드파크 1410동 / 아파트 / 전세 3억 4,000 / 108㎡ (전용84.97) · 2/22층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656488019/ / 원문 https://fin.land.naver.com/articles/2656488019
+- 캐슬골드파크 1417동 / 아파트 / 매매 4억 2,000 / 82㎡ (전용59.98) · 14/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656491021/ / 원문 https://fin.land.naver.com/articles/2656491021
+- 캐슬골드파크 1403동 / 아파트 / 매매 6억 4,000 / 138㎡ (전용116.82) · 3/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656487888/ / 원문 https://fin.land.naver.com/articles/2656487888
+- 캐슬골드파크 1501동 / 아파트 / 전세 2억 4,000 / 82㎡ (전용59.98) · 3/19층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656503488/ / 원문 https://fin.land.naver.com/articles/2656503488
+- 캐슬골드파크 1417동 / 아파트 / 매매 5억 9,000 / 108㎡ (전용84.97) · 12/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656487729/ / 원문 https://fin.land.naver.com/articles/2656487729
+- 캐슬골드파크 1104동 / 아파트 / 매매 8억 5,000 / 193㎡ (전용157.06) · 11/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656487665/ / 원문 https://fin.land.naver.com/articles/2656487665
+- 캐슬골드파크 1513동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 13/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656191421/ / 원문 https://fin.land.naver.com/articles/2656191421
+- 캐슬골드파크 1407동 / 아파트 / 매매 7억 8,000 / 138㎡ (전용116.82) · 3/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656191422/ / 원문 https://fin.land.naver.com/articles/2656191422
+- 캐슬골드파크 1417동 / 아파트 / 매매 4억 2,000 / 82㎡ (전용59.98) · 14/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656191420/ / 원문 https://fin.land.naver.com/articles/2656191420
+- 캐슬골드파크 1414동 / 아파트 / 매매 5억 3,500 / 108㎡ (전용84.97) · 3/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656197569/ / 원문 https://fin.land.naver.com/articles/2656197569
+- 캐슬골드파크 1306동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 10/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656223729/ / 원문 https://fin.land.naver.com/articles/2656223729
+- 캐슬골드파크 1203동 / 아파트 / 매매 7억 7,000 / 161㎡ (전용129.53) · 23/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656191424/ / 원문 https://fin.land.naver.com/articles/2656191424
+- 캐슬골드파크 1104동 / 아파트 / 매매 8억 5,000 / 193㎡ (전용157.06) · 11/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656224109/ / 원문 https://fin.land.naver.com/articles/2656224109
+- 캐슬골드파크 1306동 / 아파트 / 매매 8억 5,000 / 161㎡ (전용129.53) · 1/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656219159/ / 원문 https://fin.land.naver.com/articles/2656219159
+- 캐슬골드파크 1416동 / 아파트 / 매매 11억 5,000 / 206㎡ (전용172.37) · 16/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656222961/ / 원문 https://fin.land.naver.com/articles/2656222961
+- 캐슬골드파크 1402동 / 아파트 / 매매 6억 8,000 / 138㎡ (전용116.82) · 10/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656197304/ / 원문 https://fin.land.naver.com/articles/2656197304
+- 성창파크빌 102동 / 아파트 / 매매 3억 2,000 / 101㎡ (전용84.83) · 3/10층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656152351/ / 원문 https://fin.land.naver.com/articles/2656152351
+- 캐슬골드파크 1417동 / 아파트 / 매매 4억 500 / 82㎡ (전용59.98) · 3/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655995247/ / 원문 https://fin.land.naver.com/articles/2655995247
+- 캐슬골드파크 1103동 / 아파트 / 매매 6억 7,000 / 138㎡ (전용116.82) · 12/23층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655995081/ / 원문 https://fin.land.naver.com/articles/2655995081
+- 캐슬골드파크 1116동 / 아파트 / 매매 4억 3,000 / 82㎡ (전용59.98) · 14/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656116646/ / 원문 https://fin.land.naver.com/articles/2656116646
+- 캐슬골드파크 1412동 / 아파트 / 매매 7억 5,000 / 138㎡ (전용116.82) · 14/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656071853/ / 원문 https://fin.land.naver.com/articles/2656071853
+- 캐슬골드파크 1416동 / 아파트 / 매매 11억 / 206㎡ (전용172.37) · 2/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655995167/ / 원문 https://fin.land.naver.com/articles/2655995167
+- 캐슬골드파크 1205동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 11/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655994437/ / 원문 https://fin.land.naver.com/articles/2655994437
+- 캐슬골드파크 1417동 / 아파트 / 매매 4억 1,000 / 82㎡ (전용59.98) · 16/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655995102/ / 원문 https://fin.land.naver.com/articles/2655995102
+- 캐슬골드파크 1101동 / 아파트 / 매매 6억 6,000 / 138㎡ (전용116.82) · 9/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655994462/ / 원문 https://fin.land.naver.com/articles/2655994462
+- 캐슬골드파크 1116동 / 아파트 / 매매 4억 3,000 / 82㎡ (전용59.98) · 10/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656115728/ / 원문 https://fin.land.naver.com/articles/2656115728
+- 캐슬골드파크 1101동 / 아파트 / 매매 5억 7,000 / 108㎡ (전용84.97) · 10/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656032665/ / 원문 https://fin.land.naver.com/articles/2656032665
+- 힐스테이트황금동 106동 / 아파트 / 매매 8억 / 112B㎡ (전용84.9B) · 중/36층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2657206911/ / 원문 https://fin.land.naver.com/articles/2657206911
+- 캐슬골드파크 1416동 / 아파트 / 매매 11억 7,000 / 206㎡ (전용172.37) · 10/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655839605/ / 원문 https://fin.land.naver.com/articles/2655839605
+- 성창파크빌 102동 / 아파트 / 매매 3억 2,000 / 101㎡ (전용84.83) · 3/10층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655762645/ / 원문 https://fin.land.naver.com/articles/2655762645
+- 캐슬골드파크 1412동 / 아파트 / 매매 7억 5,000 / 138㎡ (전용116.82) · 14/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655835995/ / 원문 https://fin.land.naver.com/articles/2655835995
+- 황금동 단지내상가 / 상가점포 / 매매 1억 7,000 / 2006.07(21년차) · 계약56.12㎡ (전용32.4) · 2/2층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656934601/ / 원문 https://fin.land.naver.com/articles/2656934601
+- 캐슬골드파크 1303동 / 아파트 / 매매 8억 / 193㎡ (전용157.06) · 중/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656934861/ / 원문 https://fin.land.naver.com/articles/2656934861
+- 캐슬골드파크 1504동 / 아파트 / 매매 6억 1,000 / 138㎡ (전용116.82) · 9/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655686022/ / 원문 https://fin.land.naver.com/articles/2655686022
+- 캐슬골드파크 1110동 / 아파트 / 매매 3억 1,000 / 69㎡ (전용50.45) · 4/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655489517/ / 원문 https://fin.land.naver.com/articles/2655489517
+- 캐슬골드파크 1412동 / 아파트 / 매매 8억 5,000 / 138㎡ (전용116.82) · 7/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655489444/ / 원문 https://fin.land.naver.com/articles/2655489444
+- 캐슬골드파크 1512동 / 아파트 / 매매 12억 1,000 / 206㎡ (전용172.37) · 16/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655488943/ / 원문 https://fin.land.naver.com/articles/2655488943
+- 캐슬골드파크 1203동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 10/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655601423/ / 원문 https://fin.land.naver.com/articles/2655601423
+- 캐슬골드파크 1303동 / 아파트 / 매매 7억 5,000 / 193㎡ (전용157.06) · 저/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656735724/ / 원문 https://fin.land.naver.com/articles/2656735724
+- 캐슬골드파크 1303동 / 아파트 / 매매 8억 5,000 / 193㎡ (전용157.06) · 중/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656822833/ / 원문 https://fin.land.naver.com/articles/2656822833
+- 캐슬골드파크 1306동 / 아파트 / 매매 7억 3,000 / 161㎡ (전용129.53) · 저/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656730810/ / 원문 https://fin.land.naver.com/articles/2656730810
+- 캐슬골드파크 1109동 / 아파트 / 월세 5,000/165 / 161㎡ (전용129.53) · 중/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656736318/ / 원문 https://fin.land.naver.com/articles/2656736318
+- 캐슬골드파크 1205동 / 아파트 / 매매 7억 2,000 / 161㎡ (전용129.53) · 고/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656907092/ / 원문 https://fin.land.naver.com/articles/2656907092
+- 캐슬골드파크 1203동 / 아파트 / 매매 6억 7,500 / 161㎡ (전용129.53) · 3/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655275799/ / 원문 https://fin.land.naver.com/articles/2655275799
+- 캐슬골드파크 1110동 / 아파트 / 매매 3억 1,000 / 69㎡ (전용50.45) · 4/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655275748/ / 원문 https://fin.land.naver.com/articles/2655275748
+- 캐슬골드파크 1417동 / 아파트 / 매매 4억 1,000 / 82㎡ (전용59.98) · 16/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655275786/ / 원문 https://fin.land.naver.com/articles/2655275786
+- 캐슬골드파크 1508동 / 아파트 / 매매 8억 5,000 / 193㎡ (전용157.06) · 7/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655275790/ / 원문 https://fin.land.naver.com/articles/2655275790
+- 캐슬골드파크 1513동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 13/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655289405/ / 원문 https://fin.land.naver.com/articles/2655289405
+- 캐슬골드파크 1510동 / 아파트 / 매매 5억 6,000 / 108㎡ (전용84.97) · 13/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655291424/ / 원문 https://fin.land.naver.com/articles/2655291424
+- 캐슬골드파크 1504동 / 아파트 / 매매 6억 4,000 / 138㎡ (전용116.82) · 17/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655444528/ / 원문 https://fin.land.naver.com/articles/2655444528
+- 캐슬골드파크 1102동 / 아파트 / 매매 5억 / 108㎡ (전용84.97) · 3/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655288604/ / 원문 https://fin.land.naver.com/articles/2655288604
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 8,000 / 161㎡ (전용129.53) · 중/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656487534/ / 원문 https://fin.land.naver.com/articles/2656487534
+- 캐슬골드파크 1515동 / 아파트 / 월세 3,000/120 / 108㎡ (전용84.97) · 중/20층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656614562/ / 원문 https://fin.land.naver.com/articles/2656614562
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 6,000 / 161㎡ (전용129.53) · 16/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655053223/ / 원문 https://fin.land.naver.com/articles/2655053223
+- 캐슬골드파크 1306동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 10/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655053124/ / 원문 https://fin.land.naver.com/articles/2655053124
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 3,500 / 161㎡ (전용129.53) · 고/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656217802/ / 원문 https://fin.land.naver.com/articles/2656217802
+- 캐슬골드파크 1110동 / 아파트 / 매매 3억 / 69㎡ (전용50.45) · 저/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656191419/ / 원문 https://fin.land.naver.com/articles/2656191419
+- 캐슬골드파크 1414동 / 아파트 / 매매 5억 3,500 / 108㎡ (전용84.97) · 3/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654642970/ / 원문 https://fin.land.naver.com/articles/2654642970
+- 캐슬골드파크 1116동 / 아파트 / 매매 4억 3,000 / 82㎡ (전용59.98) · 14/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654681164/ / 원문 https://fin.land.naver.com/articles/2654681164
+- 캐슬골드파크 1417동 / 아파트 / 매매 4억 500 / 82㎡ (전용59.98) · 3/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654681018/ / 원문 https://fin.land.naver.com/articles/2654681018
+- 캐슬골드파크 1416동 / 아파트 / 매매 11억 / 206㎡ (전용172.37) · 2/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654681078/ / 원문 https://fin.land.naver.com/articles/2654681078
+- 캐슬골드파크 1504동 / 아파트 / 매매 6억 1,000 / 138㎡ (전용116.82) · 9/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654866685/ / 원문 https://fin.land.naver.com/articles/2654866685
+- 캐슬골드파크 1403동 / 아파트 / 매매 5억 5,800 / 108㎡ (전용84.97) · 7/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654681006/ / 원문 https://fin.land.naver.com/articles/2654681006
+- 캐슬골드파크 1508동 / 아파트 / 매매 8억 5,000 / 193㎡ (전용157.06) · 중/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2656152364/ / 원문 https://fin.land.naver.com/articles/2656152364
+- 캐슬골드파크 1419동 / 아파트 / 매매 8억 8,000 / 161㎡ (전용129.53) · 16/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654642992/ / 원문 https://fin.land.naver.com/articles/2654642992
+- 신천지타운 201동 / 아파트 / 매매 5억 / 170㎡ (전용134.79) · 5/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654681173/ / 원문 https://fin.land.naver.com/articles/2654681173
+- 캐슬골드파크 1403동 / 아파트 / 매매 6억 4,000 / 138㎡ (전용116.82) · 3/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654642963/ / 원문 https://fin.land.naver.com/articles/2654642963
+- 캐슬골드파크 1502동 / 아파트 / 매매 6억 7,000 / 138㎡ (전용116.82) · 고/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655995170/ / 원문 https://fin.land.naver.com/articles/2655995170
+- 힐스테이트황금동 106동 / 아파트 / 매매 8억 2,000 / 111A㎡ (전용84.92A) · 중/36층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655994442/ / 원문 https://fin.land.naver.com/articles/2655994442
+- 캐슬골드파크 1403동 / 아파트 / 매매 6억 5,000 / 108㎡ (전용84.97) · 17/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654482579/ / 원문 https://fin.land.naver.com/articles/2654482579
+- 캐슬골드파크 1402동 / 아파트 / 매매 7억 / 138㎡ (전용116.82) · 8/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654527798/ / 원문 https://fin.land.naver.com/articles/2654527798
+- 캐슬골드파크 1306동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 10/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654530769/ / 원문 https://fin.land.naver.com/articles/2654530769
+- 캐슬골드파크 1413동 / 아파트 / 매매 7억 6,000 / 161㎡ (전용129.53) · 8/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654530162/ / 원문 https://fin.land.naver.com/articles/2654530162
+- 캐슬골드파크 1413동 / 아파트 / 전세 4억 5,000 / 161㎡ (전용129.53) · 8/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654482593/ / 원문 https://fin.land.naver.com/articles/2654482593
+- 캐슬골드파크 1105동 / 아파트 / 매매 3억 2,000 / 69㎡ (전용50.45) · 9/22층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654541030/ / 원문 https://fin.land.naver.com/articles/2654541030
+- 캐슬골드파크 1101동 / 아파트 / 매매 6억 5,000 / 138㎡ (전용116.82) · 5/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654530973/ / 원문 https://fin.land.naver.com/articles/2654530973
+- 캐슬골드파크 1512동 / 아파트 / 매매 11억 / 206㎡ (전용172.37) · 4/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654353953/ / 원문 https://fin.land.naver.com/articles/2654353953
+- 캐슬골드파크 1510동 / 아파트 / 매매 5억 5,000 / 108㎡ (전용84.97) · 18/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654482595/ / 원문 https://fin.land.naver.com/articles/2654482595
+- 캐슬골드파크 1101동 / 아파트 / 매매 5억 7,000 / 108㎡ (전용84.97) · 중/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655762638/ / 원문 https://fin.land.naver.com/articles/2655762638
+- 캐슬골드파크 1205동 / 아파트 / 매매 6억 8,000 / 161㎡ (전용129.53) · 3/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654418334/ / 원문 https://fin.land.naver.com/articles/2654418334
+- 캐슬골드파크 1410동 / 아파트 / 매매 6억 4,000 / 108㎡ (전용84.97) · 고/22층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655489173/ / 원문 https://fin.land.naver.com/articles/2655489173
+- 캐슬골드파크 1514동 / 아파트 / 매매 6억 5,000 / 138㎡ (전용116.82) · 고/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655600239/ / 원문 https://fin.land.naver.com/articles/2655600239
+- 캐슬골드파크 1401동 / 아파트 / 매매 4억 3,000 / 82㎡ (전용59.98) · 고/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655489047/ / 원문 https://fin.land.naver.com/articles/2655489047
+- 캐슬골드파크 1513동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 고/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655601477/ / 원문 https://fin.land.naver.com/articles/2655601477
+- 캐슬골드파크 1201동 / 아파트 / 매매 8억 5,000 / 161㎡ (전용129.53) · 17/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654049998/ / 원문 https://fin.land.naver.com/articles/2654049998
+- 캐슬골드파크 1305동 / 아파트 / 매매 7억 9,000 / 171㎡ (전용138.82) · 15/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654050002/ / 원문 https://fin.land.naver.com/articles/2654050002
+- 캐슬골드파크 1410동 / 아파트 / 전세 3억 4,000 / 108㎡ (전용84.97) · 2/22층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654050188/ / 원문 https://fin.land.naver.com/articles/2654050188
+- 캐슬골드파크 1411동 / 아파트 / 매매 11억 / 206㎡ (전용172.37) · 13/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654050106/ / 원문 https://fin.land.naver.com/articles/2654050106
+- 캐슬골드파크 1502동 / 아파트 / 매매 6억 8,000 / 138㎡ (전용116.82) · 17/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653828555/ / 원문 https://fin.land.naver.com/articles/2653828555
+- 캐슬골드파크 1101동 / 아파트 / 매매 5억 8,000 / 108㎡ (전용84.97) · 11/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653830327/ / 원문 https://fin.land.naver.com/articles/2653830327
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 5,000 / 161㎡ (전용129.53) · 8/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653926375/ / 원문 https://fin.land.naver.com/articles/2653926375
+- 캐슬골드파크 1202동 / 아파트 / 매매 5억 2,000 / 97㎡ (전용74.62) · 4/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653828339/ / 원문 https://fin.land.naver.com/articles/2653828339
+- 캐슬골드파크 1203동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 10/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653925419/ / 원문 https://fin.land.naver.com/articles/2653925419
+- 캐슬골드파크 1405동 / 아파트 / 매매 4억 9,000 / 97㎡ (전용74.62) · 17/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653828578/ / 원문 https://fin.land.naver.com/articles/2653828578
+- 청원 101동 / 재건축 / 매매 3억 3,000 / 108㎡ (전용84.86) · 5/10층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653694837/ / 원문 https://fin.land.naver.com/articles/2653694837
+- 청원 101동 / 재건축 / 매매 3억 1,000 / 108㎡ (전용84.86) · 1/10층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653714743/ / 원문 https://fin.land.naver.com/articles/2653714743
+- 청원 101동 / 재건축 / 매매 3억 1,000 / 108㎡ (전용84.86) · 1/10층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653700237/ / 원문 https://fin.land.naver.com/articles/2653700237
+- 태왕아너스 103동 / 아파트 / 매매 13억 6,000 / 154㎡ (전용123) · 6/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653829779/ / 원문 https://fin.land.naver.com/articles/2653829779
+- 청원 101동 / 재건축 / 매매 3억 3,000 / 108㎡ (전용84.86) · 5/10층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653700908/ / 원문 https://fin.land.naver.com/articles/2653700908
+- 캐슬골드파크 1415동 / 아파트 / 매매 10억 / 171㎡ (전용138.82) · 15/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653530014/ / 원문 https://fin.land.naver.com/articles/2653530014
+- 힐스테이트황금동 105동 / 아파트 / 매매 11억 / 137㎡ (전용111.18) · 6/34층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653530179/ / 원문 https://fin.land.naver.com/articles/2653530179
+- 캐슬골드파크 1512동 / 아파트 / 매매 11억 / 206㎡ (전용172.37) · 4/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653341829/ / 원문 https://fin.land.naver.com/articles/2653341829
+- 캐슬골드파크 1408동 / 아파트 / 매매 8억 2,000 / 171㎡ (전용138.82) · 6/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653530002/ / 원문 https://fin.land.naver.com/articles/2653530002
+- 캐슬골드파크 1401동 / 아파트 / 매매 4억 3,000 / 82㎡ (전용59.98) · 고/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654643013/ / 원문 https://fin.land.naver.com/articles/2654643013
+- 만촌삼정그린코아에듀파크 101동 / 아파트 / 매매 17억 / 158A㎡ (전용123.96A) · 중/12층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2655055797/ / 원문 https://fin.land.naver.com/articles/2655055797
+- 캐슬골드파크 1514동 / 아파트 / 매매 6억 5,000 / 138㎡ (전용116.82) · 고/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654681100/ / 원문 https://fin.land.naver.com/articles/2654681100
+- 캐슬골드파크 1405동 / 아파트 / 매매 4억 9,000 / 97㎡ (전용74.62) · 17/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653363181/ / 원문 https://fin.land.naver.com/articles/2653363181
+- 캐슬골드파크 1205동 / 아파트 / 매매 7억 2,000 / 161㎡ (전용129.53) · 8/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653363162/ / 원문 https://fin.land.naver.com/articles/2653363162
+- 캐슬골드파크 1205동 / 아파트 / 매매 6억 8,000 / 161㎡ (전용129.53) · 저/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654642977/ / 원문 https://fin.land.naver.com/articles/2654642977
+- 캐슬골드파크 1112동 / 아파트 / 매매 8억 6,000 / 206㎡ (전용172.37) · 저/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654642985/ / 원문 https://fin.land.naver.com/articles/2654642985
+- 캐슬골드파크 1415동 / 아파트 / 매매 7억 6,000 / 171㎡ (전용138.82) · 저/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654642968/ / 원문 https://fin.land.naver.com/articles/2654642968
+- 캐슬골드파크 1419동 / 아파트 / 매매 8억 8,000 / 161㎡ (전용129.53) · 16/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653341788/ / 원문 https://fin.land.naver.com/articles/2653341788
+- 캐슬골드파크 1309동 / 아파트 / 매매 6억 9,500 / 138㎡ (전용116.82) · 고/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654530453/ / 원문 https://fin.land.naver.com/articles/2654530453
+- 캐슬골드파크 1109동 / 아파트 / 월세 5,000/165 / 161㎡ (전용129.53) · 중/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654482728/ / 원문 https://fin.land.naver.com/articles/2654482728
+- 캐슬골드파크 1411동 / 아파트 / 월세 1억/200 / 206㎡ (전용172.37) · 중/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654482730/ / 원문 https://fin.land.naver.com/articles/2654482730
+- 캐슬골드파크 1112동 / 아파트 / 매매 8억 6,000 / 206㎡ (전용172.37) · 저/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654482578/ / 원문 https://fin.land.naver.com/articles/2654482578
+- 캐슬골드파크 1502동 / 아파트 / 매매 7억 5,000 / 138㎡ (전용116.82) · 22/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653207426/ / 원문 https://fin.land.naver.com/articles/2653207426
+- 캐슬골드파크 1102동 / 아파트 / 매매 5억 / 108㎡ (전용84.97) · 3/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653207065/ / 원문 https://fin.land.naver.com/articles/2653207065
+- 캐슬골드파크 1309동 / 아파트 / 매매 7억 4,000 / 138㎡ (전용116.82) · 5/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653207239/ / 원문 https://fin.land.naver.com/articles/2653207239
+- 캐슬골드파크 1408동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 4/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653207309/ / 원문 https://fin.land.naver.com/articles/2653207309
+- 캐슬골드파크 1102동 / 아파트 / 매매 5억 7,000 / 108㎡ (전용84.97) · 7/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653207332/ / 원문 https://fin.land.naver.com/articles/2653207332
+- 캐슬골드파크 1112동 / 아파트 / 매매 10억 5,000 / 206㎡ (전용172.37) · 16/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653207127/ / 원문 https://fin.land.naver.com/articles/2653207127
+- 캐슬골드파크 1309동 / 아파트 / 매매 6억 9,500 / 138㎡ (전용116.82) · 고/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654462841/ / 원문 https://fin.land.naver.com/articles/2654462841
+- 캐슬골드파크 1415동 / 아파트 / 매매 8억 7,000 / 171㎡ (전용138.82) · 중/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654353806/ / 원문 https://fin.land.naver.com/articles/2654353806
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 5,000 / 161㎡ (전용129.53) · 중/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654353775/ / 원문 https://fin.land.naver.com/articles/2654353775
+- 캐슬골드파크 1412동 / 아파트 / 매매 7억 9,000 / 138㎡ (전용116.82) · 4/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652933170/ / 원문 https://fin.land.naver.com/articles/2652933170
+- 캐슬골드파크 1507동 / 아파트 / 매매 5억 1,000 / 108㎡ (전용84.97) · 16/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652932370/ / 원문 https://fin.land.naver.com/articles/2652932370
+- 캐슬골드파크 1101동 / 아파트 / 매매 6억 7,000 / 138㎡ (전용116.82) · 21/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652933016/ / 원문 https://fin.land.naver.com/articles/2652933016
+- 캐슬골드파크 1108동 / 아파트 / 전세 5억 / 161㎡ (전용129.53) · 16/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653024909/ / 원문 https://fin.land.naver.com/articles/2653024909
+- 캐슬골드파크 1403동 / 아파트 / 매매 6억 7,500 / 138㎡ (전용116.82) · 9/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652932366/ / 원문 https://fin.land.naver.com/articles/2652932366
+- 캐슬골드파크 1408동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 4/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652933062/ / 원문 https://fin.land.naver.com/articles/2652933062
+- 캐슬골드파크 1305동 / 아파트 / 매매 7억 8,000 / 171㎡ (전용138.82) · 2/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652932855/ / 원문 https://fin.land.naver.com/articles/2652932855
+- 캐슬골드파크 1501동 / 아파트 / 매매 4억 / 82㎡ (전용59.98) · 8/19층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652932594/ / 원문 https://fin.land.naver.com/articles/2652932594
+- 캐슬골드파크 1101동 / 아파트 / 매매 6억 6,000 / 138㎡ (전용116.82) · 9/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652933206/ / 원문 https://fin.land.naver.com/articles/2652933206
+- 캐슬골드파크 1416동 / 아파트 / 매매 10억 5,000 / 206㎡ (전용172.37) · 5/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652932637/ / 원문 https://fin.land.naver.com/articles/2652932637
+- 캐슬골드파크 1505동 / 아파트 / 매매 6억 5,000 / 138㎡ (전용116.82) · 고/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2654050105/ / 원문 https://fin.land.naver.com/articles/2654050105
+- 캐슬골드파크 1108동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 2/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652674435/ / 원문 https://fin.land.naver.com/articles/2652674435
+- 캐슬골드파크 1510동 / 아파트 / 매매 5억 4,000 / 108㎡ (전용84.97) · 6/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652674629/ / 원문 https://fin.land.naver.com/articles/2652674629
+- 캐슬골드파크 1409동 / 아파트 / 매매 5억 5,000 / 108㎡ (전용84.97) · 1/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652674246/ / 원문 https://fin.land.naver.com/articles/2652674246
+- 캐슬골드파크 1408동 / 아파트 / 매매 8억 8,000 / 161㎡ (전용129.53) · 중/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653829014/ / 원문 https://fin.land.naver.com/articles/2653829014
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 8,000 / 161㎡ (전용129.53) · 중/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653830331/ / 원문 https://fin.land.naver.com/articles/2653830331
+- 캐슬골드파크 1411동 / 아파트 / 매매 11억 / 206㎡ (전용172.37) · 중/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653909207/ / 원문 https://fin.land.naver.com/articles/2653909207
+- 캐슬골드파크 1504동 / 아파트 / 매매 6억 3,000 / 138㎡ (전용116.82) · 1/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652617498/ / 원문 https://fin.land.naver.com/articles/2652617498
+- 캐슬골드파크 1306동 / 아파트 / 매매 7억 4,000 / 161㎡ (전용129.53) · 5/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652429832/ / 원문 https://fin.land.naver.com/articles/2652429832
+- 캐슬골드파크 1415동 / 아파트 / 매매 8억 2,000 / 171㎡ (전용138.82) · 2/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652429795/ / 원문 https://fin.land.naver.com/articles/2652429795
+- 캐슬골드파크 1402동 / 아파트 / 매매 7억 / 138㎡ (전용116.82) · 8/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652184390/ / 원문 https://fin.land.naver.com/articles/2652184390
+- 캐슬골드파크 1513동 / 아파트 / 매매 7억 7,000 / 161㎡ (전용129.53) · 13/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652186214/ / 원문 https://fin.land.naver.com/articles/2652186214
+- 캐슬골드파크 1108동 / 아파트 / 매매 8억 5,000 / 161㎡ (전용129.53) · 4/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652270211/ / 원문 https://fin.land.naver.com/articles/2652270211
+- 캐슬골드파크 1116동 / 아파트 / 매매 4억 3,000 / 82㎡ (전용59.98) · 10/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652322611/ / 원문 https://fin.land.naver.com/articles/2652322611
+- 캐슬골드파크 1112동 / 아파트 / 매매 11억 / 206㎡ (전용172.37) · 14/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652278801/ / 원문 https://fin.land.naver.com/articles/2652278801
+- 캐슬골드파크 1411동 / 아파트 / 매매 10억 5,000 / 206㎡ (전용172.37) · 중/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653448876/ / 원문 https://fin.land.naver.com/articles/2653448876
+- 캐슬골드파크 1404동 / 아파트 / 매매 7억 8,000 / 161㎡ (전용129.53) · 23/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651778623/ / 원문 https://fin.land.naver.com/articles/2651778623
+- 캐슬골드파크 1513동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 14/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652024263/ / 원문 https://fin.land.naver.com/articles/2652024263
+- 캐슬골드파크 1514동 / 아파트 / 매매 6억 6,000 / 138㎡ (전용116.82) · 3/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651777614/ / 원문 https://fin.land.naver.com/articles/2651777614
+- 캐슬골드파크 1101동 / 아파트 / 매매 5억 8,000 / 108㎡ (전용84.97) · 11/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651778160/ / 원문 https://fin.land.naver.com/articles/2651778160
+- 캐슬골드파크 1103동 / 아파트 / 매매 6억 7,000 / 138㎡ (전용116.82) · 12/23층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651777710/ / 원문 https://fin.land.naver.com/articles/2651777710
+- 캐슬골드파크 1402동 / 아파트 / 매매 6억 8,000 / 138㎡ (전용116.82) · 10/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651778718/ / 원문 https://fin.land.naver.com/articles/2651778718
+- 캐슬골드파크 1501동 / 아파트 / 매매 4억 / 82㎡ (전용59.98) · 8/19층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651730099/ / 원문 https://fin.land.naver.com/articles/2651730099
+- 캐슬골드파크 1509동 / 아파트 / 매매 6억 2,000 / 138㎡ (전용116.82) · 중/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653341681/ / 원문 https://fin.land.naver.com/articles/2653341681
+- 캐슬골드파크 1507동 / 아파트 / 매매 6억 5,000 / 108㎡ (전용84.97) · 저/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653341735/ / 원문 https://fin.land.naver.com/articles/2653341735
+- 캐슬골드파크 1416동 / 아파트 / 매매 10억 5,000 / 206㎡ (전용172.37) · 5/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651729927/ / 원문 https://fin.land.naver.com/articles/2651729927
+- 캐슬골드파크 1101동 / 아파트 / 매매 6억 5,000 / 138㎡ (전용116.82) · 5/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651729915/ / 원문 https://fin.land.naver.com/articles/2651729915
+- 캐슬골드파크 1303동 / 아파트 / 매매 7억 5,000 / 193㎡ (전용157.06) · 저/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653309520/ / 원문 https://fin.land.naver.com/articles/2653309520
+- 수성지구우방타운2차 201동 / 재건축 / 매매 8억 3,000 / 92㎡ (전용76.44) · 중/5층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653341740/ / 원문 https://fin.land.naver.com/articles/2653341740
+- 녹원맨션 108동 / 아파트 / 매매 6억 3,000 / 158㎡ (전용131.72) · 8/12층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651730136/ / 원문 https://fin.land.naver.com/articles/2651730136
+- 캐슬골드파크 1406동 / 아파트 / 매매 5억 / 97㎡ (전용74.62) · 고/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653067167/ / 원문 https://fin.land.naver.com/articles/2653067167
+- 캐슬골드파크 1105동 / 아파트 / 매매 3억 2,000 / 69㎡ (전용50.45) · 중/22층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653046632/ / 원문 https://fin.land.naver.com/articles/2653046632
+- 캐슬골드파크 1306동 / 아파트 / 매매 8억 / 161㎡ (전용129.53) · 고/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652932361/ / 원문 https://fin.land.naver.com/articles/2652932361
+- 캐슬골드파크 1404동 / 아파트 / 매매 8억 5,000 / 161㎡ (전용129.53) · 고/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652674232/ / 원문 https://fin.land.naver.com/articles/2652674232
+- 캐슬골드파크 1411동 / 아파트 / 전세 6억 5,000 / 206㎡ (전용172.37) · 중/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652591749/ / 원문 https://fin.land.naver.com/articles/2652591749
+- 캐슬골드파크 1513동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 고/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652184359/ / 원문 https://fin.land.naver.com/articles/2652184359
+- 캐슬골드파크 1308동 / 아파트 / 매매 3억 5,500 / 82㎡ (전용59.98) · 저/13층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651777011/ / 원문 https://fin.land.naver.com/articles/2651777011
+- 캐슬골드파크 1304동 / 아파트 / 매매 6억 4,000 / 138㎡ (전용116.82) · 저/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651777079/ / 원문 https://fin.land.naver.com/articles/2651777079
+- 신천지타운 202동 / 아파트 / 매매 8억 8,000 / 250㎡ (전용202.92) · 중/15층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2652275469/ / 원문 https://fin.land.naver.com/articles/2652275469
+- 캐슬골드파크 1413동 / 아파트 / 매매 9억 / 161㎡ (전용129.53) · 고/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651729971/ / 원문 https://fin.land.naver.com/articles/2651729971
+- 캐슬골드파크 1303동 / 아파트 / 매매 8억 5,000 / 193㎡ (전용157.06) · 중/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651730036/ / 원문 https://fin.land.naver.com/articles/2651730036
+- 신천지타운 203동 / 아파트 / 매매 5억 2,000 / 170㎡ (전용134.79) · 고/13층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651729890/ / 원문 https://fin.land.naver.com/articles/2651729890
+- 황금동 일반상가 / 상가점포 / 월세 2,000/80 / 1994.03(33년차) · 계약83.25㎡ (전용83.25) · 3/3층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2651393301/ / 원문 https://fin.land.naver.com/articles/2651393301
+- 캐슬골드파크 1101동 / 아파트 / 매매 6억 6,000 / 138㎡ (전용116.82) · 9/24층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653651533/ / 원문 https://fin.land.naver.com/articles/2653651533
+- 캐슬골드파크 1112동 / 아파트 / 매매 10억 5,000 / 206㎡ (전용172.37) · 16/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653646116/ / 원문 https://fin.land.naver.com/articles/2653646116
+- 캐슬골드파크 1419동 / 아파트 / 매매 8억 4,000 / 161㎡ (전용129.53) · 16/17층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653653422/ / 원문 https://fin.land.naver.com/articles/2653653422
+- 캐슬골드파크 1103동 / 아파트 / 매매 6억 7,000 / 138㎡ (전용116.82) · 12/23층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653649679/ / 원문 https://fin.land.naver.com/articles/2653649679
+- 캐슬골드파크 1408동 / 아파트 / 매매 7억 5,000 / 161㎡ (전용129.53) · 4/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653643637/ / 원문 https://fin.land.naver.com/articles/2653643637
+- 캐슬골드파크 1413동 / 아파트 / 매매 7억 6,000 / 161㎡ (전용129.53) · 8/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653646620/ / 원문 https://fin.land.naver.com/articles/2653646620
+- 캐슬골드파크 1417동 / 아파트 / 매매 4억 2,000 / 82㎡ (전용59.98) · 14/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653644009/ / 원문 https://fin.land.naver.com/articles/2653644009
+- 캐슬골드파크 1417동 / 아파트 / 매매 4억 500 / 82㎡ (전용59.98) · 3/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653650002/ / 원문 https://fin.land.naver.com/articles/2653650002
+- 캐슬골드파크 1505동 / 아파트 / 매매 6억 / 138㎡ (전용116.82) · 저/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653648373/ / 원문 https://fin.land.naver.com/articles/2653648373
+- 캐슬골드파크 1414동 / 아파트 / 매매 5억 3,500 / 108㎡ (전용84.97) · 3/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653644468/ / 원문 https://fin.land.naver.com/articles/2653644468
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 3,500 / 161㎡ (전용129.53) · 고/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653649307/ / 원문 https://fin.land.naver.com/articles/2653649307
+- 캐슬골드파크 1205동 / 아파트 / 매매 6억 8,000 / 161㎡ (전용129.53) · 3/16층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653650603/ / 원문 https://fin.land.naver.com/articles/2653650603
+- 캐슬골드파크 1406동 / 아파트 / 매매 5억 / 97㎡ (전용74.62) · 20/24층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653641754/ / 원문 https://fin.land.naver.com/articles/2653641754
+- 캐슬골드파크 1408동 / 아파트 / 매매 8억 3,000 / 171㎡ (전용138.82) · 중/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653652147/ / 원문 https://fin.land.naver.com/articles/2653652147
+- 캐슬골드파크 1108동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 2/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653653768/ / 원문 https://fin.land.naver.com/articles/2653653768
+- 캐슬골드파크 1513동 / 아파트 / 매매 7억 / 161㎡ (전용129.53) · 13/25층 · 동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653658848/ / 원문 https://fin.land.naver.com/articles/2653658848
+- 캐슬골드파크 1418동 / 아파트 / 매매 8억 / 161㎡ (전용129.53) · 저/18층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653645778/ / 원문 https://fin.land.naver.com/articles/2653645778
+- 캐슬골드파크 1403동 / 아파트 / 매매 6억 7,500 / 138㎡ (전용116.82) · 9/21층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/daegu-castle/listings/2653640304/ / 원문 https://fin.land.naver.com/articles/2653640304

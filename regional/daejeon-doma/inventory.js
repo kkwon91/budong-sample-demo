@@ -1,0 +1,17 @@
+(()=>{
+const cards=[...document.querySelectorAll('[data-listing]')];if(!cards.length)return;
+const buttons=[...document.querySelectorAll('[data-filter]')],group=document.getElementById('group-filter'),property=document.getElementById('property-filter'),query=document.getElementById('listing-query'),count=document.getElementById('visible-count'),empty=document.getElementById('empty'),pager=document.getElementById('pagination');
+let trade='전체',page=1;const size=12;
+function render(save=true){
+ const words=query.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+ const matches=cards.filter(c=>(trade==='전체'||c.dataset.kind===trade)&&(!group.value||c.dataset.group===group.value)&&(!property.value||c.dataset.property===property.value)&&words.every(w=>c.dataset.search.includes(w)));
+ const pages=Math.max(1,Math.ceil(matches.length/size));page=Math.max(1,Math.min(page,pages));const visible=new Set(matches.slice((page-1)*size,page*size));cards.forEach(c=>c.hidden=!visible.has(c));buttons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.filter===trade)));
+ count.textContent=matches.length?'전체 '+matches.length.toLocaleString()+'건 · '+((page-1)*size+1)+'–'+Math.min(page*size,matches.length)+'번째':'검색 결과 0건';empty.hidden=matches.length!==0;pager.replaceChildren();pager.hidden=pages<=1;
+ const button=(label,target,current=false)=>{const b=document.createElement('button');b.type='button';b.textContent=label;if(current)b.setAttribute('aria-current','page');b.setAttribute('aria-label',/^[0-9]+$/.test(label)?label+'페이지':label+' 페이지');b.disabled=target<1||target>pages;b.addEventListener('click',()=>{page=target;render();document.getElementById('listings').scrollIntoView({block:'start'});});pager.append(b);};
+ button('이전',page-1);let prev=0;for(let i=1;i<=pages;i++){if(i!==1&&i!==pages&&Math.abs(i-page)>2)continue;if(prev&&i-prev>1){const gap=document.createElement('span');gap.textContent='…';pager.append(gap);}button(String(i),i,i===page);prev=i;}button('다음',page+1);
+ if(save){const h=new URLSearchParams();if(group.value)h.set('group',group.value);if(property.value)h.set('type',property.value);if(trade!=='전체')h.set('trade',trade);if(query.value.trim())h.set('q',query.value.trim());if(page>1)h.set('page',String(page));history.replaceState(null,'',location.pathname+location.search+(h.size?'#'+h:'#listings'));}
+}
+function reset(){trade='전체';group.value='';property.value='';query.value='';page=1;render();}
+buttons.forEach(b=>b.addEventListener('click',()=>{trade=b.dataset.filter;page=1;render();}));[group,property].forEach(el=>el.addEventListener('change',()=>{page=1;render();}));query.addEventListener('input',()=>{page=1;render();});document.getElementById('filter-reset').addEventListener('click',reset);document.querySelectorAll('[data-reset]').forEach(b=>b.addEventListener('click',reset));
+function fromHash(){const hash=location.hash.slice(1),h=new URLSearchParams(hash),legacy={sale:'매매',jeonse:'전세',monthly:'월세'};trade=legacy[hash]||h.get('trade')||'전체';if(!['전체','매매','전세','월세'].includes(trade))trade='전체';group.value=h.get('group')||'';property.value=h.get('type')||'';query.value=h.get('q')||'';page=Number(h.get('page'))||1;render(false);if(hash&&hash!=='listings')requestAnimationFrame(()=>document.getElementById('listings').scrollIntoView({block:'start'}));}fromHash();window.addEventListener('hashchange',fromHash);
+})();

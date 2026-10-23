@@ -6,13 +6,15 @@
 - 대표: 노향숙
 - 소재지: 경기도 고양시 일산서구 탄현동 1640 (일현로 97-11) 두산위브더제니스 1동 162호
 - 전화: 031-919-9600
-- 취급 단지: 일산두산위브더제니스
+- 주력 단지: 일산두산위브더제니스
+- 전체 등록 매물: 246건
+- 취급 단지·지역: 일산두산위브더제니스(주상복합) (아파트, 246건)
 - 네이버 원문: https://fin.land.naver.com/realtors/a9199600
 - 단지 세대수: 2700
 
 ## 질문과 답변
-### 일산두산위브더제니스 매물은 어디서 볼 수 있나요?
-에이스 공인중개사사무소의 매물 메뉴에서 확인할 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
+### 에이스 공인중개사사무소의 전체 매물은 어디서 볼 수 있나요?
+에이스 공인중개사사무소의 매물 메뉴에 확인 시점의 네이버 등록 매물 246건을 모두 모았습니다. 주력 단지 외의 취급 단지와 지역도 함께 살펴볼 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
 
 ### 일산두산위브더제니스는 몇 세대인가요?
 일산두산위브더제니스는 2,700세대, 8개 동으로 구성돼 있습니다. 단지 기본 정보는 리치고 단지 자료를 기준으로 안내합니다.
@@ -33,18 +35,258 @@
 031-919-9600로 전화하시거나 네이버 중개소 페이지에서 문의하실 수 있습니다. 관심 매물 번호, 희망 예산과 입주 시기를 함께 알려주시면 상담에 도움이 됩니다.
 
 ### 전세·월세도 확인할 수 있나요?
-매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 이 미리보기는 확인한 일부 매물을 담고 있어, 보이지 않는 거래 종류는 네이버 전체 매물에서 확인해 주세요.
+매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 단지·지역과 매물 유형도 함께 선택할 수 있습니다. 월세는 보증금과 월 임대료를 함께 표시합니다.
 
 ### 집을 보러 가기 전에 무엇을 준비하면 좋나요?
 희망하는 전용면적, 예산, 입주 날짜와 관심 매물 번호를 정리해 주세요. 실제 방문 가능 시간은 중개소와 미리 조율하는 것이 좋습니다.
 
 ### 가격과 매물 정보는 언제 기준인가요?
-이 홈페이지 미리보기에는 2026.10.23에 확인한 매물 일부가 표시됩니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
+이 홈페이지 미리보기에는 2026.10.23에 확인한 네이버 전체 등록 매물 246건이 표시됩니다. 자동 갱신 전의 자료입니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
 
-## 확인한 매물 일부
-- 매매 5억 / 101동 / 전용 59㎡ / 원문 https://fin.land.naver.com/articles/2656976262
-- 전세 4억 3,000 / 102동 / 전용 59㎡ / 원문 https://fin.land.naver.com/articles/2657226771
-- 월세 1억 / 104동 / 전용 120㎡ / 원문 https://fin.land.naver.com/articles/2656981671
-- 매매 5억 7,500 / 101동 / 전용 94㎡ / 원문 https://fin.land.naver.com/articles/2656979406
-- 매매 4억 9,000 / 101동 / 전용 59㎡ / 원문 https://fin.land.naver.com/articles/2657222962
-- 매매 8억 2,000 / 105동 / 전용 145㎡ / 원문 https://fin.land.naver.com/articles/2657224963
+## 확인 시점의 전체 등록 매물
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 6억 9,000 / 162C㎡ (전용120.78C) · 50/57층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657222649/ / 원문 https://fin.land.naver.com/articles/2657222649
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 8억 2,000 / 195A㎡ (전용145.82A) · 16/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657307990/ / 원문 https://fin.land.naver.com/articles/2657307990
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 4억 9,000 / 81B㎡ (전용59.92B) · 24/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657222962/ / 원문 https://fin.land.naver.com/articles/2657222962
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 전세 4억 3,000 / 80A㎡ (전용59.9A) · 51/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657226771/ / 원문 https://fin.land.naver.com/articles/2657226771
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 4,000 / 162C㎡ (전용120.78C) · 56/57층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657307275/ / 원문 https://fin.land.naver.com/articles/2657307275
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 8억 / 195A㎡ (전용145.82A) · 42/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657226205/ / 원문 https://fin.land.naver.com/articles/2657226205
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 1,000 / 81B㎡ (전용59.92B) · 51/54층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657225891/ / 원문 https://fin.land.naver.com/articles/2657225891
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 4,000 / 81B㎡ (전용59.92B) · 4/54층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657222244/ / 원문 https://fin.land.naver.com/articles/2657222244
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 전세 3억 8,000 / 81B㎡ (전용59.92B) · 7/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657307671/ / 원문 https://fin.land.naver.com/articles/2657307671
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 6억 2,000 / 130A㎡ (전용94.44A) · 12/55층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657221797/ / 원문 https://fin.land.naver.com/articles/2657221797
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 5억 2,000 / 130A㎡ (전용94.44A) · 34/55층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657231046/ / 원문 https://fin.land.naver.com/articles/2657231046
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 / 80A㎡ (전용59.9A) · 51/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657225439/ / 원문 https://fin.land.naver.com/articles/2657225439
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 7억 8,000 / 162A㎡ (전용120.48A) · 39/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657305935/ / 원문 https://fin.land.naver.com/articles/2657305935
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 6,000 / 80A㎡ (전용59.9A) · 10/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657224580/ / 원문 https://fin.land.naver.com/articles/2657224580
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 7억 2,000 / 162C㎡ (전용120.78C) · 17/51층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657223873/ / 원문 https://fin.land.naver.com/articles/2657223873
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 6억 8,000 / 162A㎡ (전용120.48A) · 4/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657306950/ / 원문 https://fin.land.naver.com/articles/2657306950
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 5,000 / 195A㎡ (전용145.82A) · 5/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656983348/ / 원문 https://fin.land.naver.com/articles/2656983348
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 5억 8,000 / 130A㎡ (전용94.44A) · 8/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656975730/ / 원문 https://fin.land.naver.com/articles/2656975730
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 4,000 / 162C㎡ (전용120.78C) · 39/59층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656980770/ / 원문 https://fin.land.naver.com/articles/2656980770
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 9억 5,000 / 195A㎡ (전용145.82A) · 30/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656967127/ / 원문 https://fin.land.naver.com/articles/2656967127
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 5억 7,500 / 130A㎡ (전용94.44A) · 30/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656979406/ / 원문 https://fin.land.naver.com/articles/2656979406
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 월세 1억/230 / 162C㎡ (전용120.78C) · 51/57층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656981671/ / 원문 https://fin.land.naver.com/articles/2656981671
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 7억 3,000 / 162A㎡ (전용120.48A) · 18/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656967379/ / 원문 https://fin.land.naver.com/articles/2656967379
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 1,000 / 130A㎡ (전용94.44A) · 29/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656989344/ / 원문 https://fin.land.naver.com/articles/2656989344
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 8,500 / 195B㎡ (전용145.91B) · 3/53층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656976814/ / 원문 https://fin.land.naver.com/articles/2656976814
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 5억 / 80A㎡ (전용59.9A) · 19/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656976262/ / 원문 https://fin.land.naver.com/articles/2656976262
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 6억 8,000 / 162C㎡ (전용120.78C) · 18/51층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656980092/ / 원문 https://fin.land.naver.com/articles/2656980092
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 6억 3,000 / 130B㎡ (전용95.5B) · 31/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657081531/ / 원문 https://fin.land.naver.com/articles/2657081531
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 전세 5억 5,000 / 162B㎡ (전용119.17B) · 34/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656766205/ / 원문 https://fin.land.naver.com/articles/2656766205
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 5억 9,000 / 130B㎡ (전용95.5B) · 16/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656769966/ / 원문 https://fin.land.naver.com/articles/2656769966
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 6,000 / 81B㎡ (전용59.92B) · 14/54층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656783186/ / 원문 https://fin.land.naver.com/articles/2656783186
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 전세 6억 2,000 / 195A㎡ (전용145.82A) · 47/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656765704/ / 원문 https://fin.land.naver.com/articles/2656765704
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 13억 5,000 / 228㎡ (전용170.72) · 23/51층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656766946/ / 원문 https://fin.land.naver.com/articles/2656766946
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 전세 4억 8,000 / 130A㎡ (전용94.44A) · 29/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656766668/ / 원문 https://fin.land.naver.com/articles/2656766668
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 5억 6,000 / 130B㎡ (전용95.5B) · 6/51층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656507692/ / 원문 https://fin.land.naver.com/articles/2656507692
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 7억 3,000 / 195A㎡ (전용145.82A) · 15/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656638370/ / 원문 https://fin.land.naver.com/articles/2656638370
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 5,000 / 228㎡ (전용170.72) · 20/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656638729/ / 원문 https://fin.land.naver.com/articles/2656638729
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 8,000 / 195A㎡ (전용145.82A) · 47/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656508088/ / 원문 https://fin.land.naver.com/articles/2656508088
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 8억 3,000 / 228㎡ (전용170.72) · 6/51층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656511081/ / 원문 https://fin.land.naver.com/articles/2656511081
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 6억 3,000 / 130B㎡ (전용95.5B) · 7/51층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656508569/ / 원문 https://fin.land.naver.com/articles/2656508569
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 2,000 / 195B㎡ (전용145.91B) · 32/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656638929/ / 원문 https://fin.land.naver.com/articles/2656638929
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 6억 9,000 / 162A㎡ (전용120.48A) · 38/55층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656638524/ / 원문 https://fin.land.naver.com/articles/2656638524
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 전세 5억 3,000 / 162C㎡ (전용120.78C) · 41/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656256753/ / 원문 https://fin.land.naver.com/articles/2656256753
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 5억 9,000 / 130A㎡ (전용94.44A) · 43/55층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656259169/ / 원문 https://fin.land.naver.com/articles/2656259169
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 / 228㎡ (전용170.72) · 6/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656219599/ / 원문 https://fin.land.naver.com/articles/2656219599
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 7억 1,000 / 162A㎡ (전용120.48A) · 28/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656259898/ / 원문 https://fin.land.naver.com/articles/2656259898
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 월세 1억/300 / 228㎡ (전용170.72) · 17/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656255978/ / 원문 https://fin.land.naver.com/articles/2656255978
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 3,000 / 195B㎡ (전용145.91B) · 42/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656232622/ / 원문 https://fin.land.naver.com/articles/2656232622
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 9,000 / 130A㎡ (전용94.44A) · 16/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656231374/ / 원문 https://fin.land.naver.com/articles/2656231374
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 13억 / 228㎡ (전용170.72) · 47/51층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656219253/ / 원문 https://fin.land.naver.com/articles/2656219253
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 전세 4억 8,000 / 130B㎡ (전용95.5B) · 21/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656257611/ / 원문 https://fin.land.naver.com/articles/2656257611
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 8,000 / 195A㎡ (전용145.82A) · 12/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656231987/ / 원문 https://fin.land.naver.com/articles/2656231987
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 / 162B㎡ (전용119.17B) · 35/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656234444/ / 원문 https://fin.land.naver.com/articles/2656234444
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 3,000 / 130B㎡ (전용95.5B) · 38/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656235824/ / 원문 https://fin.land.naver.com/articles/2656235824
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 전세 3억 3,000 / 80A㎡ (전용59.9A) · 고/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657408678/ / 원문 https://fin.land.naver.com/articles/2657408678
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 5억 6,000 / 130B㎡ (전용95.5B) · 고/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657223366/ / 원문 https://fin.land.naver.com/articles/2657223366
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 7억 1,000 / 162A㎡ (전용120.48A) · 53/55층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655905631/ / 원문 https://fin.land.naver.com/articles/2655905631
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 6억 9,000 / 162C㎡ (전용120.78C) · 36/54층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655800406/ / 원문 https://fin.land.naver.com/articles/2655800406
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 6억 7,000 / 162A㎡ (전용120.48A) · 25/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655791077/ / 원문 https://fin.land.naver.com/articles/2655791077
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 12억 2,000 / 228㎡ (전용170.72) · 50/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655789200/ / 원문 https://fin.land.naver.com/articles/2655789200
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 8,000 / 81B㎡ (전용59.92B) · 24/55층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655803003/ / 원문 https://fin.land.naver.com/articles/2655803003
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 8억 4,000 / 162C㎡ (전용120.78C) · 중/59층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656984010/ / 원문 https://fin.land.naver.com/articles/2656984010
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 7,000 / 228㎡ (전용170.72) · 저/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656968060/ / 원문 https://fin.land.naver.com/articles/2656968060
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 4,000 / 80A㎡ (전용59.9A) · 저/55층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2657156754/ / 원문 https://fin.land.naver.com/articles/2657156754
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 5억 1,500 / 130A㎡ (전용94.44A) · 중/55층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656968571/ / 원문 https://fin.land.naver.com/articles/2656968571
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 13억 / 228㎡ (전용170.72) · 고/51층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656967653/ / 원문 https://fin.land.naver.com/articles/2656967653
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 5,000 / 162B㎡ (전용119.17B) · 고/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656968298/ / 원문 https://fin.land.naver.com/articles/2656968298
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 7억 5,000 / 162A㎡ (전용120.48A) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656982584/ / 원문 https://fin.land.naver.com/articles/2656982584
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 4,000 / 81B㎡ (전용59.92B) · 7/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655558580/ / 원문 https://fin.land.naver.com/articles/2655558580
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 5,000 / 162C㎡ (전용120.78C) · 4/54층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655521384/ / 원문 https://fin.land.naver.com/articles/2655521384
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 9,000 / 162C㎡ (전용120.78C) · 34/59층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655557715/ / 원문 https://fin.land.naver.com/articles/2655557715
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 8,000 / 162C㎡ (전용120.78C) · 6/59층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655563394/ / 원문 https://fin.land.naver.com/articles/2655563394
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 4억 8,000 / 81B㎡ (전용59.92B) · 3/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655559275/ / 원문 https://fin.land.naver.com/articles/2655559275
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 3,000 / 195A㎡ (전용145.82A) · 18/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655562661/ / 원문 https://fin.land.naver.com/articles/2655562661
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 6억 6,000 / 162A㎡ (전용120.48A) · 8/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655558353/ / 원문 https://fin.land.naver.com/articles/2655558353
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 5억 1,000 / 80A㎡ (전용59.9A) · 28/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655521162/ / 원문 https://fin.land.naver.com/articles/2655521162
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 전세 5억 5,000 / 195B㎡ (전용145.91B) · 고/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656780049/ / 원문 https://fin.land.naver.com/articles/2656780049
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 6억 9,000 / 162A㎡ (전용120.48A) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656770595/ / 원문 https://fin.land.naver.com/articles/2656770595
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 6,000 / 195B㎡ (전용145.91B) · 중/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656769441/ / 원문 https://fin.land.naver.com/articles/2656769441
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 6억 6,000 / 130B㎡ (전용95.5B) · 12/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655293713/ / 원문 https://fin.land.naver.com/articles/2655293713
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 9,000 / 162C㎡ (전용120.78C) · 34/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655292502/ / 원문 https://fin.land.naver.com/articles/2655292502
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 8,000 / 81B㎡ (전용59.92B) · 16/54층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655293230/ / 원문 https://fin.land.naver.com/articles/2655293230
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 7,000 / 162C㎡ (전용120.78C) · 41/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655300118/ / 원문 https://fin.land.naver.com/articles/2655300118
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 전세 4억 5,000 / 130B㎡ (전용95.5B) · 10/59층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655298487/ / 원문 https://fin.land.naver.com/articles/2655298487
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 10억 8,000 / 228㎡ (전용170.72) · 고/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656507472/ / 원문 https://fin.land.naver.com/articles/2656507472
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 6억 5,000 / 162A㎡ (전용120.48A) · 저/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656639042/ / 원문 https://fin.land.naver.com/articles/2656639042
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 6억 8,000 / 162C㎡ (전용120.78C) · 중/51층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656577315/ / 원문 https://fin.land.naver.com/articles/2656577315
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 9,000 / 81B㎡ (전용59.92B) · 고/55층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656509068/ / 원문 https://fin.land.naver.com/articles/2656509068
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 6억 / 130B㎡ (전용95.5B) · 9/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655067368/ / 원문 https://fin.land.naver.com/articles/2655067368
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 6,500 / 80A㎡ (전용59.9A) · 3/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655066368/ / 원문 https://fin.land.naver.com/articles/2655066368
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 2,000 / 130A㎡ (전용94.44A) · 36/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655065840/ / 원문 https://fin.land.naver.com/articles/2655065840
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 / 195A㎡ (전용145.82A) · 16/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655065523/ / 원문 https://fin.land.naver.com/articles/2655065523
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 6억 3,000 / 130B㎡ (전용95.5B) · 저/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656218262/ / 원문 https://fin.land.naver.com/articles/2656218262
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 5,000 / 195A㎡ (전용145.82A) · 저/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656216755/ / 원문 https://fin.land.naver.com/articles/2656216755
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 6억 / 130A㎡ (전용94.44A) · 중/55층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656261602/ / 원문 https://fin.land.naver.com/articles/2656261602
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 5,000 / 162C㎡ (전용120.78C) · 저/54층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656217942/ / 원문 https://fin.land.naver.com/articles/2656217942
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 6,000 / 195A㎡ (전용145.82A) · 중/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656235298/ / 원문 https://fin.land.naver.com/articles/2656235298
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 6억 5,000 / 130B㎡ (전용95.5B) · 고/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656217157/ / 원문 https://fin.land.naver.com/articles/2656217157
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 전세 3억 8,000 / 80A㎡ (전용59.9A) · 중/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656443752/ / 원문 https://fin.land.naver.com/articles/2656443752
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 10억 5,000 / 195A㎡ (전용145.82A) · 중/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656217516/ / 원문 https://fin.land.naver.com/articles/2656217516
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 6억 8,000 / 162A㎡ (전용120.48A) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656219916/ / 원문 https://fin.land.naver.com/articles/2656219916
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 전세 4억 9,000 / 162A㎡ (전용120.48A) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2656260773/ / 원문 https://fin.land.naver.com/articles/2656260773
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 5억 3,000 / 80A㎡ (전용59.9A) · 46/55층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654752596/ / 원문 https://fin.land.naver.com/articles/2654752596
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 7억 4,000 / 162C㎡ (전용120.78C) · 52/59층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654731330/ / 원문 https://fin.land.naver.com/articles/2654731330
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 9억 / 195A㎡ (전용145.82A) · 35/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654727491/ / 원문 https://fin.land.naver.com/articles/2654727491
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 6억 5,000 / 130B㎡ (전용95.5B) · 47/51층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654862184/ / 원문 https://fin.land.naver.com/articles/2654862184
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 / 195B㎡ (전용145.91B) · 34/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654748564/ / 원문 https://fin.land.naver.com/articles/2654748564
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 9,000 / 195A㎡ (전용145.82A) · 47/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654734062/ / 원문 https://fin.land.naver.com/articles/2654734062
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 6억 5,000 / 130B㎡ (전용95.5B) · 5/57층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654728996/ / 원문 https://fin.land.naver.com/articles/2654728996
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 6억 7,000 / 162A㎡ (전용120.48A) · 24/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654753512/ / 원문 https://fin.land.naver.com/articles/2654753512
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 전세 6억 5,000 / 195A㎡ (전용145.82A) · 50/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654737163/ / 원문 https://fin.land.naver.com/articles/2654737163
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 2,000 / 162B㎡ (전용119.17B) · 34/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654755636/ / 원문 https://fin.land.naver.com/articles/2654755636
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 6억 5,000 / 130A㎡ (전용94.44A) · 32/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654732326/ / 원문 https://fin.land.naver.com/articles/2654732326
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 1,000 / 195A㎡ (전용145.82A) · 50/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654736383/ / 원문 https://fin.land.naver.com/articles/2654736383
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 7억 2,000 / 130B㎡ (전용95.5B) · 46/59층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654733153/ / 원문 https://fin.land.naver.com/articles/2654733153
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 5,000 / 162C㎡ (전용120.78C) · 3/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654728237/ / 원문 https://fin.land.naver.com/articles/2654728237
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 7억 / 162A㎡ (전용120.48A) · 저/55층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655816309/ / 원문 https://fin.land.naver.com/articles/2655816309
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 전세 6억 3,000 / 195A㎡ (전용145.82A) · 저/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655840432/ / 원문 https://fin.land.naver.com/articles/2655840432
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 6억 5,000 / 130A㎡ (전용94.44A) · 고/55층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655801811/ / 원문 https://fin.land.naver.com/articles/2655801811
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 6억 3,000 / 130A㎡ (전용94.44A) · 고/55층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655789435/ / 원문 https://fin.land.naver.com/articles/2655789435
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 2,000 / 162C㎡ (전용120.78C) · 고/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655929620/ / 원문 https://fin.land.naver.com/articles/2655929620
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 10억 5,000 / 195A㎡ (전용145.82A) · 고/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655792088/ / 원문 https://fin.land.naver.com/articles/2655792088
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 8,000 / 80A㎡ (전용59.9A) · 중/55층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655803629/ / 원문 https://fin.land.naver.com/articles/2655803629
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 / 228㎡ (전용170.72) · 17/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654359842/ / 원문 https://fin.land.naver.com/articles/2654359842
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 2,000 / 130B㎡ (전용95.5B) · 21/59층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654362279/ / 원문 https://fin.land.naver.com/articles/2654362279
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 8억 / 162A㎡ (전용120.48A) · 고/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655519622/ / 원문 https://fin.land.naver.com/articles/2655519622
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 8억 / 195A㎡ (전용145.82A) · 저/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655532948/ / 원문 https://fin.land.naver.com/articles/2655532948
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 2,000 / 162C㎡ (전용120.78C) · 중/57층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655523293/ / 원문 https://fin.land.naver.com/articles/2655523293
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 6억 2,000 / 130B㎡ (전용95.5B) · 고/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655521832/ / 원문 https://fin.land.naver.com/articles/2655521832
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 5억 1,000 / 80A㎡ (전용59.9A) · 고/55층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655521625/ / 원문 https://fin.land.naver.com/articles/2655521625
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 2,000 / 195B㎡ (전용145.91B) · 고/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655520809/ / 원문 https://fin.land.naver.com/articles/2655520809
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 9억 / 228㎡ (전용170.72) · 저/51층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655520195/ / 원문 https://fin.land.naver.com/articles/2655520195
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 6,500 / 80A㎡ (전용59.9A) · 중/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655532371/ / 원문 https://fin.land.naver.com/articles/2655532371
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 6억 3,000 / 130B㎡ (전용95.5B) · 중/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655522618/ / 원문 https://fin.land.naver.com/articles/2655522618
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 4억 8,000 / 81B㎡ (전용59.92B) · 중/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655520577/ / 원문 https://fin.land.naver.com/articles/2655520577
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 11억 2,000 / 228㎡ (전용170.72) · 고/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655520406/ / 원문 https://fin.land.naver.com/articles/2655520406
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 5,000 / 195B㎡ (전용145.91B) · 저/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655522351/ / 원문 https://fin.land.naver.com/articles/2655522351
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 5,000 / 162B㎡ (전용119.17B) · 중/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655659647/ / 원문 https://fin.land.naver.com/articles/2655659647
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 7억 / 162C㎡ (전용120.78C) · 중/51층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655520016/ / 원문 https://fin.land.naver.com/articles/2655520016
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 6억 8,000 / 162B㎡ (전용119.17B) · 27/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654135526/ / 원문 https://fin.land.naver.com/articles/2654135526
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 9,000 / 130A㎡ (전용94.44A) · 27/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654193856/ / 원문 https://fin.land.naver.com/articles/2654193856
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 6,000 / 228㎡ (전용170.72) · 9/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654099173/ / 원문 https://fin.land.naver.com/articles/2654099173
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 6억 1,000 / 130A㎡ (전용94.44A) · 25/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654117185/ / 원문 https://fin.land.naver.com/articles/2654117185
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 5,000 / 195A㎡ (전용145.82A) · 53/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654119726/ / 원문 https://fin.land.naver.com/articles/2654119726
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 1,000 / 162C㎡ (전용120.78C) · 50/57층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654122870/ / 원문 https://fin.land.naver.com/articles/2654122870
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 8,000 / 195A㎡ (전용145.82A) · 32/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654100769/ / 원문 https://fin.land.naver.com/articles/2654100769
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 8,000 / 162B㎡ (전용119.17B) · 49/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654095478/ / 원문 https://fin.land.naver.com/articles/2654095478
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 9,000 / 228㎡ (전용170.72) · 28/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654095192/ / 원문 https://fin.land.naver.com/articles/2654095192
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 전세 6억 5,000 / 195A㎡ (전용145.82A) · 중/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655299560/ / 원문 https://fin.land.naver.com/articles/2655299560
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 / 228㎡ (전용170.72) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655295291/ / 원문 https://fin.land.naver.com/articles/2655295291
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 7억 / 162C㎡ (전용120.78C) · 중/51층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655244869/ / 원문 https://fin.land.naver.com/articles/2655244869
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 / 228㎡ (전용170.72) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655295039/ / 원문 https://fin.land.naver.com/articles/2655295039
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 9억 / 195A㎡ (전용145.82A) · 중/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655321032/ / 원문 https://fin.land.naver.com/articles/2655321032
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 / 228㎡ (전용170.72) · 15/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653975443/ / 원문 https://fin.land.naver.com/articles/2653975443
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 5,000 / 228㎡ (전용170.72) · 53/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653844808/ / 원문 https://fin.land.naver.com/articles/2653844808
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 5,000 / 195A㎡ (전용145.82A) · 20/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653845203/ / 원문 https://fin.land.naver.com/articles/2653845203
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 5,000 / 130B㎡ (전용95.5B) · 10/59층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653847846/ / 원문 https://fin.land.naver.com/articles/2653847846
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 6억 9,000 / 162B㎡ (전용119.17B) · 12/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653854874/ / 원문 https://fin.land.naver.com/articles/2653854874
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 8억 / 195A㎡ (전용145.82A) · 고/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655193813/ / 원문 https://fin.land.naver.com/articles/2655193813
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 4억 9,000 / 81B㎡ (전용59.92B) · 중/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655069374/ / 원문 https://fin.land.naver.com/articles/2655069374
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 5,000 / 162B㎡ (전용119.17B) · 중/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2655060460/ / 원문 https://fin.land.naver.com/articles/2655060460
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 8,000 / 195A㎡ (전용145.82A) · 32/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653561451/ / 원문 https://fin.land.naver.com/articles/2653561451
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 1,500 / 130B㎡ (전용95.5B) · 25/59층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653600938/ / 원문 https://fin.land.naver.com/articles/2653600938
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 12억 / 228㎡ (전용170.72) · 49/51층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653557050/ / 원문 https://fin.land.naver.com/articles/2653557050
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 7억 5,000 / 195A㎡ (전용145.82A) · 22/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653783360/ / 원문 https://fin.land.naver.com/articles/2653783360
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 8억 8,000 / 228㎡ (전용170.72) · 6/51층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653598980/ / 원문 https://fin.land.naver.com/articles/2653598980
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 1,000 / 195A㎡ (전용145.82A) · 8/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653599566/ / 원문 https://fin.land.naver.com/articles/2653599566
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 3,000 / 195B㎡ (전용145.91B) · 19/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653560951/ / 원문 https://fin.land.naver.com/articles/2653560951
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 10억 / 228㎡ (전용170.72) · 27/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653602457/ / 원문 https://fin.land.naver.com/articles/2653602457
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 5,000 / 80A㎡ (전용59.9A) · 45/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653637899/ / 원문 https://fin.land.naver.com/articles/2653637899
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 6,000 / 228㎡ (전용170.72) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654749888/ / 원문 https://fin.land.naver.com/articles/2654749888
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 7,000 / 162C㎡ (전용120.78C) · 저/59층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654947125/ / 원문 https://fin.land.naver.com/articles/2654947125
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 7억 2,000 / 162A㎡ (전용120.48A) · 중/55층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654756599/ / 원문 https://fin.land.naver.com/articles/2654756599
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 6억 5,000 / 130B㎡ (전용95.5B) · 저/57층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654728651/ / 원문 https://fin.land.naver.com/articles/2654728651
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 7억 1,000 / 162A㎡ (전용120.48A) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654729522/ / 원문 https://fin.land.naver.com/articles/2654729522
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 9억 / 195A㎡ (전용145.82A) · 중/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654743246/ / 원문 https://fin.land.naver.com/articles/2654743246
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 6,000 / 228㎡ (전용170.72) · 중/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654750689/ / 원문 https://fin.land.naver.com/articles/2654750689
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 6억 5,000 / 130B㎡ (전용95.5B) · 중/51층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654729967/ / 원문 https://fin.land.naver.com/articles/2654729967
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 / 81B㎡ (전용59.92B) · 중/54층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654727807/ / 원문 https://fin.land.naver.com/articles/2654727807
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 전세 4억 8,000 / 130B㎡ (전용95.5B) · 고/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654360926/ / 원문 https://fin.land.naver.com/articles/2654360926
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 5,000 / 162C㎡ (전용120.78C) · 중/57층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654385803/ / 원문 https://fin.land.naver.com/articles/2654385803
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 5,000 / 195A㎡ (전용145.82A) · 28/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652971722/ / 원문 https://fin.land.naver.com/articles/2652971722
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 8,500 / 80A㎡ (전용59.9A) · 51/55층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652970070/ / 원문 https://fin.land.naver.com/articles/2652970070
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 9,800 / 195B㎡ (전용145.91B) · 17/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652968650/ / 원문 https://fin.land.naver.com/articles/2652968650
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 5,000 / 130B㎡ (전용95.5B) · 34/59층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653061949/ / 원문 https://fin.land.naver.com/articles/2653061949
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 전세 5억 3,000 / 130B㎡ (전용95.5B) · 고/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654128113/ / 원문 https://fin.land.naver.com/articles/2654128113
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 6억 4,000 / 130A㎡ (전용94.44A) · 중/55층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654099498/ / 원문 https://fin.land.naver.com/articles/2654099498
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 6억 / 130A㎡ (전용94.44A) · 저/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654097030/ / 원문 https://fin.land.naver.com/articles/2654097030
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 9억 / 195A㎡ (전용145.82A) · 고/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654097754/ / 원문 https://fin.land.naver.com/articles/2654097754
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 7,000 / 81B㎡ (전용59.92B) · 저/55층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654098713/ / 원문 https://fin.land.naver.com/articles/2654098713
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 1,000 / 162B㎡ (전용119.17B) · 고/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654098351/ / 원문 https://fin.land.naver.com/articles/2654098351
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 7,000 / 81B㎡ (전용59.92B) · 중/55층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654230685/ / 원문 https://fin.land.naver.com/articles/2654230685
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 7억 3,000 / 162C㎡ (전용120.78C) · 저/59층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654097381/ / 원문 https://fin.land.naver.com/articles/2654097381
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 7억 5,000 / 162C㎡ (전용120.78C) · 저/59층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654096567/ / 원문 https://fin.land.naver.com/articles/2654096567
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 8억 5,000 / 162C㎡ (전용120.78C) · 중/57층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654100409/ / 원문 https://fin.land.naver.com/articles/2654100409
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 / 162B㎡ (전용119.17B) · 저/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654131715/ / 원문 https://fin.land.naver.com/articles/2654131715
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 6억 3,000 / 130B㎡ (전용95.5B) · 중/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654130809/ / 원문 https://fin.land.naver.com/articles/2654130809
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 9,000 / 130B㎡ (전용95.5B) · 고/59층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654095872/ / 원문 https://fin.land.naver.com/articles/2654095872
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 / 195A㎡ (전용145.82A) · 고/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654133957/ / 원문 https://fin.land.naver.com/articles/2654133957
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 5,000 / 130B㎡ (전용95.5B) · 고/54층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654096285/ / 원문 https://fin.land.naver.com/articles/2654096285
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 9억 / 228㎡ (전용170.72) · 저/51층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654101212/ / 원문 https://fin.land.naver.com/articles/2654101212
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 / 80A㎡ (전용59.9A) · 중/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2654098122/ / 원문 https://fin.land.naver.com/articles/2654098122
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 5억 5,000 / 130A㎡ (전용94.44A) · 35/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652708352/ / 원문 https://fin.land.naver.com/articles/2652708352
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 7억 / 130B㎡ (전용95.5B) · 36/51층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652699239/ / 원문 https://fin.land.naver.com/articles/2652699239
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 8,000 / 195B㎡ (전용145.91B) · 10/53층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652723323/ / 원문 https://fin.land.naver.com/articles/2652723323
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 9억 / 162B㎡ (전용119.17B) · 32/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652725985/ / 원문 https://fin.land.naver.com/articles/2652725985
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 / 195B㎡ (전용145.91B) · 15/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652699698/ / 원문 https://fin.land.naver.com/articles/2652699698
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 5억 8,000 / 130B㎡ (전용95.5B) · 18/59층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652873050/ / 원문 https://fin.land.naver.com/articles/2652873050
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 4억 6,000 / 81B㎡ (전용59.92B) · 저/54층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653846656/ / 원문 https://fin.land.naver.com/articles/2653846656
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 5억 7,000 / 130A㎡ (전용94.44A) · 45/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652453907/ / 원문 https://fin.land.naver.com/articles/2652453907
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 6억 6,000 / 162A㎡ (전용120.48A) · 고/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653584285/ / 원문 https://fin.land.naver.com/articles/2653584285
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 7억 / 162A㎡ (전용120.48A) · 고/53층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653568561/ / 원문 https://fin.land.naver.com/articles/2653568561
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 6억 5,000 / 162C㎡ (전용120.78C) · 중/54층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653372658/ / 원문 https://fin.land.naver.com/articles/2653372658
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 4억 9,000 / 81B㎡ (전용59.92B) · 저/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653556465/ / 원문 https://fin.land.naver.com/articles/2653556465
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 7,000 / 195A㎡ (전용145.82A) · 중/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653567919/ / 원문 https://fin.land.naver.com/articles/2653567919
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 8,000 / 80A㎡ (전용59.9A) · 저/55층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653567026/ / 원문 https://fin.land.naver.com/articles/2653567026
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 6억 8,000 / 162C㎡ (전용120.78C) · 4/51층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652207151/ / 원문 https://fin.land.naver.com/articles/2652207151
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 9억 1,000 / 195A㎡ (전용145.82A) · 고/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653376012/ / 원문 https://fin.land.naver.com/articles/2653376012
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 5억 6,000 / 130B㎡ (전용95.5B) · 중/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653372592/ / 원문 https://fin.land.naver.com/articles/2653372592
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 7억 8,000 / 130B㎡ (전용95.5B) · 중/59층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2653372365/ / 원문 https://fin.land.naver.com/articles/2653372365
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 7,000 / 195A㎡ (전용145.82A) · 38/57층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651855543/ / 원문 https://fin.land.naver.com/articles/2651855543
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 7억 9,000 / 195B㎡ (전용145.91B) · 50/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651860028/ / 원문 https://fin.land.naver.com/articles/2651860028
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 6억 5,000 / 130B㎡ (전용95.5B) · 27/54층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651877989/ / 원문 https://fin.land.naver.com/articles/2651877989
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 5억 6,000 / 130A㎡ (전용94.44A) · 34/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651844409/ / 원문 https://fin.land.naver.com/articles/2651844409
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 7억 8,000 / 195A㎡ (전용145.82A) · 저/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652974985/ / 원문 https://fin.land.naver.com/articles/2652974985
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 5억 8,500 / 130B㎡ (전용95.5B) · 고/57층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652973800/ / 원문 https://fin.land.naver.com/articles/2652973800
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 6,000 / 195A㎡ (전용145.82A) · 중/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652975522/ / 원문 https://fin.land.naver.com/articles/2652975522
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 7억 8,000 / 195A㎡ (전용145.82A) · 저/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652713253/ / 원문 https://fin.land.naver.com/articles/2652713253
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 6,500 / 81B㎡ (전용59.92B) · 중/55층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652709148/ / 원문 https://fin.land.naver.com/articles/2652709148
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 6억 5,000 / 162C㎡ (전용120.78C) · 저/54층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652710661/ / 원문 https://fin.land.naver.com/articles/2652710661
+- 일산두산위브더제니스(주상복합) 108동 / 아파트 / 매매 7억 2,000 / 162C㎡ (전용120.78C) · 중/51층 · 북서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652698470/ / 원문 https://fin.land.naver.com/articles/2652698470
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 6억 5,000 / 162C㎡ (전용120.78C) · 저/59층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652709689/ / 원문 https://fin.land.naver.com/articles/2652709689
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 7억 3,000 / 162A㎡ (전용120.48A) · 고/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652445387/ / 원문 https://fin.land.naver.com/articles/2652445387
+- 일산두산위브더제니스(주상복합) 106동 / 아파트 / 매매 8억 5,000 / 195A㎡ (전용145.82A) · 22/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651490064/ / 원문 https://fin.land.naver.com/articles/2651490064
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 4억 5,000 / 80A㎡ (전용59.9A) · 중/55층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652205545/ / 원문 https://fin.land.naver.com/articles/2652205545
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 5억 9,000 / 130A㎡ (전용94.44A) · 중/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2652199553/ / 원문 https://fin.land.naver.com/articles/2652199553
+- 일산두산위브더제니스(주상복합) 101동 / 아파트 / 매매 5억 3,000 / 81B㎡ (전용59.92B) · 고/53층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651847358/ / 원문 https://fin.land.naver.com/articles/2651847358
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 / 195B㎡ (전용145.91B) · 고/53층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651846285/ / 원문 https://fin.land.naver.com/articles/2651846285
+- 일산두산위브더제니스(주상복합) 102동 / 아파트 / 매매 7억 9,000 / 162A㎡ (전용120.48A) · 고/54층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651843519/ / 원문 https://fin.land.naver.com/articles/2651843519
+- 일산두산위브더제니스(주상복합) 104동 / 아파트 / 매매 7억 5,000 / 162C㎡ (전용120.78C) · 중/57층 · 북동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651848970/ / 원문 https://fin.land.naver.com/articles/2651848970
+- 일산두산위브더제니스(주상복합) 107동 / 아파트 / 매매 8억 3,000 / 195B㎡ (전용145.91B) · 저/53층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651864786/ / 원문 https://fin.land.naver.com/articles/2651864786
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 7억 4,000 / 162A㎡ (전용120.48A) · 중/55층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651856173/ / 원문 https://fin.land.naver.com/articles/2651856173
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 8억 5,000 / 195A㎡ (전용145.82A) · 고/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651862781/ / 원문 https://fin.land.naver.com/articles/2651862781
+- 일산두산위브더제니스(주상복합) 105동 / 아파트 / 매매 8억 3,000 / 195A㎡ (전용145.82A) · 고/59층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651845016/ / 원문 https://fin.land.naver.com/articles/2651845016
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 6억 2,000 / 130A㎡ (전용94.44A) · 중/55층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651848371/ / 원문 https://fin.land.naver.com/articles/2651848371
+- 일산두산위브더제니스(주상복합) 103동 / 아파트 / 매매 8억 / 162A㎡ (전용120.48A) · 고/55층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/gyeonggi-zenith/listings/2651946375/ / 원문 https://fin.land.naver.com/articles/2651946375
