@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# 모든 HTML은 제작 미리보기로 noindex 설정됨
