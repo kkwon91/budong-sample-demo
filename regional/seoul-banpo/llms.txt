@@ -1,209 +1,74 @@
 # 반포타운공인중개사사무소
 
-> 제작 미리보기. 공개 정보와 2026-10-23 매물 자료를 바탕으로 구성했으며 자동 갱신 전입니다.
-
-- 중개소: 반포타운공인중개사사무소
 - 대표: 배정임
-- 소재지: 서울특별시 서초구 반포동 20-45 반포자이플라자 상가동 1층 127호
 - 전화: 02-537-2600
-- 주력 단지: 반포자이
-- 전체 등록 매물: 163건
-- 취급 단지·지역: 반포자이 (아파트, 127건), 메이플자이 (아파트, 12건), 반포리체 (아파트, 7건), 삼호가든맨션5차 (재건축, 2건), 동아 (아파트, 2건), 아크로리버뷰신반포 (아파트, 2건), 반포래미안아이파크 (아파트, 2건), 현대8차 (재건축, 1건), 반포써밋 (아파트, 1건), 용산더프라임(주상복합) (아파트, 1건), 반포푸르지오 (아파트, 1건), 롯데캐슬클래식 (아파트, 1건), 반포동 단지내상가 (상가점포, 1건), 반포센트럴자이 (아파트, 1건), 화양동 빌딩 (빌딩, 1건), 신장동 기타 (기타, 1건)
-- 네이버 원문: https://fin.land.naver.com/realtors/banpotown2600
-- 단지 세대수: 3410
+- 개설등록번호: 11650-2016-00119
+- 소재지: 서울특별시 서초구 반포동 20-45 반포자이플라자 상가동 1층 127호
+- 자료 확인: 2026-10-29
+- 확인된 공개 매물: 184건
+- 자동 갱신 전. 가격과 거래 가능 상태는 원문·중개소 확인 필요.
+- 네이버 중개소: https://fin.land.naver.com/realtors/banpotown2600
+
+## 주요 페이지
+- [반포타운공인중개사사무소 | 반포자이·메이플자이 매매·전세·월세](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/)
+- [등록 매물 184건 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/)
+- [반포타운 취급 단지·지역](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/)
+- [반포자이 집 찾기·상담 안내 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/stories/)
+- [반포타운 위치·전화·대표자 | 중개소 소개](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/about/)
+- [자료·사진 출처 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/sources/)
+- [반포자이 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/banpo-xi/)
+- [메이플자이 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/maple-xi-apartment/)
+- [반포리체 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/banpo-riche-apartment/)
+- [삼호가든맨션5차 재건축 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/samho-garden-5-reconstruction/)
+- [아크로리버뷰신반포 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/acro-riverview-apartment/)
+- [반포미도1차 재건축 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-e555b765d6/)
+- [롯데캐슬클래식 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-8a0ede3d8a/)
+- [반포센트럴자이 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/central-xi-apartment/)
+- [반포써밋 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/banpo-summit-apartment/)
+- [삼풍 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-9a61076d01/)
+- [디에이치반포라클라스 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-7d2030642d/)
+- [신반포7차 재건축 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-fccead37b7/)
+- [화양동 빌딩 빌딩 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-17c7f8c2cb/)
+- [반포푸르지오 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-d2652e2184/)
+- [현대8차 재건축 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-d1e29ca2c6/)
+- [반포동 나인반포 상가점포 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-5c5e8e6510/)
+- [용산더프라임(주상복합) 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-28388931cf/)
+- [동아 아파트 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-3c9c0e0716/)
+- [신장동 기타 기타 매물 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/complex/area-89d65f6d72/)
+- [반포자이, 이사 전에 알아둘 단지 정보 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/stories/complex-guide/)
+- [반포자이 전세를 찾을 때 먼저 정할 세 가지 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/stories/banpo-jeonse/)
+- [반포자이 매매, 가격 옆에 함께 봐야 할 정보 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/stories/listing-check/)
+- [반포자이 밖의 집도 함께 찾고 있다면 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/stories/nearby-complexes/)
+- [반포타운 위치와 전화번호, 방문 전 확인할 것 | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/stories/visit-guide/)
+- [반포자이 집을 내놓으려면 무엇을 알려주면 되나요? | 반포타운](https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/stories/sell-my-home/)
 
 ## 질문과 답변
-### 반포타운공인중개사사무소의 전체 매물은 어디서 볼 수 있나요?
-반포타운공인중개사사무소의 매물 메뉴에 확인 시점의 네이버 등록 매물 163건을 모두 모았습니다. 주력 단지 외의 취급 단지와 지역도 함께 살펴볼 수 있습니다. 각 매물에는 네이버 원문 링크가 연결되어 있습니다. 가격과 거래 가능 여부는 원문과 중개소에서 다시 확인해 주세요.
+### 반포자이 매물을 상담할 수 있는 중개소인가요?
+반포타운공인중개사사무소는 반포자이플라자 상가동 1층 127호에 있으며 반포자이의 매매·전세·월세 매물을 등록하고 있습니다. 대표 배정임, 상담 전화는 02-537-2600입니다.
 
-### 반포자이는 몇 세대인가요?
-반포자이는 3,410세대, 44개 동으로 구성돼 있습니다. 단지 기본 정보는 리치고 단지 자료를 기준으로 안내합니다.
+### 반포자이 전세·월세 매물은 어디서 보나요?
+반포자이 단지 페이지나 전체 매물 메뉴에서 전세·월세 필터를 선택해 볼 수 있습니다. 예산, 전용면적, 입주 희망일과 관심 매물번호를 알려주시면 상담에 도움이 됩니다.
 
-### 반포자이 사용승인일은 언제인가요?
-단지 자료에 기재된 사용승인일은 2009.03.13입니다. 사용승인일과 개별 세대의 실제 입주일은 다를 수 있습니다.
+### 중개사무소의 등록 정보는 무엇인가요?
+상호는 반포타운공인중개사사무소, 대표는 배정임, 개설등록번호는 11650-2016-00119입니다. 중개소 소개 페이지에서 확인 출처와 연락처를 함께 볼 수 있습니다.
 
-### 반포자이 주차 공간은 어느 정도인가요?
-단지 자료상 총 6,075대, 세대당 1.78대입니다. 방문 차량 등록과 주차비 등 현재 운영 규정은 관리사무소 확인이 필요합니다.
+### 표시된 매매 가격이 실제 시세인가요?
+표시 가격은 개별 매물의 네이버 등록 호가입니다. 실제 계약 가격이나 단지 전체 시세와는 다를 수 있으며, 현재 조건은 원문과 중개소에서 다시 확인해야 합니다.
 
-### 반포자이 난방 방식은 무엇인가요?
-단지 기본 정보상 지역난방입니다. 세대별 관리비와 사용량은 개별 매물 상담 때 확인해 주세요.
+### 반포자이 외에도 취급하는 단지가 있나요?
+메이플자이, 반포리체, 반포써밋 등 확인된 주변 단지·지역의 매물을 함께 제공합니다. 취급 단지 메뉴에서 단지별 목록으로 이동할 수 있습니다.
 
-### 반포타운공인중개사사무소는 어디에 있나요?
-네이버 중개소 프로필에 등록된 주소는 서울특별시 서초구 반포동 20-45 반포자이플라자 상가동 1층 127호입니다. 오시는 길 메뉴에서 지도 검색과 중개소 원문으로 이동할 수 있습니다.
+### 반포자이 집을 내놓고 싶으면 어디로 연락하나요?
+02-537-2600으로 전화해 단지명, 거래 종류, 면적, 희망 가격과 입주 가능 시기를 알려주세요. 사진과 설명의 공개 범위는 중개소와 확인해 주세요.
 
-### 매물 상담은 어떻게 하나요?
-02-537-2600로 전화하시거나 네이버 중개소 페이지에서 문의하실 수 있습니다. 관심 매물 번호, 희망 예산과 입주 시기를 함께 알려주시면 상담에 도움이 됩니다.
+### 중개보수와 상담 조건은 어떻게 확인하나요?
+개별 거래 조건에 따라 사전에 중개소에 문의해 주세요. 홈페이지에서는 확인되지 않은 할인이나 최저 보수를 약속하지 않습니다.
 
-### 전세·월세도 확인할 수 있나요?
-매물 메뉴의 거래 종류 필터로 나누어 볼 수 있습니다. 단지·지역과 매물 유형도 함께 선택할 수 있습니다. 월세는 보증금과 월 임대료를 함께 표시합니다.
+### 사무실 위치와 대표 전화번호를 알려주세요.
+서울특별시 서초구 반포동 20-45 반포자이플라자 상가동 1층 127호입니다. 대표 전화는 02-537-2600이며 지도 길찾기는 중개소 소개 페이지에 있습니다.
 
-### 집을 보러 가기 전에 무엇을 준비하면 좋나요?
-희망하는 전용면적, 예산, 입주 날짜와 관심 매물 번호를 정리해 주세요. 실제 방문 가능 시간은 중개소와 미리 조율하는 것이 좋습니다.
+### 영업시간과 방문 주차는 어떻게 되나요?
+정기 영업시간과 주차 운영 기준은 현재 확인된 자료만으로 확정하지 않았습니다. 방문 전 중개소에 상담 시간과 차량 이용 여부를 알려주고 안내받아 주세요.
 
-### 가격과 매물 정보는 언제 기준인가요?
-이 홈페이지 미리보기에는 2026.10.23에 확인한 네이버 전체 등록 매물 163건이 표시됩니다. 자동 갱신 전의 자료입니다. 이후 가격 변경·거래 완료가 생길 수 있으므로 네이버 원문에서 최신 상태를 확인해 주세요.
-
-## 확인 시점의 전체 등록 매물
-- 반포자이 101동 / 아파트 / 매매 50억 / 116B㎡ (전용84.99B) · 5/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657220202/ / 원문 https://fin.land.naver.com/articles/2657220202
-- 반포자이 127동 / 아파트 / 매매 72억 / 232B㎡ (전용194.69B) · 17/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657221306/ / 원문 https://fin.land.naver.com/articles/2657221306
-- 반포자이 120동 / 아파트 / 매매 71억 / 200A㎡ (전용165.44A) · 23/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657382957/ / 원문 https://fin.land.naver.com/articles/2657382957
-- 반포자이 102동 / 아파트 / 매매 60억 / 165A㎡ (전용132.43A) · 6/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657219704/ / 원문 https://fin.land.naver.com/articles/2657219704
-- 삼호가든맨션5차 501동 / 재건축 / 매매 47억 / 179㎡ (전용153.54) · 4/14층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657221418/ / 원문 https://fin.land.naver.com/articles/2657221418
-- 반포자이 112동 / 아파트 / 매매 80억 / 232B㎡ (전용194.69B) · 21/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657256307/ / 원문 https://fin.land.naver.com/articles/2657256307
-- 반포자이 143동 / 아파트 / 매매 45억 / 116D㎡ (전용84.98D) · 17/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657220805/ / 원문 https://fin.land.naver.com/articles/2657220805
-- 반포자이 113동 / 아파트 / 매매 74억 / 297㎡ (전용244.54) · 1/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657407312/ / 원문 https://fin.land.naver.com/articles/2657407312
-- 메이플자이 106동 / 아파트 / 매매 65억 / 155A1㎡ (전용124.42A1) · 4/32층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656951489/ / 원문 https://fin.land.naver.com/articles/2656951489
-- 반포자이 116동 / 아파트 / 매매 85억 / 264㎡ (전용216.49) · 17/28층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656987058/ / 원문 https://fin.land.naver.com/articles/2656987058
-- 반포자이 103동 / 아파트 / 매매 52억 / 116A㎡ (전용84.94A) · 25/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656951624/ / 원문 https://fin.land.naver.com/articles/2656951624
-- 메이플자이 212동 / 아파트 / 매매 60억 / 111B1㎡ (전용84.84B1) · 24/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656952037/ / 원문 https://fin.land.naver.com/articles/2656952037
-- 반포자이 115동 / 아파트 / 전세 34억 / 264㎡ (전용216.49) · 9/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656951228/ / 원문 https://fin.land.naver.com/articles/2656951228
-- 메이플자이 211동 / 아파트 / 매매 44억 / 83A㎡ (전용59.16A) · 21/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656951933/ / 원문 https://fin.land.naver.com/articles/2656951933
-- 반포자이 109동 / 아파트 / 전세 19억 / 116D㎡ (전용84.98D) · 저/29층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657221239/ / 원문 https://fin.land.naver.com/articles/2657221239
-- 반포자이 112동 / 아파트 / 매매 70억 / 232B㎡ (전용194.69B) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657221237/ / 원문 https://fin.land.naver.com/articles/2657221237
-- 반포자이 130동 / 아파트 / 매매 46억 / 116B㎡ (전용84.99B) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657221482/ / 원문 https://fin.land.naver.com/articles/2657221482
-- 반포자이 127동 / 아파트 / 매매 72억 / 232B㎡ (전용194.69B) · 중/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657221366/ / 원문 https://fin.land.naver.com/articles/2657221366
-- 반포자이 131동 / 아파트 / 매매 37억 / 84B㎡ (전용59.97B) · 고/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657219756/ / 원문 https://fin.land.naver.com/articles/2657219756
-- 반포자이 109동 / 아파트 / 월세 16억/160 / 116D㎡ (전용84.98D) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657220737/ / 원문 https://fin.land.naver.com/articles/2657220737
-- 동아 106동 / 아파트 / 월세 1억 5,000/280 / 86㎡ (전용59.92) · 17/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655903409/ / 원문 https://fin.land.naver.com/articles/2655903409
-- 반포리체 104동 / 아파트 / 전세 17억 / 113B㎡ (전용84.96B) · 중/35층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656951134/ / 원문 https://fin.land.naver.com/articles/2656951134
-- 현대8차 92동 / 재건축 / 매매 75억 / 177㎡ (전용163.67) · 고/12층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657220129/ / 원문 https://fin.land.naver.com/articles/2657220129
-- 반포자이 114동 / 아파트 / 매매 90억 / 297㎡ (전용244.54) · 저/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656987609/ / 원문 https://fin.land.naver.com/articles/2656987609
-- 반포써밋 102동 / 아파트 / 월세 2억/650 / 110C㎡ (전용84.68C) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657384375/ / 원문 https://fin.land.naver.com/articles/2657384375
-- 반포자이 122동 / 아파트 / 매매 64억 / 199B㎡ (전용165.05B) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657155266/ / 원문 https://fin.land.naver.com/articles/2657155266
-- 반포자이 104동 / 아파트 / 매매 63억 5,000 / 166B㎡ (전용132.17B) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656987729/ / 원문 https://fin.land.naver.com/articles/2656987729
-- 반포자이 102동 / 아파트 / 매매 63억 / 166B㎡ (전용132.17B) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656986790/ / 원문 https://fin.land.naver.com/articles/2656986790
-- 반포자이 123동 / 아파트 / 매매 52억 / 116A㎡ (전용84.94A) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656987486/ / 원문 https://fin.land.naver.com/articles/2656987486
-- 메이플자이 110동 / 아파트 / 전세 23억 / 110A1㎡ (전용84.25A1) · 17/28층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655509641/ / 원문 https://fin.land.naver.com/articles/2655509641
-- 아크로리버뷰신반포 105동 / 아파트 / 전세 19억 5,000 / 117B㎡ (전용84.82B) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656920497/ / 원문 https://fin.land.naver.com/articles/2656920497
-- 용산더프라임(주상복합) 101동 / 아파트 / 매매 27억 5,000 / 194㎡ (전용142.9) · 고/38층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656951352/ / 원문 https://fin.land.naver.com/articles/2656951352
-- 반포푸르지오 102동 / 아파트 / 매매 29억 5,000 / 76B㎡ (전용59.91B) · 고/12층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656951026/ / 원문 https://fin.land.naver.com/articles/2656951026
-- 롯데캐슬클래식 106동 / 아파트 / 매매 38억 9,000 / 142㎡ (전용120.18) · 중/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656951779/ / 원문 https://fin.land.naver.com/articles/2656951779
-- 반포자이 129동 / 아파트 / 매매 75억 / 232A㎡ (전용194.51A) · 중/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656600191/ / 원문 https://fin.land.naver.com/articles/2656600191
-- 삼호가든맨션5차 501동 / 재건축 / 매매 49억 / 179㎡ (전용153.54) · 13/14층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655204134/ / 원문 https://fin.land.naver.com/articles/2655204134
-- 아크로리버뷰신반포 105동 / 아파트 / 전세 19억 5,000 / 117B㎡ (전용84.82B) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656176889/ / 원문 https://fin.land.naver.com/articles/2656176889
-- 반포자이 109동 / 아파트 / 전세 17억 / 116C㎡ (전용84.98C) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657223406/ / 원문 https://fin.land.naver.com/articles/2657223406
-- 반포자이 107동 / 아파트 / 매매 47억 / 116A㎡ (전용84.94A) · 중/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224216/ / 원문 https://fin.land.naver.com/articles/2657224216
-- 반포자이 134동 / 아파트 / 매매 35억 / 84A㎡ (전용59.98A) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657225494/ / 원문 https://fin.land.naver.com/articles/2657225494
-- 반포자이 120동 / 아파트 / 매매 57억 / 200A㎡ (전용165.44A) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657225394/ / 원문 https://fin.land.naver.com/articles/2657225394
-- 반포자이 138동 / 아파트 / 매매 42억 / 116C㎡ (전용84.98C) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657227722/ / 원문 https://fin.land.naver.com/articles/2657227722
-- 반포자이 117동 / 아파트 / 전세 35억 / 264㎡ (전용216.49) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224187/ / 원문 https://fin.land.naver.com/articles/2657224187
-- 반포자이 103동 / 아파트 / 전세 18억 / 116B㎡ (전용84.99B) · 중/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657223050/ / 원문 https://fin.land.naver.com/articles/2657223050
-- 반포리체 106동 / 아파트 / 매매 33억 / 84B㎡ (전용59.99B) · 중/35층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224171/ / 원문 https://fin.land.naver.com/articles/2657224171
-- 반포자이 138동 / 아파트 / 매매 41억 5,000 / 116C㎡ (전용84.98C) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657239645/ / 원문 https://fin.land.naver.com/articles/2657239645
-- 반포자이 112동 / 아파트 / 매매 68억 / 232A㎡ (전용194.51A) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657247931/ / 원문 https://fin.land.naver.com/articles/2657247931
-- 반포자이 101동 / 아파트 / 매매 47억 / 116A㎡ (전용84.94A) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224174/ / 원문 https://fin.land.naver.com/articles/2657224174
-- 반포자이 132동 / 아파트 / 매매 35억 5,000 / 84B㎡ (전용59.97B) · 고/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657408946/ / 원문 https://fin.land.naver.com/articles/2657408946
-- 반포자이 130동 / 아파트 / 매매 42억 / 116A㎡ (전용84.94A) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657408944/ / 원문 https://fin.land.naver.com/articles/2657408944
-- 반포자이 122동 / 아파트 / 월세 15억/600 / 200A㎡ (전용165.44A) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657238903/ / 원문 https://fin.land.naver.com/articles/2657238903
-- 반포자이 112동 / 아파트 / 매매 63억 / 232A㎡ (전용194.51A) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224885/ / 원문 https://fin.land.naver.com/articles/2657224885
-- 반포자이 125동 / 아파트 / 매매 43억 / 116B㎡ (전용84.99B) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224205/ / 원문 https://fin.land.naver.com/articles/2657224205
-- 반포자이 106동 / 아파트 / 매매 46억 / 116A㎡ (전용84.94A) · 저/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657223058/ / 원문 https://fin.land.naver.com/articles/2657223058
-- 반포자이 110동 / 아파트 / 매매 47억 / 116A㎡ (전용84.94A) · 중/26층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657408945/ / 원문 https://fin.land.naver.com/articles/2657408945
-- 반포자이 131동 / 아파트 / 매매 35억 / 84B㎡ (전용59.97B) · 중/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657223045/ / 원문 https://fin.land.naver.com/articles/2657223045
-- 반포자이 110동 / 아파트 / 매매 47억 / 116A㎡ (전용84.94A) · 중/26층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224204/ / 원문 https://fin.land.naver.com/articles/2657224204
-- 반포자이 138동 / 아파트 / 매매 41억 7,000 / 116D㎡ (전용84.98D) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224875/ / 원문 https://fin.land.naver.com/articles/2657224875
-- 반포자이 113동 / 아파트 / 매매 69억 / 297㎡ (전용244.54) · 저/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657221131/ / 원문 https://fin.land.naver.com/articles/2657221131
-- 반포자이 109동 / 아파트 / 매매 46억 / 116C㎡ (전용84.98C) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657223053/ / 원문 https://fin.land.naver.com/articles/2657223053
-- 반포자이 122동 / 아파트 / 매매 60억 / 200A㎡ (전용165.44A) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657225396/ / 원문 https://fin.land.naver.com/articles/2657225396
-- 반포자이 118동 / 아파트 / 매매 58억 / 165A㎡ (전용132.43A) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657223414/ / 원문 https://fin.land.naver.com/articles/2657223414
-- 반포리체 106동 / 아파트 / 매매 32억 5,000 / 84A㎡ (전용59.99A) · 저/35층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657340376/ / 원문 https://fin.land.naver.com/articles/2657340376
-- 반포자이 103동 / 아파트 / 매매 47억 / 116A㎡ (전용84.94A) · 고/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657406660/ / 원문 https://fin.land.naver.com/articles/2657406660
-- 반포자이 127동 / 아파트 / 매매 65억 / 232A㎡ (전용194.51A) · 고/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657258818/ / 원문 https://fin.land.naver.com/articles/2657258818
-- 반포자이 141동 / 아파트 / 매매 43억 / 116A㎡ (전용84.94A) · 중/28층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657408947/ / 원문 https://fin.land.naver.com/articles/2657408947
-- 반포자이 102동 / 아파트 / 매매 58억 / 166B㎡ (전용132.17B) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657229975/ / 원문 https://fin.land.naver.com/articles/2657229975
-- 반포자이 137동 / 아파트 / 전세 16억 / 116A㎡ (전용84.94A) · 고/28층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657224185/ / 원문 https://fin.land.naver.com/articles/2657224185
-- 반포자이 101동 / 아파트 / 매매 45억 / 116B㎡ (전용84.99B) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657025155/ / 원문 https://fin.land.naver.com/articles/2657025155
-- 반포자이 114동 / 아파트 / 매매 72억 / 297㎡ (전용244.54) · 중/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657037231/ / 원문 https://fin.land.naver.com/articles/2657037231
-- 반포자이 129동 / 아파트 / 매매 63억 / 232A㎡ (전용194.51A) · 저/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657034249/ / 원문 https://fin.land.naver.com/articles/2657034249
-- 반포자이 137동 / 아파트 / 전세 16억 5,000 / 116A㎡ (전용84.94A) · 중/28층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656954489/ / 원문 https://fin.land.naver.com/articles/2656954489
-- 반포자이 121동 / 아파트 / 매매 57억 / 200A㎡ (전용165.44A) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657135904/ / 원문 https://fin.land.naver.com/articles/2657135904
-- 반포자이 103동 / 아파트 / 매매 47억 / 116B㎡ (전용84.99B) · 중/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657086057/ / 원문 https://fin.land.naver.com/articles/2657086057
-- 반포자이 105동 / 아파트 / 매매 58억 / 165A㎡ (전용132.43A) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657018237/ / 원문 https://fin.land.naver.com/articles/2657018237
-- 반포자이 129동 / 아파트 / 매매 90억 / 301B㎡ (전용244.97B) · 고/27층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657038527/ / 원문 https://fin.land.naver.com/articles/2657038527
-- 반포자이 114동 / 아파트 / 매매 70억 / 297㎡ (전용244.54) · 저/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657145744/ / 원문 https://fin.land.naver.com/articles/2657145744
-- 반포자이 115동 / 아파트 / 전세 36억 / 264㎡ (전용216.49) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657024512/ / 원문 https://fin.land.naver.com/articles/2657024512
-- 반포자이 106동 / 아파트 / 매매 48억 / 116A㎡ (전용84.94A) · 고/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657036803/ / 원문 https://fin.land.naver.com/articles/2657036803
-- 반포자이 137동 / 아파트 / 매매 42억 / 116A㎡ (전용84.94A) · 고/28층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657023242/ / 원문 https://fin.land.naver.com/articles/2657023242
-- 반포자이 138동 / 아파트 / 전세 15억 8,000 / 116D㎡ (전용84.98D) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656955078/ / 원문 https://fin.land.naver.com/articles/2656955078
-- 반포자이 114동 / 아파트 / 매매 80억 / 297㎡ (전용244.54) · 고/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657057228/ / 원문 https://fin.land.naver.com/articles/2657057228
-- 반포자이 142동 / 아파트 / 매매 35억 7,000 / 84A㎡ (전용59.98A) · 고/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657033446/ / 원문 https://fin.land.naver.com/articles/2657033446
-- 반포자이 104동 / 아파트 / 매매 57억 / 165A㎡ (전용132.43A) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657033600/ / 원문 https://fin.land.naver.com/articles/2657033600
-- 반포자이 128동 / 아파트 / 매매 65억 / 232B㎡ (전용194.69B) · 중/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657158406/ / 원문 https://fin.land.naver.com/articles/2657158406
-- 반포자이 117동 / 아파트 / 매매 70억 / 264㎡ (전용216.49) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657025047/ / 원문 https://fin.land.naver.com/articles/2657025047
-- 반포자이 110동 / 아파트 / 매매 53억 / 116A㎡ (전용84.94A) · 중/26층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657049069/ / 원문 https://fin.land.naver.com/articles/2657049069
-- 반포자이 143동 / 아파트 / 매매 41억 5,000 / 116C㎡ (전용84.98C) · 중/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657114063/ / 원문 https://fin.land.naver.com/articles/2657114063
-- 반포자이 136동 / 아파트 / 매매 43억 / 116A㎡ (전용84.94A) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657028612/ / 원문 https://fin.land.naver.com/articles/2657028612
-- 반포자이 132동 / 아파트 / 매매 34억 / 84A㎡ (전용59.98A) · 저/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657037430/ / 원문 https://fin.land.naver.com/articles/2657037430
-- 반포자이 102동 / 아파트 / 매매 58억 / 165A㎡ (전용132.43A) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657036283/ / 원문 https://fin.land.naver.com/articles/2657036283
-- 반포자이 140동 / 아파트 / 매매 41억 8,000 / 116D㎡ (전용84.98D) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657034535/ / 원문 https://fin.land.naver.com/articles/2657034535
-- 반포래미안아이파크 109동 / 아파트 / 매매 39억 / 113A㎡ (전용84.93A) · 중/34층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655509183/ / 원문 https://fin.land.naver.com/articles/2655509183
-- 반포자이 140동 / 아파트 / 전세 16억 / 116C㎡ (전용84.98C) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657025250/ / 원문 https://fin.land.naver.com/articles/2657025250
-- 반포자이 122동 / 아파트 / 매매 58억 / 200A㎡ (전용165.44A) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657025506/ / 원문 https://fin.land.naver.com/articles/2657025506
-- 반포자이 104동 / 아파트 / 전세 25억 / 165A㎡ (전용132.43A) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657038846/ / 원문 https://fin.land.naver.com/articles/2657038846
-- 반포자이 125동 / 아파트 / 매매 43억 / 116A㎡ (전용84.94A) · 중/28층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657024259/ / 원문 https://fin.land.naver.com/articles/2657024259
-- 반포자이 137동 / 아파트 / 월세 5억/480 / 116A㎡ (전용84.94A) · 중/28층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656954497/ / 원문 https://fin.land.naver.com/articles/2656954497
-- 반포자이 121동 / 아파트 / 매매 58억 / 200A㎡ (전용165.44A) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656954059/ / 원문 https://fin.land.naver.com/articles/2656954059
-- 반포자이 116동 / 아파트 / 매매 67억 / 264㎡ (전용216.49) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657162294/ / 원문 https://fin.land.naver.com/articles/2657162294
-- 반포리체 105동 / 아파트 / 매매 45억 / 132㎡ (전용106.14) · 중/35층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656956157/ / 원문 https://fin.land.naver.com/articles/2656956157
-- 반포자이 126동 / 아파트 / 매매 75억 / 297㎡ (전용244.54) · 고/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657152667/ / 원문 https://fin.land.naver.com/articles/2657152667
-- 반포자이 119동 / 아파트 / 매매 60억 / 200A㎡ (전용165.44A) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656953850/ / 원문 https://fin.land.naver.com/articles/2656953850
-- 반포자이 143동 / 아파트 / 매매 41억 5,000 / 116D㎡ (전용84.98D) · 고/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656992845/ / 원문 https://fin.land.naver.com/articles/2656992845
-- 반포자이 115동 / 아파트 / 매매 66억 / 264㎡ (전용216.49) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657037951/ / 원문 https://fin.land.naver.com/articles/2657037951
-- 반포자이 109동 / 아파트 / 매매 47억 / 116C㎡ (전용84.98C) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657023948/ / 원문 https://fin.land.naver.com/articles/2657023948
-- 반포자이 111동 / 아파트 / 매매 67억 / 232B㎡ (전용194.69B) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657024738/ / 원문 https://fin.land.naver.com/articles/2657024738
-- 반포자이 111동 / 아파트 / 매매 63억 / 232A㎡ (전용194.51A) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657046805/ / 원문 https://fin.land.naver.com/articles/2657046805
-- 반포자이 140동 / 아파트 / 매매 41억 5,000 / 116C㎡ (전용84.98C) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657023584/ / 원문 https://fin.land.naver.com/articles/2657023584
-- 반포자이 108동 / 아파트 / 매매 46억 / 116A㎡ (전용84.94A) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657030660/ / 원문 https://fin.land.naver.com/articles/2657030660
-- 반포자이 130동 / 아파트 / 전세 15억 5,000 / 116A㎡ (전용84.94A) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657039664/ / 원문 https://fin.land.naver.com/articles/2657039664
-- 메이플자이 110동 / 아파트 / 월세 20억/120 / 110A1㎡ (전용84.25A1) · 중/28층 · 남서향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655509496/ / 원문 https://fin.land.naver.com/articles/2655509496
-- 반포리체 101동 / 아파트 / 매매 39억 / 113B㎡ (전용84.96B) · 저/32층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656956147/ / 원문 https://fin.land.naver.com/articles/2656956147
-- 반포자이 130동 / 아파트 / 매매 47억 / 116A㎡ (전용84.94A) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657113634/ / 원문 https://fin.land.naver.com/articles/2657113634
-- 반포자이 121동 / 아파트 / 매매 58억 / 200A㎡ (전용165.44A) · 고/29층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657116447/ / 원문 https://fin.land.naver.com/articles/2657116447
-- 반포자이 110동 / 아파트 / 매매 48억 / 116A㎡ (전용84.94A) · 고/26층 · 남동향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657036504/ / 원문 https://fin.land.naver.com/articles/2657036504
-- 반포자이 115동 / 아파트 / 매매 66억 / 264㎡ (전용216.49) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2657029860/ / 원문 https://fin.land.naver.com/articles/2657029860
-- 메이플자이 211동 / 아파트 / 매매 38억 / 85B㎡ (전용59.53B) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656735613/ / 원문 https://fin.land.naver.com/articles/2656735613
-- 반포자이 142동 / 아파트 / 전세 13억 / 84A㎡ (전용59.98A) · 고/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656702178/ / 원문 https://fin.land.naver.com/articles/2656702178
-- 동아 106동 / 아파트 / 매매 33억 / 86㎡ (전용59.92) · 고/20층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656821203/ / 원문 https://fin.land.naver.com/articles/2656821203
-- 반포자이 106동 / 아파트 / 월세 2억/650 / 116A㎡ (전용84.94A) · 저/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656784548/ / 원문 https://fin.land.naver.com/articles/2656784548
-- 반포자이 106동 / 아파트 / 전세 18억 / 116A㎡ (전용84.94A) · 고/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656744661/ / 원문 https://fin.land.naver.com/articles/2656744661
-- 반포자이 131동 / 아파트 / 전세 12억 / 84B㎡ (전용59.97B) · 중/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656747721/ / 원문 https://fin.land.naver.com/articles/2656747721
-- 반포자이 140동 / 아파트 / 월세 7억/400 / 116C㎡ (전용84.98C) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656784879/ / 원문 https://fin.land.naver.com/articles/2656784879
-- 반포자이 112동 / 아파트 / 매매 100억 / 301B㎡ (전용244.97B) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656742175/ / 원문 https://fin.land.naver.com/articles/2656742175
-- 반포자이 138동 / 아파트 / 매매 45억 / 116C㎡ (전용84.98C) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655439213/ / 원문 https://fin.land.naver.com/articles/2655439213
-- 메이플자이 201동 / 아파트 / 매매 68억 / 167B1㎡ (전용135.51B1) · 저/32층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656735623/ / 원문 https://fin.land.naver.com/articles/2656735623
-- 메이플자이 105동 / 아파트 / 매매 49억 / 110A1㎡ (전용84.25A1) · 고/35층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656735614/ / 원문 https://fin.land.naver.com/articles/2656735614
-- 반포자이 130동 / 아파트 / 매매 47억 / 116A㎡ (전용84.94A) · 고/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656503432/ / 원문 https://fin.land.naver.com/articles/2656503432
-- 반포자이 134동 / 아파트 / 전세 12억 5,000 / 84A㎡ (전용59.98A) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656686005/ / 원문 https://fin.land.naver.com/articles/2656686005
-- 메이플자이 207동 / 아파트 / 매매 49억 / 111B3㎡ (전용84.84B3) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656504331/ / 원문 https://fin.land.naver.com/articles/2656504331
-- 반포자이 109동 / 아파트 / 전세 18억 / 116C㎡ (전용84.98C) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656528027/ / 원문 https://fin.land.naver.com/articles/2656528027
-- 반포자이 134동 / 아파트 / 매매 35억 / 84A㎡ (전용59.98A) · 중/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656528040/ / 원문 https://fin.land.naver.com/articles/2656528040
-- 반포리체 104동 / 아파트 / 매매 40억 / 113B㎡ (전용84.96B) · 중/35층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656504880/ / 원문 https://fin.land.naver.com/articles/2656504880
-- 반포자이 127동 / 아파트 / 매매 90억 / 301A㎡ (전용244.62A) · 고/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656504911/ / 원문 https://fin.land.naver.com/articles/2656504911
-- 반포자이 109동 / 아파트 / 매매 48억 / 116C㎡ (전용84.98C) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656526280/ / 원문 https://fin.land.naver.com/articles/2656526280
-- 반포래미안아이파크 107동 / 아파트 / 전세 16억 / 113A㎡ (전용84.93A) · 중/25층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654708386/ / 원문 https://fin.land.naver.com/articles/2654708386
-- 반포자이 142동 / 아파트 / 매매 35억 / 84A㎡ (전용59.98A) · 저/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656227349/ / 원문 https://fin.land.naver.com/articles/2656227349
-- 반포자이 138동 / 아파트 / 월세 12억/160 / 116D㎡ (전용84.98D) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656221458/ / 원문 https://fin.land.naver.com/articles/2656221458
-- 반포자이 142동 / 아파트 / 전세 12억 / 84A㎡ (전용59.98A) · 저/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656227250/ / 원문 https://fin.land.naver.com/articles/2656227250
-- 반포자이 110동 / 아파트 / 전세 17억 / 116A㎡ (전용84.94A) · 중/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2656314929/ / 원문 https://fin.land.naver.com/articles/2656314929
-- 반포자이 103동 / 아파트 / 매매 52억 / 116A㎡ (전용84.94A) · 25/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2653490497/ / 원문 https://fin.land.naver.com/articles/2653490497
-- 반포리체 101동 / 아파트 / 매매 47억 / 132㎡ (전용106.14) · 중/32층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654109722/ / 원문 https://fin.land.naver.com/articles/2654109722
-- 반포동 단지내상가 / 상가점포 / 월세 1억/600 / 2026.08(1년차) · 계약110.19㎡ (전용45.78) · 1/5층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2653033362/ / 원문 https://fin.land.naver.com/articles/2653033362
-- 반포자이 126동 / 아파트 / 매매 75억 / 297㎡ (전용244.54) · 중/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655292834/ / 원문 https://fin.land.naver.com/articles/2655292834
-- 반포자이 142동 / 아파트 / 월세 10억/120 / 84A㎡ (전용59.98A) · 고/23층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655294287/ / 원문 https://fin.land.naver.com/articles/2655294287
-- 반포센트럴자이 101동 / 아파트 / 매매 45억 / 116B㎡ (전용84.95B) · 중/32층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2655289382/ / 원문 https://fin.land.naver.com/articles/2655289382
-- 화양동 빌딩 / 빌딩 / 매매 76억 / 1998.12(28년차) · 대지132.2㎡ (연면적171.4) · 2/B1층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2652580232/ / 원문 https://fin.land.naver.com/articles/2652580232
-- 반포자이 109동 / 아파트 / 전세 15억 / 116C㎡ (전용84.98C) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654738347/ / 원문 https://fin.land.naver.com/articles/2654738347
-- 메이플자이 207동 / 아파트 / 전세 18억 / 111B3㎡ (전용84.84B3) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654717039/ / 원문 https://fin.land.naver.com/articles/2654717039
-- 메이플자이 203동 / 아파트 / 매매 40억 / 83A㎡ (전용59.16A) · 중/19층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654741609/ / 원문 https://fin.land.naver.com/articles/2654741609
-- 메이플자이 204동 / 아파트 / 매매 50억 / 110A1㎡ (전용84.25A1) · 고/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654577900/ / 원문 https://fin.land.naver.com/articles/2654577900
-- 반포자이 122동 / 아파트 / 매매 60억 / 199B㎡ (전용165.05B) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654522964/ / 원문 https://fin.land.naver.com/articles/2654522964
-- 반포자이 105동 / 아파트 / 전세 25억 / 166B㎡ (전용132.17B) · 19/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2651696339/ / 원문 https://fin.land.naver.com/articles/2651696339
-- 반포자이 112동 / 아파트 / 월세 5억/920 / 232A㎡ (전용194.51A) · 저/28층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654309719/ / 원문 https://fin.land.naver.com/articles/2654309719
-- 신장동 기타 / 기타 / 매매 140억 / 1991.08(36년차) · 대지2281㎡ (연면적1613.46) · 2/-층 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2653028474/ / 원문 https://fin.land.naver.com/articles/2653028474
-- 반포자이 132동 / 아파트 / 전세 12억 / 84B㎡ (전용59.97B) · 고/26층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2654009152/ / 원문 https://fin.land.naver.com/articles/2654009152
-- 반포자이 113동 / 아파트 / 매매 69억 / 297㎡ (전용244.54) · 저/27층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2653672096/ / 원문 https://fin.land.naver.com/articles/2653672096
-- 반포자이 123동 / 아파트 / 매매 52억 / 116A㎡ (전용84.94A) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2651668724/ / 원문 https://fin.land.naver.com/articles/2651668724
-- 반포자이 102동 / 아파트 / 월세 20억/250 / 165A㎡ (전용132.43A) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2652058617/ / 원문 https://fin.land.naver.com/articles/2652058617
-- 반포자이 109동 / 아파트 / 월세 12억/200 / 116C㎡ (전용84.98C) · 고/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2652057470/ / 원문 https://fin.land.naver.com/articles/2652057470
-- 반포자이 119동 / 아파트 / 매매 59억 / 199B㎡ (전용165.05B) · 저/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2651830463/ / 원문 https://fin.land.naver.com/articles/2651830463
-- 반포자이 120동 / 아파트 / 매매 60억 / 200A㎡ (전용165.44A) · 중/29층 · 남향 / 상세 https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/listings/2651838154/ / 원문 https://fin.land.naver.com/articles/2651838154
+### 매물 정보는 언제 확인한 자료인가요?
+2026.10.29 네이버 화면에서 확인한 매물 184건입니다. 자동 갱신 전이므로 가격 변경이나 거래 완료가 즉시 반영되지는 않습니다. 상담 전 각 매물의 네이버 원문을 확인해 주세요.

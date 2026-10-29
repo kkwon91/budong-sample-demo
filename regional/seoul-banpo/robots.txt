@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://kkwon91.github.io/budong-sample-demo/regional/seoul-banpo/sitemap.xml
